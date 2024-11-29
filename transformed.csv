@@ -1,4 +1,4 @@
-,Area,Year,Qualifications of working age population (16-64),number,denominator,percent
+,Area,Year,Qualifications,number,denominator,percent
 0,City of London,2004,NVQ4+,3500,4300,80.6
 1,Barking and Dagenham,2004,NVQ4+,14300,101800,14.1
 2,Barnet,2004,NVQ4+,77100,206600,37.3
@@ -250,106 +250,106 @@
 252,England and Wales,2004,NVQ1 only,4833200,32945900,14.7
 253,Great Britain,2004,NVQ1 only,5186100,36127000,14.4
 254,United Kingdom,2004,NVQ1 only,5302800,37184400,14.3
-256,Barking and Dagenham,2004,with other qualifications,15300,101800,15.1
-257,Barnet,2004,with other qualifications,29300,206600,14.2
-258,Bexley,2004,with other qualifications,11700,134900,8.7
-259,Brent,2004,with other qualifications,41900,178400,23.5
-260,Bromley,2004,with other qualifications,12300,180500,6.8
-261,Camden,2004,with other qualifications,29200,145500,20.1
-262,Croydon,2004,with other qualifications,26200,213700,12.2
-263,Ealing,2004,with other qualifications,32300,208500,15.5
-264,Enfield,2004,with other qualifications,30000,178400,16.8
-265,Greenwich,2004,with other qualifications,18700,148700,12.5
-266,Hackney,2004,with other qualifications,25200,143600,17.5
-267,Hammersmith and Fulham,2004,with other qualifications,26000,123300,21.1
-268,Haringey,2004,with other qualifications,19400,155300,12.5
-269,Harrow,2004,with other qualifications,25800,139100,18.5
-270,Havering,2004,with other qualifications,13800,137900,10.0
-271,Hillingdon,2004,with other qualifications,22500,157700,14.3
-272,Hounslow,2004,with other qualifications,32100,147000,21.9
-273,Islington,2004,with other qualifications,14900,126700,11.8
-274,Kensington and Chelsea,2004,with other qualifications,34100,116200,29.4
-275,Kingston upon Thames,2004,with other qualifications,10300,101300,10.2
-276,Lambeth,2004,with other qualifications,33200,193400,17.2
-277,Lewisham,2004,with other qualifications,23800,170000,14.0
-278,Merton,2004,with other qualifications,21400,127200,16.8
-279,Newham,2004,with other qualifications,31900,166500,19.2
-280,Redbridge,2004,with other qualifications,24100,158000,15.3
-281,Richmond upon Thames,2004,with other qualifications,17600,119200,14.7
-282,Southwark,2004,with other qualifications,27300,177700,15.4
-283,Sutton,2004,with other qualifications,8100,114500,7.0
-284,Tower Hamlets,2004,with other qualifications,24900,143500,17.4
-285,Waltham Forest,2004,with other qualifications,21700,148300,14.7
-286,Wandsworth,2004,with other qualifications,25900,202600,12.8
-287,Westminster,2004,with other qualifications,45000,155700,28.9
-288,Inner London,2004,with other qualifications,360900,2024200,17.8
-289,Outer London,2004,with other qualifications,415100,2901700,14.3
-290,North East,2004,with other qualifications,98300,1566600,6.3
-291,North West,2004,with other qualifications,244800,4214800,5.8
-292,Yorkshire and The Humber,2004,with other qualifications,241900,3128600,7.7
-293,East Midlands,2004,with other qualifications,186900,2658400,7.0
-294,West Midlands,2004,with other qualifications,264100,3268800,8.1
-295,East,2004,with other qualifications,256300,3372900,7.6
-296,London,2004,with other qualifications,776000,4925900,15.8
-297,South East,2004,with other qualifications,387900,4997500,7.8
-298,South West,2004,with other qualifications,225000,3020400,7.4
-299,England,2004,with other qualifications,2681200,31153700,8.6
-300,Wales,2004,with other qualifications,134400,1792100,7.5
-301,Scotland,2004,with other qualifications,221600,3181100,7.0
-302,Northern Ireland,2004,with other qualifications,28200,1057400,2.7
-303,England and Wales,2004,with other qualifications,2815700,32945900,8.5
-304,Great Britain,2004,with other qualifications,3037300,36127000,8.4
-305,United Kingdom,2004,with other qualifications,3065500,37184400,8.2
-307,Barking and Dagenham,2004,with no qualifications,23100,101800,22.7
-308,Barnet,2004,with no qualifications,20300,206600,9.8
-309,Bexley,2004,with no qualifications,15100,134900,11.2
-310,Brent,2004,with no qualifications,32900,178400,18.4
-311,Bromley,2004,with no qualifications,17600,180500,9.8
-312,Camden,2004,with no qualifications,12600,145500,8.7
-313,Croydon,2004,with no qualifications,22600,213700,10.6
-314,Ealing,2004,with no qualifications,31900,208500,15.3
-315,Enfield,2004,with no qualifications,27200,178400,15.2
-316,Greenwich,2004,with no qualifications,24500,148700,16.5
-317,Hackney,2004,with no qualifications,32900,143600,22.9
-318,Hammersmith and Fulham,2004,with no qualifications,10600,123300,8.6
-319,Haringey,2004,with no qualifications,34500,155300,22.2
-320,Harrow,2004,with no qualifications,14100,139100,10.1
-321,Havering,2004,with no qualifications,20400,137900,14.8
-322,Hillingdon,2004,with no qualifications,22000,157700,14.0
-323,Hounslow,2004,with no qualifications,17700,147000,12.0
-324,Islington,2004,with no qualifications,22400,126700,17.7
-325,Kensington and Chelsea,2004,with no qualifications,9300,116200,8.0
-326,Kingston upon Thames,2004,with no qualifications,6900,101300,6.8
-327,Lambeth,2004,with no qualifications,34800,193400,18.0
-328,Lewisham,2004,with no qualifications,25000,170000,14.7
-329,Merton,2004,with no qualifications,11500,127200,9.1
-330,Newham,2004,with no qualifications,47300,166500,28.4
-331,Redbridge,2004,with no qualifications,24000,158000,15.2
-332,Richmond upon Thames,2004,with no qualifications,7900,119200,6.6
-333,Southwark,2004,with no qualifications,26600,177700,15.0
-334,Sutton,2004,with no qualifications,15000,114500,13.1
-335,Tower Hamlets,2004,with no qualifications,35200,143500,24.6
-336,Waltham Forest,2004,with no qualifications,28900,148300,19.5
-337,Wandsworth,2004,with no qualifications,15700,202600,7.7
-338,Westminster,2004,with no qualifications,18800,155700,12.1
-339,Inner London,2004,with no qualifications,325800,2024200,16.1
-340,Outer London,2004,with no qualifications,383700,2901700,13.2
-341,North East,2004,with no qualifications,268400,1566600,17.1
-342,North West,2004,with no qualifications,756400,4214800,17.9
-343,Yorkshire and The Humber,2004,with no qualifications,491600,3128600,15.7
-344,East Midlands,2004,with no qualifications,453700,2658400,17.1
-345,West Midlands,2004,with no qualifications,605100,3268800,18.5
-346,East,2004,with no qualifications,490100,3372900,14.5
-347,London,2004,with no qualifications,709500,4925900,14.4
-348,South East,2004,with no qualifications,541900,4997500,10.8
-349,South West,2004,with no qualifications,333100,3020400,11.0
-350,England,2004,with no qualifications,4649900,31153700,14.9
-351,Wales,2004,with no qualifications,312200,1792100,17.4
-352,Scotland,2004,with no qualifications,502500,3181100,15.8
-353,Northern Ireland,2004,with no qualifications,262400,1057400,24.8
-354,England and Wales,2004,with no qualifications,4962100,32945900,15.1
-355,Great Britain,2004,with no qualifications,5464600,36127000,15.1
-356,United Kingdom,2004,with no qualifications,5727000,37184400,15.4
+256,Barking and Dagenham,2004,other qualifications,15300,101800,15.1
+257,Barnet,2004,other qualifications,29300,206600,14.2
+258,Bexley,2004,other qualifications,11700,134900,8.7
+259,Brent,2004,other qualifications,41900,178400,23.5
+260,Bromley,2004,other qualifications,12300,180500,6.8
+261,Camden,2004,other qualifications,29200,145500,20.1
+262,Croydon,2004,other qualifications,26200,213700,12.2
+263,Ealing,2004,other qualifications,32300,208500,15.5
+264,Enfield,2004,other qualifications,30000,178400,16.8
+265,Greenwich,2004,other qualifications,18700,148700,12.5
+266,Hackney,2004,other qualifications,25200,143600,17.5
+267,Hammersmith and Fulham,2004,other qualifications,26000,123300,21.1
+268,Haringey,2004,other qualifications,19400,155300,12.5
+269,Harrow,2004,other qualifications,25800,139100,18.5
+270,Havering,2004,other qualifications,13800,137900,10.0
+271,Hillingdon,2004,other qualifications,22500,157700,14.3
+272,Hounslow,2004,other qualifications,32100,147000,21.9
+273,Islington,2004,other qualifications,14900,126700,11.8
+274,Kensington and Chelsea,2004,other qualifications,34100,116200,29.4
+275,Kingston upon Thames,2004,other qualifications,10300,101300,10.2
+276,Lambeth,2004,other qualifications,33200,193400,17.2
+277,Lewisham,2004,other qualifications,23800,170000,14.0
+278,Merton,2004,other qualifications,21400,127200,16.8
+279,Newham,2004,other qualifications,31900,166500,19.2
+280,Redbridge,2004,other qualifications,24100,158000,15.3
+281,Richmond upon Thames,2004,other qualifications,17600,119200,14.7
+282,Southwark,2004,other qualifications,27300,177700,15.4
+283,Sutton,2004,other qualifications,8100,114500,7.0
+284,Tower Hamlets,2004,other qualifications,24900,143500,17.4
+285,Waltham Forest,2004,other qualifications,21700,148300,14.7
+286,Wandsworth,2004,other qualifications,25900,202600,12.8
+287,Westminster,2004,other qualifications,45000,155700,28.9
+288,Inner London,2004,other qualifications,360900,2024200,17.8
+289,Outer London,2004,other qualifications,415100,2901700,14.3
+290,North East,2004,other qualifications,98300,1566600,6.3
+291,North West,2004,other qualifications,244800,4214800,5.8
+292,Yorkshire and The Humber,2004,other qualifications,241900,3128600,7.7
+293,East Midlands,2004,other qualifications,186900,2658400,7.0
+294,West Midlands,2004,other qualifications,264100,3268800,8.1
+295,East,2004,other qualifications,256300,3372900,7.6
+296,London,2004,other qualifications,776000,4925900,15.8
+297,South East,2004,other qualifications,387900,4997500,7.8
+298,South West,2004,other qualifications,225000,3020400,7.4
+299,England,2004,other qualifications,2681200,31153700,8.6
+300,Wales,2004,other qualifications,134400,1792100,7.5
+301,Scotland,2004,other qualifications,221600,3181100,7.0
+302,Northern Ireland,2004,other qualifications,28200,1057400,2.7
+303,England and Wales,2004,other qualifications,2815700,32945900,8.5
+304,Great Britain,2004,other qualifications,3037300,36127000,8.4
+305,United Kingdom,2004,other qualifications,3065500,37184400,8.2
+307,Barking and Dagenham,2004,no qualifications,23100,101800,22.7
+308,Barnet,2004,no qualifications,20300,206600,9.8
+309,Bexley,2004,no qualifications,15100,134900,11.2
+310,Brent,2004,no qualifications,32900,178400,18.4
+311,Bromley,2004,no qualifications,17600,180500,9.8
+312,Camden,2004,no qualifications,12600,145500,8.7
+313,Croydon,2004,no qualifications,22600,213700,10.6
+314,Ealing,2004,no qualifications,31900,208500,15.3
+315,Enfield,2004,no qualifications,27200,178400,15.2
+316,Greenwich,2004,no qualifications,24500,148700,16.5
+317,Hackney,2004,no qualifications,32900,143600,22.9
+318,Hammersmith and Fulham,2004,no qualifications,10600,123300,8.6
+319,Haringey,2004,no qualifications,34500,155300,22.2
+320,Harrow,2004,no qualifications,14100,139100,10.1
+321,Havering,2004,no qualifications,20400,137900,14.8
+322,Hillingdon,2004,no qualifications,22000,157700,14.0
+323,Hounslow,2004,no qualifications,17700,147000,12.0
+324,Islington,2004,no qualifications,22400,126700,17.7
+325,Kensington and Chelsea,2004,no qualifications,9300,116200,8.0
+326,Kingston upon Thames,2004,no qualifications,6900,101300,6.8
+327,Lambeth,2004,no qualifications,34800,193400,18.0
+328,Lewisham,2004,no qualifications,25000,170000,14.7
+329,Merton,2004,no qualifications,11500,127200,9.1
+330,Newham,2004,no qualifications,47300,166500,28.4
+331,Redbridge,2004,no qualifications,24000,158000,15.2
+332,Richmond upon Thames,2004,no qualifications,7900,119200,6.6
+333,Southwark,2004,no qualifications,26600,177700,15.0
+334,Sutton,2004,no qualifications,15000,114500,13.1
+335,Tower Hamlets,2004,no qualifications,35200,143500,24.6
+336,Waltham Forest,2004,no qualifications,28900,148300,19.5
+337,Wandsworth,2004,no qualifications,15700,202600,7.7
+338,Westminster,2004,no qualifications,18800,155700,12.1
+339,Inner London,2004,no qualifications,325800,2024200,16.1
+340,Outer London,2004,no qualifications,383700,2901700,13.2
+341,North East,2004,no qualifications,268400,1566600,17.1
+342,North West,2004,no qualifications,756400,4214800,17.9
+343,Yorkshire and The Humber,2004,no qualifications,491600,3128600,15.7
+344,East Midlands,2004,no qualifications,453700,2658400,17.1
+345,West Midlands,2004,no qualifications,605100,3268800,18.5
+346,East,2004,no qualifications,490100,3372900,14.5
+347,London,2004,no qualifications,709500,4925900,14.4
+348,South East,2004,no qualifications,541900,4997500,10.8
+349,South West,2004,no qualifications,333100,3020400,11.0
+350,England,2004,no qualifications,4649900,31153700,14.9
+351,Wales,2004,no qualifications,312200,1792100,17.4
+352,Scotland,2004,no qualifications,502500,3181100,15.8
+353,Northern Ireland,2004,no qualifications,262400,1057400,24.8
+354,England and Wales,2004,no qualifications,4962100,32945900,15.1
+355,Great Britain,2004,no qualifications,5464600,36127000,15.1
+356,United Kingdom,2004,no qualifications,5727000,37184400,15.4
 357,City of London,2005,NVQ4+,6200,8000,76.9
 358,Barking and Dagenham,2005,NVQ4+,16200,102400,15.8
 359,Barnet,2005,NVQ4+,84500,212000,39.9
@@ -591,102 +591,102 @@
 599,England and Wales,2005,NVQ1 only,4854900,33319400,14.6
 600,Great Britain,2005,NVQ1 only,5199000,36526100,14.2
 601,United Kingdom,2005,NVQ1 only,5318400,37597700,14.1
-603,Barking and Dagenham,2005,with other qualifications,14300,102400,13.9
-604,Barnet,2005,with other qualifications,32900,212000,15.5
-605,Bexley,2005,with other qualifications,11200,135400,8.3
-606,Brent,2005,with other qualifications,45200,180700,25.0
-607,Bromley,2005,with other qualifications,18500,183400,10.1
-608,Camden,2005,with other qualifications,21900,149100,14.7
-609,Croydon,2005,with other qualifications,24600,217000,11.3
-610,Ealing,2005,with other qualifications,47800,211700,22.6
-611,Enfield,2005,with other qualifications,21200,180000,11.8
-612,Greenwich,2005,with other qualifications,19900,151200,13.1
-613,Hackney,2005,with other qualifications,27200,145400,18.7
-614,Hammersmith and Fulham,2005,with other qualifications,17700,125100,14.1
-615,Haringey,2005,with other qualifications,27400,157300,17.4
-616,Harrow,2005,with other qualifications,31600,142200,22.2
-617,Havering,2005,with other qualifications,11600,138200,8.4
-618,Hillingdon,2005,with other qualifications,23600,160500,14.7
-619,Hounslow,2005,with other qualifications,26500,150100,17.7
-620,Islington,2005,with other qualifications,15900,130600,12.2
-621,Kensington and Chelsea,2005,with other qualifications,19500,119000,16.4
-622,Kingston upon Thames,2005,with other qualifications,15300,102400,15.0
-623,Lambeth,2005,with other qualifications,22800,196600,11.6
-624,Lewisham,2005,with other qualifications,31300,172800,18.1
-625,Merton,2005,with other qualifications,14300,128700,11.1
-626,Newham,2005,with other qualifications,34400,167000,20.6
-627,Redbridge,2005,with other qualifications,22200,159400,13.9
-628,Richmond upon Thames,2005,with other qualifications,14700,119200,12.3
-629,Southwark,2005,with other qualifications,17700,182900,9.7
-630,Sutton,2005,with other qualifications,7800,115600,6.8
-631,Tower Hamlets,2005,with other qualifications,27600,146500,18.9
-632,Waltham Forest,2005,with other qualifications,30900,149400,20.7
-633,Wandsworth,2005,with other qualifications,30600,205000,14.9
-634,Westminster,2005,with other qualifications,35600,160900,22.1
-635,North East,2005,with other qualifications,104500,1575200,6.6
-636,North West,2005,with other qualifications,266400,4250600,6.3
-637,Yorkshire and The Humber,2005,with other qualifications,258100,3167600,8.1
-638,East Midlands,2005,with other qualifications,216600,2691100,8.0
-639,West Midlands,2005,with other qualifications,265600,3299900,8.0
-640,East,2005,with other qualifications,269500,3414000,7.9
-641,London,2005,with other qualifications,764300,5005900,15.3
-642,South East,2005,with other qualifications,381500,5051900,7.6
-643,South West,2005,with other qualifications,244200,3061200,8.0
-644,England,2005,with other qualifications,2770500,31517400,8.8
-645,Wales,2005,with other qualifications,127600,1802000,7.1
-646,Scotland,2005,with other qualifications,218200,3206700,6.8
-647,Northern Ireland,2005,with other qualifications,36000,1071700,3.4
-648,England and Wales,2005,with other qualifications,2898100,33319400,8.7
-649,Great Britain,2005,with other qualifications,3116300,36526100,8.5
-650,United Kingdom,2005,with other qualifications,3152400,37597700,8.4
-652,Barking and Dagenham,2005,with no qualifications,24300,102400,23.8
-653,Barnet,2005,with no qualifications,21300,212000,10.1
-654,Bexley,2005,with no qualifications,16700,135400,12.3
-655,Brent,2005,with no qualifications,24000,180700,13.3
-656,Bromley,2005,with no qualifications,17300,183400,9.4
-657,Camden,2005,with no qualifications,11300,149100,7.6
-658,Croydon,2005,with no qualifications,24300,217000,11.2
-659,Ealing,2005,with no qualifications,20300,211700,9.6
-660,Enfield,2005,with no qualifications,24400,180000,13.6
-661,Greenwich,2005,with no qualifications,22500,151200,14.9
-662,Hackney,2005,with no qualifications,34900,145400,24.0
-663,Hammersmith and Fulham,2005,with no qualifications,13300,125100,10.6
-664,Haringey,2005,with no qualifications,24500,157300,15.6
-665,Harrow,2005,with no qualifications,12900,142200,9.1
-666,Havering,2005,with no qualifications,23700,138200,17.2
-667,Hillingdon,2005,with no qualifications,21300,160500,13.3
-668,Hounslow,2005,with no qualifications,18600,150100,12.4
-669,Islington,2005,with no qualifications,25200,130600,19.3
-670,Kensington and Chelsea,2005,with no qualifications,9600,119000,8.1
-671,Kingston upon Thames,2005,with no qualifications,10100,102400,9.9
-672,Lambeth,2005,with no qualifications,38700,196600,19.7
-673,Lewisham,2005,with no qualifications,23800,172800,13.8
-674,Merton,2005,with no qualifications,18400,128700,14.3
-675,Newham,2005,with no qualifications,38000,167000,22.7
-676,Redbridge,2005,with no qualifications,19400,159400,12.2
-677,Richmond upon Thames,2005,with no qualifications,7800,119200,6.6
-678,Southwark,2005,with no qualifications,41900,182900,22.9
-679,Sutton,2005,with no qualifications,13100,115600,11.3
-680,Tower Hamlets,2005,with no qualifications,33700,146500,23.0
-681,Waltham Forest,2005,with no qualifications,29900,149400,20.0
-682,Wandsworth,2005,with no qualifications,26300,205000,12.8
-683,Westminster,2005,with no qualifications,19100,160900,11.8
-684,North East,2005,with no qualifications,245900,1575200,15.6
-685,North West,2005,with no qualifications,729500,4250600,17.2
-686,Yorkshire and The Humber,2005,with no qualifications,501300,3167600,15.8
-687,East Midlands,2005,with no qualifications,405500,2691100,15.1
-688,West Midlands,2005,with no qualifications,587600,3299900,17.8
-689,East,2005,with no qualifications,456800,3414000,13.4
-690,London,2005,with no qualifications,710700,5005900,14.2
-691,South East,2005,with no qualifications,518900,5051900,10.3
-692,South West,2005,with no qualifications,308900,3061200,10.1
-693,England,2005,with no qualifications,4465100,31517400,14.2
-694,Wales,2005,with no qualifications,299400,1802000,16.6
-695,Scotland,2005,with no qualifications,474700,3206700,14.8
-696,Northern Ireland,2005,with no qualifications,253600,1071700,23.7
-697,England and Wales,2005,with no qualifications,4764500,33319400,14.3
-698,Great Britain,2005,with no qualifications,5239200,36526100,14.3
-699,United Kingdom,2005,with no qualifications,5492800,37597700,14.6
+603,Barking and Dagenham,2005,other qualifications,14300,102400,13.9
+604,Barnet,2005,other qualifications,32900,212000,15.5
+605,Bexley,2005,other qualifications,11200,135400,8.3
+606,Brent,2005,other qualifications,45200,180700,25.0
+607,Bromley,2005,other qualifications,18500,183400,10.1
+608,Camden,2005,other qualifications,21900,149100,14.7
+609,Croydon,2005,other qualifications,24600,217000,11.3
+610,Ealing,2005,other qualifications,47800,211700,22.6
+611,Enfield,2005,other qualifications,21200,180000,11.8
+612,Greenwich,2005,other qualifications,19900,151200,13.1
+613,Hackney,2005,other qualifications,27200,145400,18.7
+614,Hammersmith and Fulham,2005,other qualifications,17700,125100,14.1
+615,Haringey,2005,other qualifications,27400,157300,17.4
+616,Harrow,2005,other qualifications,31600,142200,22.2
+617,Havering,2005,other qualifications,11600,138200,8.4
+618,Hillingdon,2005,other qualifications,23600,160500,14.7
+619,Hounslow,2005,other qualifications,26500,150100,17.7
+620,Islington,2005,other qualifications,15900,130600,12.2
+621,Kensington and Chelsea,2005,other qualifications,19500,119000,16.4
+622,Kingston upon Thames,2005,other qualifications,15300,102400,15.0
+623,Lambeth,2005,other qualifications,22800,196600,11.6
+624,Lewisham,2005,other qualifications,31300,172800,18.1
+625,Merton,2005,other qualifications,14300,128700,11.1
+626,Newham,2005,other qualifications,34400,167000,20.6
+627,Redbridge,2005,other qualifications,22200,159400,13.9
+628,Richmond upon Thames,2005,other qualifications,14700,119200,12.3
+629,Southwark,2005,other qualifications,17700,182900,9.7
+630,Sutton,2005,other qualifications,7800,115600,6.8
+631,Tower Hamlets,2005,other qualifications,27600,146500,18.9
+632,Waltham Forest,2005,other qualifications,30900,149400,20.7
+633,Wandsworth,2005,other qualifications,30600,205000,14.9
+634,Westminster,2005,other qualifications,35600,160900,22.1
+635,North East,2005,other qualifications,104500,1575200,6.6
+636,North West,2005,other qualifications,266400,4250600,6.3
+637,Yorkshire and The Humber,2005,other qualifications,258100,3167600,8.1
+638,East Midlands,2005,other qualifications,216600,2691100,8.0
+639,West Midlands,2005,other qualifications,265600,3299900,8.0
+640,East,2005,other qualifications,269500,3414000,7.9
+641,London,2005,other qualifications,764300,5005900,15.3
+642,South East,2005,other qualifications,381500,5051900,7.6
+643,South West,2005,other qualifications,244200,3061200,8.0
+644,England,2005,other qualifications,2770500,31517400,8.8
+645,Wales,2005,other qualifications,127600,1802000,7.1
+646,Scotland,2005,other qualifications,218200,3206700,6.8
+647,Northern Ireland,2005,other qualifications,36000,1071700,3.4
+648,England and Wales,2005,other qualifications,2898100,33319400,8.7
+649,Great Britain,2005,other qualifications,3116300,36526100,8.5
+650,United Kingdom,2005,other qualifications,3152400,37597700,8.4
+652,Barking and Dagenham,2005,no qualifications,24300,102400,23.8
+653,Barnet,2005,no qualifications,21300,212000,10.1
+654,Bexley,2005,no qualifications,16700,135400,12.3
+655,Brent,2005,no qualifications,24000,180700,13.3
+656,Bromley,2005,no qualifications,17300,183400,9.4
+657,Camden,2005,no qualifications,11300,149100,7.6
+658,Croydon,2005,no qualifications,24300,217000,11.2
+659,Ealing,2005,no qualifications,20300,211700,9.6
+660,Enfield,2005,no qualifications,24400,180000,13.6
+661,Greenwich,2005,no qualifications,22500,151200,14.9
+662,Hackney,2005,no qualifications,34900,145400,24.0
+663,Hammersmith and Fulham,2005,no qualifications,13300,125100,10.6
+664,Haringey,2005,no qualifications,24500,157300,15.6
+665,Harrow,2005,no qualifications,12900,142200,9.1
+666,Havering,2005,no qualifications,23700,138200,17.2
+667,Hillingdon,2005,no qualifications,21300,160500,13.3
+668,Hounslow,2005,no qualifications,18600,150100,12.4
+669,Islington,2005,no qualifications,25200,130600,19.3
+670,Kensington and Chelsea,2005,no qualifications,9600,119000,8.1
+671,Kingston upon Thames,2005,no qualifications,10100,102400,9.9
+672,Lambeth,2005,no qualifications,38700,196600,19.7
+673,Lewisham,2005,no qualifications,23800,172800,13.8
+674,Merton,2005,no qualifications,18400,128700,14.3
+675,Newham,2005,no qualifications,38000,167000,22.7
+676,Redbridge,2005,no qualifications,19400,159400,12.2
+677,Richmond upon Thames,2005,no qualifications,7800,119200,6.6
+678,Southwark,2005,no qualifications,41900,182900,22.9
+679,Sutton,2005,no qualifications,13100,115600,11.3
+680,Tower Hamlets,2005,no qualifications,33700,146500,23.0
+681,Waltham Forest,2005,no qualifications,29900,149400,20.0
+682,Wandsworth,2005,no qualifications,26300,205000,12.8
+683,Westminster,2005,no qualifications,19100,160900,11.8
+684,North East,2005,no qualifications,245900,1575200,15.6
+685,North West,2005,no qualifications,729500,4250600,17.2
+686,Yorkshire and The Humber,2005,no qualifications,501300,3167600,15.8
+687,East Midlands,2005,no qualifications,405500,2691100,15.1
+688,West Midlands,2005,no qualifications,587600,3299900,17.8
+689,East,2005,no qualifications,456800,3414000,13.4
+690,London,2005,no qualifications,710700,5005900,14.2
+691,South East,2005,no qualifications,518900,5051900,10.3
+692,South West,2005,no qualifications,308900,3061200,10.1
+693,England,2005,no qualifications,4465100,31517400,14.2
+694,Wales,2005,no qualifications,299400,1802000,16.6
+695,Scotland,2005,no qualifications,474700,3206700,14.8
+696,Northern Ireland,2005,no qualifications,253600,1071700,23.7
+697,England and Wales,2005,no qualifications,4764500,33319400,14.3
+698,Great Britain,2005,no qualifications,5239200,36526100,14.3
+699,United Kingdom,2005,no qualifications,5492800,37597700,14.6
 700,City of London,2006,NVQ4+,2000,3400,56.6
 701,Barking and Dagenham,2006,NVQ4+,15200,102700,14.8
 702,Barnet,2006,NVQ4+,79300,213200,37.2
@@ -928,102 +928,102 @@
 942,England and Wales,2006,NVQ1 only,4800200,33699800,14.2
 943,Great Britain,2006,NVQ1 only,5137700,36926300,13.9
 944,United Kingdom,2006,NVQ1 only,5255600,38009100,13.8
-946,Barking and Dagenham,2006,with other qualifications,16500,102700,16.0
-947,Barnet,2006,with other qualifications,45700,213200,21.4
-948,Bexley,2006,with other qualifications,13900,136600,10.2
-949,Brent,2006,with other qualifications,52300,183400,28.5
-950,Bromley,2006,with other qualifications,16900,186000,9.1
-951,Camden,2006,with other qualifications,18300,149100,12.3
-952,Croydon,2006,with other qualifications,22900,221100,10.4
-953,Ealing,2006,with other qualifications,47800,213900,22.3
-954,Enfield,2006,with other qualifications,32500,181900,17.9
-955,Greenwich,2006,with other qualifications,15700,154500,10.2
-956,Hackney,2006,with other qualifications,20200,150800,13.4
-957,Hammersmith and Fulham,2006,with other qualifications,19000,127000,14.9
-958,Haringey,2006,with other qualifications,29200,160600,18.2
-959,Harrow,2006,with other qualifications,35000,144500,24.2
-960,Havering,2006,with other qualifications,14800,139200,10.7
-961,Hillingdon,2006,with other qualifications,25100,162300,15.5
-962,Hounslow,2006,with other qualifications,26700,154200,17.3
-963,Islington,2006,with other qualifications,12800,132500,9.6
-964,Kensington and Chelsea,2006,with other qualifications,24500,116700,21.0
-965,Kingston upon Thames,2006,with other qualifications,9900,104000,9.5
-966,Lambeth,2006,with other qualifications,24300,200400,12.1
-967,Lewisham,2006,with other qualifications,29100,175400,16.6
-968,Merton,2006,with other qualifications,20400,129900,15.7
-969,Newham,2006,with other qualifications,45500,171200,26.6
-970,Redbridge,2006,with other qualifications,28700,163200,17.6
-971,Richmond upon Thames,2006,with other qualifications,10200,122100,8.3
-972,Southwark,2006,with other qualifications,20500,188200,10.9
-973,Sutton,2006,with other qualifications,5500,117000,4.7
-974,Tower Hamlets,2006,with other qualifications,26400,151600,17.4
-975,Waltham Forest,2006,with other qualifications,25700,151900,16.9
-976,Wandsworth,2006,with other qualifications,24900,210100,11.8
-977,Westminster,2006,with other qualifications,24000,165500,14.5
-978,North East,2006,with other qualifications,104200,1586000,6.6
-979,North West,2006,with other qualifications,253900,4291900,5.9
-980,Yorkshire and The Humber,2006,with other qualifications,269200,3196200,8.4
-981,East Midlands,2006,with other qualifications,213300,2719900,7.8
-982,West Midlands,2006,with other qualifications,260800,3335500,7.8
-983,East,2006,with other qualifications,285600,3449600,8.3
-984,London,2006,with other qualifications,785300,5084200,15.4
-985,South East,2006,with other qualifications,399800,5122000,7.8
-986,South West,2006,with other qualifications,243900,3093800,7.9
-987,England,2006,with other qualifications,2816200,31879000,8.8
-988,Wales,2006,with other qualifications,129700,1820800,7.1
-989,Scotland,2006,with other qualifications,226900,3226500,7.0
-990,Northern Ireland,2006,with other qualifications,36900,1082800,3.4
-991,England and Wales,2006,with other qualifications,2945900,33699800,8.7
-992,Great Britain,2006,with other qualifications,3172900,36926300,8.6
-993,United Kingdom,2006,with other qualifications,3209800,38009100,8.4
-995,Barking and Dagenham,2006,with no qualifications,20900,102700,20.3
-996,Barnet,2006,with no qualifications,15900,213200,7.5
-997,Bexley,2006,with no qualifications,13400,136600,9.8
-998,Brent,2006,with no qualifications,22900,183400,12.5
-999,Bromley,2006,with no qualifications,17200,186000,9.3
-1000,Camden,2006,with no qualifications,21200,149100,14.2
-1001,Croydon,2006,with no qualifications,30300,221100,13.7
-1002,Ealing,2006,with no qualifications,24700,213900,11.6
-1003,Enfield,2006,with no qualifications,24900,181900,13.7
-1004,Greenwich,2006,with no qualifications,21800,154500,14.1
-1005,Hackney,2006,with no qualifications,36800,150800,24.4
-1006,Hammersmith and Fulham,2006,with no qualifications,14700,127000,11.6
-1007,Haringey,2006,with no qualifications,22100,160600,13.8
-1008,Harrow,2006,with no qualifications,10300,144500,7.1
-1009,Havering,2006,with no qualifications,25400,139200,18.3
-1010,Hillingdon,2006,with no qualifications,22800,162300,14.0
-1011,Hounslow,2006,with no qualifications,17500,154200,11.4
-1012,Islington,2006,with no qualifications,22300,132500,16.9
-1013,Kensington and Chelsea,2006,with no qualifications,11000,116700,9.5
-1014,Kingston upon Thames,2006,with no qualifications,8700,104000,8.4
-1015,Lambeth,2006,with no qualifications,41900,200400,20.9
-1016,Lewisham,2006,with no qualifications,24200,175400,13.8
-1017,Merton,2006,with no qualifications,13100,129900,10.1
-1018,Newham,2006,with no qualifications,30600,171200,17.9
-1019,Redbridge,2006,with no qualifications,17100,163200,10.5
-1020,Richmond upon Thames,2006,with no qualifications,7800,122100,6.4
-1021,Southwark,2006,with no qualifications,36800,188200,19.6
-1022,Sutton,2006,with no qualifications,13500,117000,11.5
-1023,Tower Hamlets,2006,with no qualifications,35900,151600,23.7
-1024,Waltham Forest,2006,with no qualifications,26100,151900,17.2
-1025,Wandsworth,2006,with no qualifications,25500,210100,12.1
-1026,Westminster,2006,with no qualifications,20900,165500,12.6
-1027,North East,2006,with no qualifications,227000,1586000,14.3
-1028,North West,2006,with no qualifications,686100,4291900,16.0
-1029,Yorkshire and The Humber,2006,with no qualifications,490900,3196200,15.4
-1030,East Midlands,2006,with no qualifications,381600,2719900,14.0
-1031,West Midlands,2006,with no qualifications,586200,3335500,17.6
-1032,East,2006,with no qualifications,492400,3449600,14.3
-1033,London,2006,with no qualifications,698300,5084200,13.7
-1034,South East,2006,with no qualifications,502200,5122000,9.8
-1035,South West,2006,with no qualifications,308700,3093800,10.0
-1036,England,2006,with no qualifications,4373400,31879000,13.7
-1037,Wales,2006,with no qualifications,298000,1820800,16.4
-1038,Scotland,2006,with no qualifications,446700,3226500,13.8
-1039,Northern Ireland,2006,with no qualifications,251500,1082800,23.2
-1040,England and Wales,2006,with no qualifications,4671400,33699800,13.9
-1041,Great Britain,2006,with no qualifications,5118200,36926300,13.9
-1042,United Kingdom,2006,with no qualifications,5369700,38009100,14.1
+946,Barking and Dagenham,2006,other qualifications,16500,102700,16.0
+947,Barnet,2006,other qualifications,45700,213200,21.4
+948,Bexley,2006,other qualifications,13900,136600,10.2
+949,Brent,2006,other qualifications,52300,183400,28.5
+950,Bromley,2006,other qualifications,16900,186000,9.1
+951,Camden,2006,other qualifications,18300,149100,12.3
+952,Croydon,2006,other qualifications,22900,221100,10.4
+953,Ealing,2006,other qualifications,47800,213900,22.3
+954,Enfield,2006,other qualifications,32500,181900,17.9
+955,Greenwich,2006,other qualifications,15700,154500,10.2
+956,Hackney,2006,other qualifications,20200,150800,13.4
+957,Hammersmith and Fulham,2006,other qualifications,19000,127000,14.9
+958,Haringey,2006,other qualifications,29200,160600,18.2
+959,Harrow,2006,other qualifications,35000,144500,24.2
+960,Havering,2006,other qualifications,14800,139200,10.7
+961,Hillingdon,2006,other qualifications,25100,162300,15.5
+962,Hounslow,2006,other qualifications,26700,154200,17.3
+963,Islington,2006,other qualifications,12800,132500,9.6
+964,Kensington and Chelsea,2006,other qualifications,24500,116700,21.0
+965,Kingston upon Thames,2006,other qualifications,9900,104000,9.5
+966,Lambeth,2006,other qualifications,24300,200400,12.1
+967,Lewisham,2006,other qualifications,29100,175400,16.6
+968,Merton,2006,other qualifications,20400,129900,15.7
+969,Newham,2006,other qualifications,45500,171200,26.6
+970,Redbridge,2006,other qualifications,28700,163200,17.6
+971,Richmond upon Thames,2006,other qualifications,10200,122100,8.3
+972,Southwark,2006,other qualifications,20500,188200,10.9
+973,Sutton,2006,other qualifications,5500,117000,4.7
+974,Tower Hamlets,2006,other qualifications,26400,151600,17.4
+975,Waltham Forest,2006,other qualifications,25700,151900,16.9
+976,Wandsworth,2006,other qualifications,24900,210100,11.8
+977,Westminster,2006,other qualifications,24000,165500,14.5
+978,North East,2006,other qualifications,104200,1586000,6.6
+979,North West,2006,other qualifications,253900,4291900,5.9
+980,Yorkshire and The Humber,2006,other qualifications,269200,3196200,8.4
+981,East Midlands,2006,other qualifications,213300,2719900,7.8
+982,West Midlands,2006,other qualifications,260800,3335500,7.8
+983,East,2006,other qualifications,285600,3449600,8.3
+984,London,2006,other qualifications,785300,5084200,15.4
+985,South East,2006,other qualifications,399800,5122000,7.8
+986,South West,2006,other qualifications,243900,3093800,7.9
+987,England,2006,other qualifications,2816200,31879000,8.8
+988,Wales,2006,other qualifications,129700,1820800,7.1
+989,Scotland,2006,other qualifications,226900,3226500,7.0
+990,Northern Ireland,2006,other qualifications,36900,1082800,3.4
+991,England and Wales,2006,other qualifications,2945900,33699800,8.7
+992,Great Britain,2006,other qualifications,3172900,36926300,8.6
+993,United Kingdom,2006,other qualifications,3209800,38009100,8.4
+995,Barking and Dagenham,2006,no qualifications,20900,102700,20.3
+996,Barnet,2006,no qualifications,15900,213200,7.5
+997,Bexley,2006,no qualifications,13400,136600,9.8
+998,Brent,2006,no qualifications,22900,183400,12.5
+999,Bromley,2006,no qualifications,17200,186000,9.3
+1000,Camden,2006,no qualifications,21200,149100,14.2
+1001,Croydon,2006,no qualifications,30300,221100,13.7
+1002,Ealing,2006,no qualifications,24700,213900,11.6
+1003,Enfield,2006,no qualifications,24900,181900,13.7
+1004,Greenwich,2006,no qualifications,21800,154500,14.1
+1005,Hackney,2006,no qualifications,36800,150800,24.4
+1006,Hammersmith and Fulham,2006,no qualifications,14700,127000,11.6
+1007,Haringey,2006,no qualifications,22100,160600,13.8
+1008,Harrow,2006,no qualifications,10300,144500,7.1
+1009,Havering,2006,no qualifications,25400,139200,18.3
+1010,Hillingdon,2006,no qualifications,22800,162300,14.0
+1011,Hounslow,2006,no qualifications,17500,154200,11.4
+1012,Islington,2006,no qualifications,22300,132500,16.9
+1013,Kensington and Chelsea,2006,no qualifications,11000,116700,9.5
+1014,Kingston upon Thames,2006,no qualifications,8700,104000,8.4
+1015,Lambeth,2006,no qualifications,41900,200400,20.9
+1016,Lewisham,2006,no qualifications,24200,175400,13.8
+1017,Merton,2006,no qualifications,13100,129900,10.1
+1018,Newham,2006,no qualifications,30600,171200,17.9
+1019,Redbridge,2006,no qualifications,17100,163200,10.5
+1020,Richmond upon Thames,2006,no qualifications,7800,122100,6.4
+1021,Southwark,2006,no qualifications,36800,188200,19.6
+1022,Sutton,2006,no qualifications,13500,117000,11.5
+1023,Tower Hamlets,2006,no qualifications,35900,151600,23.7
+1024,Waltham Forest,2006,no qualifications,26100,151900,17.2
+1025,Wandsworth,2006,no qualifications,25500,210100,12.1
+1026,Westminster,2006,no qualifications,20900,165500,12.6
+1027,North East,2006,no qualifications,227000,1586000,14.3
+1028,North West,2006,no qualifications,686100,4291900,16.0
+1029,Yorkshire and The Humber,2006,no qualifications,490900,3196200,15.4
+1030,East Midlands,2006,no qualifications,381600,2719900,14.0
+1031,West Midlands,2006,no qualifications,586200,3335500,17.6
+1032,East,2006,no qualifications,492400,3449600,14.3
+1033,London,2006,no qualifications,698300,5084200,13.7
+1034,South East,2006,no qualifications,502200,5122000,9.8
+1035,South West,2006,no qualifications,308700,3093800,10.0
+1036,England,2006,no qualifications,4373400,31879000,13.7
+1037,Wales,2006,no qualifications,298000,1820800,16.4
+1038,Scotland,2006,no qualifications,446700,3226500,13.8
+1039,Northern Ireland,2006,no qualifications,251500,1082800,23.2
+1040,England and Wales,2006,no qualifications,4671400,33699800,13.9
+1041,Great Britain,2006,no qualifications,5118200,36926300,13.9
+1042,United Kingdom,2006,no qualifications,5369700,38009100,14.1
 1043,City of London,2007,NVQ4+,2600,3400,76.6
 1044,Barking and Dagenham,2007,NVQ4+,19100,103500,18.5
 1045,Barnet,2007,NVQ4+,85200,214800,39.7
@@ -1264,102 +1264,102 @@
 1285,England and Wales,2007,NVQ1 only,4735400,33972200,13.9
 1286,Great Britain,2007,NVQ1 only,5070000,37219100,13.6
 1287,United Kingdom,2007,NVQ1 only,5187600,38317300,13.5
-1289,Barking and Dagenham,2007,with other qualifications,13800,103500,13.4
-1290,Barnet,2007,with other qualifications,32800,214800,15.3
-1291,Bexley,2007,with other qualifications,9800,138000,7.1
-1292,Brent,2007,with other qualifications,68400,189100,36.2
-1293,Bromley,2007,with other qualifications,11600,186900,6.2
-1294,Camden,2007,with other qualifications,17400,149700,11.6
-1295,Croydon,2007,with other qualifications,24700,222800,11.1
-1296,Ealing,2007,with other qualifications,47200,215400,21.9
-1297,Enfield,2007,with other qualifications,29500,185800,15.9
-1298,Greenwich,2007,with other qualifications,20500,156400,13.1
-1299,Hackney,2007,with other qualifications,19300,155400,12.4
-1300,Hammersmith and Fulham,2007,with other qualifications,17900,128900,13.9
-1301,Haringey,2007,with other qualifications,27300,163500,16.7
-1302,Harrow,2007,with other qualifications,31100,145600,21.4
-1303,Havering,2007,with other qualifications,12700,140000,9.0
-1304,Hillingdon,2007,with other qualifications,25800,164800,15.6
-1305,Hounslow,2007,with other qualifications,29800,160000,18.6
-1306,Islington,2007,with other qualifications,11000,136100,8.1
-1307,Kensington and Chelsea,2007,with other qualifications,20200,114600,17.6
-1308,Kingston upon Thames,2007,with other qualifications,8200,104400,7.8
-1309,Lambeth,2007,with other qualifications,26800,205100,13.1
-1310,Lewisham,2007,with other qualifications,25900,178400,14.5
-1311,Merton,2007,with other qualifications,22600,131400,17.2
-1312,Newham,2007,with other qualifications,39900,177400,22.5
-1313,Redbridge,2007,with other qualifications,23700,166800,14.2
-1314,Richmond upon Thames,2007,with other qualifications,10900,121000,9.0
-1315,Southwark,2007,with other qualifications,17800,192500,9.2
-1316,Sutton,2007,with other qualifications,8800,117400,7.5
-1317,Tower Hamlets,2007,with other qualifications,27000,158700,17.0
-1318,Waltham Forest,2007,with other qualifications,18700,155600,12.0
-1319,Wandsworth,2007,with other qualifications,31000,214000,14.5
-1320,Westminster,2007,with other qualifications,17600,163400,10.8
-1321,North East,2007,with other qualifications,108200,1594600,6.8
-1322,North West,2007,with other qualifications,295100,4314800,6.8
-1323,Yorkshire and The Humber,2007,with other qualifications,277500,3215000,8.6
-1324,East Midlands,2007,with other qualifications,234500,2740500,8.6
-1325,West Midlands,2007,with other qualifications,259800,3355400,7.7
-1326,East,2007,with other qualifications,326500,3467300,9.4
-1327,London,2007,with other qualifications,749900,5160700,14.5
-1328,South East,2007,with other qualifications,421900,5163200,8.2
-1329,South West,2007,with other qualifications,251000,3125900,8.0
-1330,England,2007,with other qualifications,2924300,32137500,9.1
-1331,Wales,2007,with other qualifications,132400,1834800,7.2
-1332,Scotland,2007,with other qualifications,239700,3246900,7.4
-1333,Northern Ireland,2007,with other qualifications,39000,1098200,3.6
-1334,England and Wales,2007,with other qualifications,3056700,33972200,9.0
-1335,Great Britain,2007,with other qualifications,3296400,37219100,8.9
-1336,United Kingdom,2007,with other qualifications,3335500,38317300,8.7
-1338,Barking and Dagenham,2007,with no qualifications,24700,103500,23.8
-1339,Barnet,2007,with no qualifications,24500,214800,11.4
-1340,Bexley,2007,with no qualifications,18700,138000,13.6
-1341,Brent,2007,with no qualifications,16900,189100,8.9
-1342,Bromley,2007,with no qualifications,14300,186900,7.7
-1343,Camden,2007,with no qualifications,15500,149700,10.4
-1344,Croydon,2007,with no qualifications,35900,222800,16.1
-1345,Ealing,2007,with no qualifications,26400,215400,12.3
-1346,Enfield,2007,with no qualifications,27800,185800,15.0
-1347,Greenwich,2007,with no qualifications,21400,156400,13.7
-1348,Hackney,2007,with no qualifications,29500,155400,19.0
-1349,Hammersmith and Fulham,2007,with no qualifications,13500,128900,10.5
-1350,Haringey,2007,with no qualifications,24200,163500,14.8
-1351,Harrow,2007,with no qualifications,11300,145600,7.8
-1352,Havering,2007,with no qualifications,23800,140000,17.0
-1353,Hillingdon,2007,with no qualifications,21900,164800,13.3
-1354,Hounslow,2007,with no qualifications,20600,160000,12.9
-1355,Islington,2007,with no qualifications,18900,136100,13.9
-1356,Kensington and Chelsea,2007,with no qualifications,9200,114600,8.1
-1357,Kingston upon Thames,2007,with no qualifications,6100,104400,5.8
-1358,Lambeth,2007,with no qualifications,30300,205100,14.8
-1359,Lewisham,2007,with no qualifications,17500,178400,9.8
-1360,Merton,2007,with no qualifications,7500,131400,5.7
-1361,Newham,2007,with no qualifications,38800,177400,21.9
-1362,Redbridge,2007,with no qualifications,26600,166800,16.0
-1363,Richmond upon Thames,2007,with no qualifications,6200,121000,5.2
-1364,Southwark,2007,with no qualifications,30300,192500,15.7
-1365,Sutton,2007,with no qualifications,17000,117400,14.4
-1366,Tower Hamlets,2007,with no qualifications,30000,158700,18.9
-1367,Waltham Forest,2007,with no qualifications,31300,155600,20.1
-1368,Wandsworth,2007,with no qualifications,11600,214000,5.4
-1369,Westminster,2007,with no qualifications,15800,163400,9.6
-1370,North East,2007,with no qualifications,223700,1594600,14.0
-1371,North West,2007,with no qualifications,654000,4314800,15.2
-1372,Yorkshire and The Humber,2007,with no qualifications,472700,3215000,14.7
-1373,East Midlands,2007,with no qualifications,376600,2740500,13.7
-1374,West Midlands,2007,with no qualifications,576500,3355400,17.2
-1375,East,2007,with no qualifications,440100,3467300,12.7
-1376,London,2007,with no qualifications,667900,5160700,12.9
-1377,South East,2007,with no qualifications,507900,5163200,9.8
-1378,South West,2007,with no qualifications,298300,3125900,9.5
-1379,England,2007,with no qualifications,4217800,32137500,13.1
-1380,Wales,2007,with no qualifications,284800,1834800,15.5
-1381,Scotland,2007,with no qualifications,444400,3246900,13.7
-1382,Northern Ireland,2007,with no qualifications,242800,1098200,22.1
-1383,England and Wales,2007,with no qualifications,4502600,33972200,13.3
-1384,Great Britain,2007,with no qualifications,4947000,37219100,13.3
-1385,United Kingdom,2007,with no qualifications,5189800,38317300,13.5
+1289,Barking and Dagenham,2007,other qualifications,13800,103500,13.4
+1290,Barnet,2007,other qualifications,32800,214800,15.3
+1291,Bexley,2007,other qualifications,9800,138000,7.1
+1292,Brent,2007,other qualifications,68400,189100,36.2
+1293,Bromley,2007,other qualifications,11600,186900,6.2
+1294,Camden,2007,other qualifications,17400,149700,11.6
+1295,Croydon,2007,other qualifications,24700,222800,11.1
+1296,Ealing,2007,other qualifications,47200,215400,21.9
+1297,Enfield,2007,other qualifications,29500,185800,15.9
+1298,Greenwich,2007,other qualifications,20500,156400,13.1
+1299,Hackney,2007,other qualifications,19300,155400,12.4
+1300,Hammersmith and Fulham,2007,other qualifications,17900,128900,13.9
+1301,Haringey,2007,other qualifications,27300,163500,16.7
+1302,Harrow,2007,other qualifications,31100,145600,21.4
+1303,Havering,2007,other qualifications,12700,140000,9.0
+1304,Hillingdon,2007,other qualifications,25800,164800,15.6
+1305,Hounslow,2007,other qualifications,29800,160000,18.6
+1306,Islington,2007,other qualifications,11000,136100,8.1
+1307,Kensington and Chelsea,2007,other qualifications,20200,114600,17.6
+1308,Kingston upon Thames,2007,other qualifications,8200,104400,7.8
+1309,Lambeth,2007,other qualifications,26800,205100,13.1
+1310,Lewisham,2007,other qualifications,25900,178400,14.5
+1311,Merton,2007,other qualifications,22600,131400,17.2
+1312,Newham,2007,other qualifications,39900,177400,22.5
+1313,Redbridge,2007,other qualifications,23700,166800,14.2
+1314,Richmond upon Thames,2007,other qualifications,10900,121000,9.0
+1315,Southwark,2007,other qualifications,17800,192500,9.2
+1316,Sutton,2007,other qualifications,8800,117400,7.5
+1317,Tower Hamlets,2007,other qualifications,27000,158700,17.0
+1318,Waltham Forest,2007,other qualifications,18700,155600,12.0
+1319,Wandsworth,2007,other qualifications,31000,214000,14.5
+1320,Westminster,2007,other qualifications,17600,163400,10.8
+1321,North East,2007,other qualifications,108200,1594600,6.8
+1322,North West,2007,other qualifications,295100,4314800,6.8
+1323,Yorkshire and The Humber,2007,other qualifications,277500,3215000,8.6
+1324,East Midlands,2007,other qualifications,234500,2740500,8.6
+1325,West Midlands,2007,other qualifications,259800,3355400,7.7
+1326,East,2007,other qualifications,326500,3467300,9.4
+1327,London,2007,other qualifications,749900,5160700,14.5
+1328,South East,2007,other qualifications,421900,5163200,8.2
+1329,South West,2007,other qualifications,251000,3125900,8.0
+1330,England,2007,other qualifications,2924300,32137500,9.1
+1331,Wales,2007,other qualifications,132400,1834800,7.2
+1332,Scotland,2007,other qualifications,239700,3246900,7.4
+1333,Northern Ireland,2007,other qualifications,39000,1098200,3.6
+1334,England and Wales,2007,other qualifications,3056700,33972200,9.0
+1335,Great Britain,2007,other qualifications,3296400,37219100,8.9
+1336,United Kingdom,2007,other qualifications,3335500,38317300,8.7
+1338,Barking and Dagenham,2007,no qualifications,24700,103500,23.8
+1339,Barnet,2007,no qualifications,24500,214800,11.4
+1340,Bexley,2007,no qualifications,18700,138000,13.6
+1341,Brent,2007,no qualifications,16900,189100,8.9
+1342,Bromley,2007,no qualifications,14300,186900,7.7
+1343,Camden,2007,no qualifications,15500,149700,10.4
+1344,Croydon,2007,no qualifications,35900,222800,16.1
+1345,Ealing,2007,no qualifications,26400,215400,12.3
+1346,Enfield,2007,no qualifications,27800,185800,15.0
+1347,Greenwich,2007,no qualifications,21400,156400,13.7
+1348,Hackney,2007,no qualifications,29500,155400,19.0
+1349,Hammersmith and Fulham,2007,no qualifications,13500,128900,10.5
+1350,Haringey,2007,no qualifications,24200,163500,14.8
+1351,Harrow,2007,no qualifications,11300,145600,7.8
+1352,Havering,2007,no qualifications,23800,140000,17.0
+1353,Hillingdon,2007,no qualifications,21900,164800,13.3
+1354,Hounslow,2007,no qualifications,20600,160000,12.9
+1355,Islington,2007,no qualifications,18900,136100,13.9
+1356,Kensington and Chelsea,2007,no qualifications,9200,114600,8.1
+1357,Kingston upon Thames,2007,no qualifications,6100,104400,5.8
+1358,Lambeth,2007,no qualifications,30300,205100,14.8
+1359,Lewisham,2007,no qualifications,17500,178400,9.8
+1360,Merton,2007,no qualifications,7500,131400,5.7
+1361,Newham,2007,no qualifications,38800,177400,21.9
+1362,Redbridge,2007,no qualifications,26600,166800,16.0
+1363,Richmond upon Thames,2007,no qualifications,6200,121000,5.2
+1364,Southwark,2007,no qualifications,30300,192500,15.7
+1365,Sutton,2007,no qualifications,17000,117400,14.4
+1366,Tower Hamlets,2007,no qualifications,30000,158700,18.9
+1367,Waltham Forest,2007,no qualifications,31300,155600,20.1
+1368,Wandsworth,2007,no qualifications,11600,214000,5.4
+1369,Westminster,2007,no qualifications,15800,163400,9.6
+1370,North East,2007,no qualifications,223700,1594600,14.0
+1371,North West,2007,no qualifications,654000,4314800,15.2
+1372,Yorkshire and The Humber,2007,no qualifications,472700,3215000,14.7
+1373,East Midlands,2007,no qualifications,376600,2740500,13.7
+1374,West Midlands,2007,no qualifications,576500,3355400,17.2
+1375,East,2007,no qualifications,440100,3467300,12.7
+1376,London,2007,no qualifications,667900,5160700,12.9
+1377,South East,2007,no qualifications,507900,5163200,9.8
+1378,South West,2007,no qualifications,298300,3125900,9.5
+1379,England,2007,no qualifications,4217800,32137500,13.1
+1380,Wales,2007,no qualifications,284800,1834800,15.5
+1381,Scotland,2007,no qualifications,444400,3246900,13.7
+1382,Northern Ireland,2007,no qualifications,242800,1098200,22.1
+1383,England and Wales,2007,no qualifications,4502600,33972200,13.3
+1384,Great Britain,2007,no qualifications,4947000,37219100,13.3
+1385,United Kingdom,2007,no qualifications,5189800,38317300,13.5
 1386,City of London,2008,NVQ4+,4700,6600,71.6
 1387,Barking and Dagenham,2008,NVQ4+,22200,108400,20.5
 1388,Barnet,2008,NVQ4+,91300,223100,40.9
@@ -1601,102 +1601,102 @@
 1628,England and Wales,2008,NVQ1 only,4967200,35293800,14.1
 1629,Great Britain,2008,NVQ1 only,5303600,38671100,13.7
 1630,United Kingdom,2008,NVQ1 only,5421800,39813500,13.6
-1632,Barking and Dagenham,2008,with other qualifications,16800,108400,15.5
-1633,Barnet,2008,with other qualifications,31100,223100,13.9
-1634,Bexley,2008,with other qualifications,10400,143500,7.2
-1635,Brent,2008,with other qualifications,70100,198600,35.3
-1636,Bromley,2008,with other qualifications,14500,194200,7.5
-1637,Camden,2008,with other qualifications,21400,151200,14.1
-1638,Croydon,2008,with other qualifications,18400,231500,7.9
-1639,Ealing,2008,with other qualifications,40200,225800,17.8
-1640,Enfield,2008,with other qualifications,26600,192600,13.8
-1641,Greenwich,2008,with other qualifications,16900,159700,10.6
-1642,Hackney,2008,with other qualifications,18600,163500,11.4
-1643,Hammersmith and Fulham,2008,with other qualifications,17700,129600,13.6
-1644,Haringey,2008,with other qualifications,29800,171900,17.3
-1645,Harrow,2008,with other qualifications,41200,149000,27.7
-1646,Havering,2008,with other qualifications,9500,147100,6.5
-1647,Hillingdon,2008,with other qualifications,27200,170600,15.9
-1648,Hounslow,2008,with other qualifications,26400,163600,16.1
-1649,Islington,2008,with other qualifications,14800,140700,10.5
-1650,Kensington and Chelsea,2008,with other qualifications,20000,117300,17.1
-1651,Kingston upon Thames,2008,with other qualifications,5500,106800,5.2
-1652,Lambeth,2008,with other qualifications,27200,209600,13.0
-1653,Lewisham,2008,with other qualifications,25900,186400,13.9
-1654,Merton,2008,with other qualifications,23900,133500,17.9
-1655,Newham,2008,with other qualifications,44900,188500,23.8
-1656,Redbridge,2008,with other qualifications,25700,174800,14.7
-1657,Richmond upon Thames,2008,with other qualifications,7300,124100,5.9
-1658,Southwark,2008,with other qualifications,22200,197700,11.3
-1659,Sutton,2008,with other qualifications,8400,122100,6.8
-1660,Tower Hamlets,2008,with other qualifications,24600,168400,14.6
-1661,Waltham Forest,2008,with other qualifications,20100,163900,12.3
-1662,Wandsworth,2008,with other qualifications,29800,219500,13.6
-1663,Westminster,2008,with other qualifications,24200,161300,15.0
-1664,North East,2008,with other qualifications,118900,1657300,7.2
-1665,North West,2008,with other qualifications,332900,4474400,7.4
-1666,Yorkshire and The Humber,2008,with other qualifications,287200,3342600,8.6
-1667,East Midlands,2008,with other qualifications,258100,2852700,9.0
-1668,West Midlands,2008,with other qualifications,271600,3487500,7.8
-1669,East,2008,with other qualifications,346400,3613600,9.6
-1670,London,2008,with other qualifications,761800,5344800,14.3
-1671,South East,2008,with other qualifications,424400,5355100,7.9
-1672,South West,2008,with other qualifications,244900,3250100,7.5
-1673,England,2008,with other qualifications,3046200,33378000,9.1
-1674,Wales,2008,with other qualifications,143300,1915800,7.5
-1675,Scotland,2008,with other qualifications,250400,3377300,7.4
-1676,Northern Ireland,2008,with other qualifications,50400,1142400,4.4
-1677,England and Wales,2008,with other qualifications,3189500,35293800,9.0
-1678,Great Britain,2008,with other qualifications,3439900,38671100,8.9
-1679,United Kingdom,2008,with other qualifications,3490300,39813500,8.8
-1681,Barking and Dagenham,2008,with no qualifications,25900,108400,23.9
-1682,Barnet,2008,with no qualifications,19600,223100,8.8
-1683,Bexley,2008,with no qualifications,18000,143500,12.5
-1684,Brent,2008,with no qualifications,16700,198600,8.4
-1685,Bromley,2008,with no qualifications,18400,194200,9.5
-1686,Camden,2008,with no qualifications,11600,151200,7.7
-1687,Croydon,2008,with no qualifications,29800,231500,12.9
-1688,Ealing,2008,with no qualifications,27400,225800,12.1
-1689,Enfield,2008,with no qualifications,28600,192600,14.9
-1690,Greenwich,2008,with no qualifications,19800,159700,12.4
-1691,Hackney,2008,with no qualifications,25200,163500,15.4
-1692,Hammersmith and Fulham,2008,with no qualifications,10100,129600,7.8
-1693,Haringey,2008,with no qualifications,30900,171900,18.0
-1694,Harrow,2008,with no qualifications,13400,149000,9.0
-1695,Havering,2008,with no qualifications,24400,147100,16.6
-1696,Hillingdon,2008,with no qualifications,22400,170600,13.1
-1697,Hounslow,2008,with no qualifications,24500,163600,15.0
-1698,Islington,2008,with no qualifications,19200,140700,13.6
-1699,Kensington and Chelsea,2008,with no qualifications,9200,117300,7.9
-1700,Kingston upon Thames,2008,with no qualifications,7300,106800,6.9
-1701,Lambeth,2008,with no qualifications,28800,209600,13.8
-1702,Lewisham,2008,with no qualifications,19400,186400,10.4
-1703,Merton,2008,with no qualifications,10500,133500,7.9
-1704,Newham,2008,with no qualifications,39700,188500,21.1
-1705,Redbridge,2008,with no qualifications,23800,174800,13.6
-1706,Richmond upon Thames,2008,with no qualifications,9800,124100,7.9
-1707,Southwark,2008,with no qualifications,26600,197700,13.5
-1708,Sutton,2008,with no qualifications,16900,122100,13.8
-1709,Tower Hamlets,2008,with no qualifications,38800,168400,23.1
-1710,Waltham Forest,2008,with no qualifications,30800,163900,18.8
-1711,Wandsworth,2008,with no qualifications,18000,219500,8.2
-1712,Westminster,2008,with no qualifications,13900,161300,8.6
-1713,North East,2008,with no qualifications,247200,1657300,14.9
-1714,North West,2008,with no qualifications,710100,4474400,15.9
-1715,Yorkshire and The Humber,2008,with no qualifications,490300,3342600,14.7
-1716,East Midlands,2008,with no qualifications,415000,2852700,14.5
-1717,West Midlands,2008,with no qualifications,594100,3487500,17.0
-1718,East,2008,with no qualifications,471500,3613600,13.0
-1719,London,2008,with no qualifications,679500,5344800,12.7
-1720,South East,2008,with no qualifications,519900,5355100,9.7
-1721,South West,2008,with no qualifications,321500,3250100,9.9
-1722,England,2008,with no qualifications,4449100,33378000,13.3
-1723,Wales,2008,with no qualifications,293300,1915800,15.3
-1724,Scotland,2008,with no qualifications,467700,3377300,13.8
-1725,Northern Ireland,2008,with no qualifications,262900,1142400,23.0
-1726,England and Wales,2008,with no qualifications,4742400,35293800,13.4
-1727,Great Britain,2008,with no qualifications,5210200,38671100,13.5
-1728,United Kingdom,2008,with no qualifications,5473000,39813500,13.7
+1632,Barking and Dagenham,2008,other qualifications,16800,108400,15.5
+1633,Barnet,2008,other qualifications,31100,223100,13.9
+1634,Bexley,2008,other qualifications,10400,143500,7.2
+1635,Brent,2008,other qualifications,70100,198600,35.3
+1636,Bromley,2008,other qualifications,14500,194200,7.5
+1637,Camden,2008,other qualifications,21400,151200,14.1
+1638,Croydon,2008,other qualifications,18400,231500,7.9
+1639,Ealing,2008,other qualifications,40200,225800,17.8
+1640,Enfield,2008,other qualifications,26600,192600,13.8
+1641,Greenwich,2008,other qualifications,16900,159700,10.6
+1642,Hackney,2008,other qualifications,18600,163500,11.4
+1643,Hammersmith and Fulham,2008,other qualifications,17700,129600,13.6
+1644,Haringey,2008,other qualifications,29800,171900,17.3
+1645,Harrow,2008,other qualifications,41200,149000,27.7
+1646,Havering,2008,other qualifications,9500,147100,6.5
+1647,Hillingdon,2008,other qualifications,27200,170600,15.9
+1648,Hounslow,2008,other qualifications,26400,163600,16.1
+1649,Islington,2008,other qualifications,14800,140700,10.5
+1650,Kensington and Chelsea,2008,other qualifications,20000,117300,17.1
+1651,Kingston upon Thames,2008,other qualifications,5500,106800,5.2
+1652,Lambeth,2008,other qualifications,27200,209600,13.0
+1653,Lewisham,2008,other qualifications,25900,186400,13.9
+1654,Merton,2008,other qualifications,23900,133500,17.9
+1655,Newham,2008,other qualifications,44900,188500,23.8
+1656,Redbridge,2008,other qualifications,25700,174800,14.7
+1657,Richmond upon Thames,2008,other qualifications,7300,124100,5.9
+1658,Southwark,2008,other qualifications,22200,197700,11.3
+1659,Sutton,2008,other qualifications,8400,122100,6.8
+1660,Tower Hamlets,2008,other qualifications,24600,168400,14.6
+1661,Waltham Forest,2008,other qualifications,20100,163900,12.3
+1662,Wandsworth,2008,other qualifications,29800,219500,13.6
+1663,Westminster,2008,other qualifications,24200,161300,15.0
+1664,North East,2008,other qualifications,118900,1657300,7.2
+1665,North West,2008,other qualifications,332900,4474400,7.4
+1666,Yorkshire and The Humber,2008,other qualifications,287200,3342600,8.6
+1667,East Midlands,2008,other qualifications,258100,2852700,9.0
+1668,West Midlands,2008,other qualifications,271600,3487500,7.8
+1669,East,2008,other qualifications,346400,3613600,9.6
+1670,London,2008,other qualifications,761800,5344800,14.3
+1671,South East,2008,other qualifications,424400,5355100,7.9
+1672,South West,2008,other qualifications,244900,3250100,7.5
+1673,England,2008,other qualifications,3046200,33378000,9.1
+1674,Wales,2008,other qualifications,143300,1915800,7.5
+1675,Scotland,2008,other qualifications,250400,3377300,7.4
+1676,Northern Ireland,2008,other qualifications,50400,1142400,4.4
+1677,England and Wales,2008,other qualifications,3189500,35293800,9.0
+1678,Great Britain,2008,other qualifications,3439900,38671100,8.9
+1679,United Kingdom,2008,other qualifications,3490300,39813500,8.8
+1681,Barking and Dagenham,2008,no qualifications,25900,108400,23.9
+1682,Barnet,2008,no qualifications,19600,223100,8.8
+1683,Bexley,2008,no qualifications,18000,143500,12.5
+1684,Brent,2008,no qualifications,16700,198600,8.4
+1685,Bromley,2008,no qualifications,18400,194200,9.5
+1686,Camden,2008,no qualifications,11600,151200,7.7
+1687,Croydon,2008,no qualifications,29800,231500,12.9
+1688,Ealing,2008,no qualifications,27400,225800,12.1
+1689,Enfield,2008,no qualifications,28600,192600,14.9
+1690,Greenwich,2008,no qualifications,19800,159700,12.4
+1691,Hackney,2008,no qualifications,25200,163500,15.4
+1692,Hammersmith and Fulham,2008,no qualifications,10100,129600,7.8
+1693,Haringey,2008,no qualifications,30900,171900,18.0
+1694,Harrow,2008,no qualifications,13400,149000,9.0
+1695,Havering,2008,no qualifications,24400,147100,16.6
+1696,Hillingdon,2008,no qualifications,22400,170600,13.1
+1697,Hounslow,2008,no qualifications,24500,163600,15.0
+1698,Islington,2008,no qualifications,19200,140700,13.6
+1699,Kensington and Chelsea,2008,no qualifications,9200,117300,7.9
+1700,Kingston upon Thames,2008,no qualifications,7300,106800,6.9
+1701,Lambeth,2008,no qualifications,28800,209600,13.8
+1702,Lewisham,2008,no qualifications,19400,186400,10.4
+1703,Merton,2008,no qualifications,10500,133500,7.9
+1704,Newham,2008,no qualifications,39700,188500,21.1
+1705,Redbridge,2008,no qualifications,23800,174800,13.6
+1706,Richmond upon Thames,2008,no qualifications,9800,124100,7.9
+1707,Southwark,2008,no qualifications,26600,197700,13.5
+1708,Sutton,2008,no qualifications,16900,122100,13.8
+1709,Tower Hamlets,2008,no qualifications,38800,168400,23.1
+1710,Waltham Forest,2008,no qualifications,30800,163900,18.8
+1711,Wandsworth,2008,no qualifications,18000,219500,8.2
+1712,Westminster,2008,no qualifications,13900,161300,8.6
+1713,North East,2008,no qualifications,247200,1657300,14.9
+1714,North West,2008,no qualifications,710100,4474400,15.9
+1715,Yorkshire and The Humber,2008,no qualifications,490300,3342600,14.7
+1716,East Midlands,2008,no qualifications,415000,2852700,14.5
+1717,West Midlands,2008,no qualifications,594100,3487500,17.0
+1718,East,2008,no qualifications,471500,3613600,13.0
+1719,London,2008,no qualifications,679500,5344800,12.7
+1720,South East,2008,no qualifications,519900,5355100,9.7
+1721,South West,2008,no qualifications,321500,3250100,9.9
+1722,England,2008,no qualifications,4449100,33378000,13.3
+1723,Wales,2008,no qualifications,293300,1915800,15.3
+1724,Scotland,2008,no qualifications,467700,3377300,13.8
+1725,Northern Ireland,2008,no qualifications,262900,1142400,23.0
+1726,England and Wales,2008,no qualifications,4742400,35293800,13.4
+1727,Great Britain,2008,no qualifications,5210200,38671100,13.5
+1728,United Kingdom,2008,no qualifications,5473000,39813500,13.7
 1729,City of London,2009,NVQ4+,5500,5500,100.0
 1730,Barking and Dagenham,2009,NVQ4+,24800,110700,22.4
 1731,Barnet,2009,NVQ4+,96400,227700,42.3
@@ -1938,102 +1938,102 @@
 1971,England and Wales,2009,NVQ1 only,4909000,35488000,13.8
 1972,Great Britain,2009,NVQ1 only,5241100,38881200,13.5
 1973,United Kingdom,2009,NVQ1 only,5362000,40031300,13.4
-1975,Barking and Dagenham,2009,with other qualifications,15800,110700,14.3
-1976,Barnet,2009,with other qualifications,27500,227700,12.1
-1977,Bexley,2009,with other qualifications,10000,146000,6.9
-1978,Brent,2009,with other qualifications,57700,205500,28.1
-1979,Bromley,2009,with other qualifications,20300,193500,10.5
-1980,Camden,2009,with other qualifications,18200,153200,11.9
-1981,Croydon,2009,with other qualifications,25600,235700,10.9
-1982,Ealing,2009,with other qualifications,42900,227900,18.8
-1983,Enfield,2009,with other qualifications,22600,195000,11.6
-1984,Greenwich,2009,with other qualifications,19500,163400,11.9
-1985,Hackney,2009,with other qualifications,25200,169200,14.9
-1986,Hammersmith and Fulham,2009,with other qualifications,18500,132900,13.9
-1987,Haringey,2009,with other qualifications,26500,175000,15.1
-1988,Harrow,2009,with other qualifications,38400,151900,25.3
-1989,Havering,2009,with other qualifications,7300,149700,4.9
-1990,Hillingdon,2009,with other qualifications,20700,173200,12.0
-1991,Hounslow,2009,with other qualifications,25200,167700,15.0
-1992,Islington,2009,with other qualifications,13700,145500,9.4
-1993,Kensington and Chelsea,2009,with other qualifications,18000,117600,15.3
-1994,Kingston upon Thames,2009,with other qualifications,8000,107200,7.4
-1995,Lambeth,2009,with other qualifications,31200,215700,14.5
-1996,Lewisham,2009,with other qualifications,29500,188900,15.6
-1997,Merton,2009,with other qualifications,24200,135600,17.8
-1998,Newham,2009,with other qualifications,56000,196200,28.5
-1999,Redbridge,2009,with other qualifications,29100,177300,16.4
-2000,Richmond upon Thames,2009,with other qualifications,7600,122300,6.2
-2001,Southwark,2009,with other qualifications,29100,202300,14.4
-2002,Sutton,2009,with other qualifications,12400,123000,10.1
-2003,Tower Hamlets,2009,with other qualifications,28600,176600,16.2
-2004,Waltham Forest,2009,with other qualifications,30800,168500,18.3
-2005,Wandsworth,2009,with other qualifications,25900,222900,11.6
-2006,Westminster,2009,with other qualifications,17700,158100,11.2
-2007,North East,2009,with other qualifications,120000,1661000,7.2
-2008,North West,2009,with other qualifications,338300,4488300,7.5
-2009,Yorkshire and The Humber,2009,with other qualifications,288300,3351700,8.6
-2010,East Midlands,2009,with other qualifications,234600,2864800,8.2
-2011,West Midlands,2009,with other qualifications,287800,3494400,8.2
-2012,East,2009,with other qualifications,322400,3630600,8.9
-2013,London,2009,with other qualifications,783800,5441200,14.4
-2014,South East,2009,with other qualifications,424900,5381500,7.9
-2015,South West,2009,with other qualifications,234600,3253200,7.2
-2016,England,2009,with other qualifications,3034700,33566700,9.0
-2017,Wales,2009,with other qualifications,147600,1921300,7.7
-2018,Scotland,2009,with other qualifications,258100,3393200,7.6
-2019,Northern Ireland,2009,with other qualifications,58100,1150100,5.1
-2020,England and Wales,2009,with other qualifications,3182300,35488000,9.0
-2021,Great Britain,2009,with other qualifications,3440400,38881200,8.8
-2022,United Kingdom,2009,with other qualifications,3498500,40031300,8.7
-2024,Barking and Dagenham,2009,with no qualifications,20600,110700,18.7
-2025,Barnet,2009,with no qualifications,22500,227700,9.9
-2026,Bexley,2009,with no qualifications,15900,146000,10.9
-2027,Brent,2009,with no qualifications,19900,205500,9.7
-2028,Bromley,2009,with no qualifications,10500,193500,5.5
-2029,Camden,2009,with no qualifications,13600,153200,8.9
-2030,Croydon,2009,with no qualifications,27900,235700,11.8
-2031,Ealing,2009,with no qualifications,31300,227900,13.7
-2032,Enfield,2009,with no qualifications,26600,195000,13.6
-2033,Greenwich,2009,with no qualifications,23300,163400,14.3
-2034,Hackney,2009,with no qualifications,24300,169200,14.3
-2035,Hammersmith and Fulham,2009,with no qualifications,18000,132900,13.5
-2036,Haringey,2009,with no qualifications,27900,175000,16.0
-2037,Harrow,2009,with no qualifications,9700,151900,6.4
-2038,Havering,2009,with no qualifications,27500,149700,18.4
-2039,Hillingdon,2009,with no qualifications,21600,173200,12.5
-2040,Hounslow,2009,with no qualifications,25900,167700,15.5
-2041,Islington,2009,with no qualifications,15500,145500,10.7
-2042,Kensington and Chelsea,2009,with no qualifications,8600,117600,7.3
-2043,Kingston upon Thames,2009,with no qualifications,9800,107200,9.1
-2044,Lambeth,2009,with no qualifications,20700,215700,9.6
-2045,Lewisham,2009,with no qualifications,12500,188900,6.6
-2046,Merton,2009,with no qualifications,10800,135600,8.0
-2047,Newham,2009,with no qualifications,36800,196200,18.8
-2048,Redbridge,2009,with no qualifications,25300,177300,14.3
-2049,Richmond upon Thames,2009,with no qualifications,7900,122300,6.4
-2050,Southwark,2009,with no qualifications,21900,202300,10.8
-2051,Sutton,2009,with no qualifications,12800,123000,10.4
-2052,Tower Hamlets,2009,with no qualifications,25900,176600,14.7
-2053,Waltham Forest,2009,with no qualifications,36100,168500,21.4
-2054,Wandsworth,2009,with no qualifications,17100,222900,7.7
-2055,Westminster,2009,with no qualifications,14400,158100,9.1
-2056,North East,2009,with no qualifications,247100,1661000,14.9
-2057,North West,2009,with no qualifications,620700,4488300,13.8
-2058,Yorkshire and The Humber,2009,with no qualifications,433500,3351700,12.9
-2059,East Midlands,2009,with no qualifications,375300,2864800,13.1
-2060,West Midlands,2009,with no qualifications,565900,3494400,16.2
-2061,East,2009,with no qualifications,412400,3630600,11.4
-2062,London,2009,with no qualifications,643400,5441200,11.8
-2063,South East,2009,with no qualifications,490000,5381500,9.1
-2064,South West,2009,with no qualifications,282000,3253200,8.7
-2065,England,2009,with no qualifications,4070400,33566700,12.1
-2066,Wales,2009,with no qualifications,285100,1921300,14.8
-2067,Scotland,2009,with no qualifications,449300,3393200,13.2
-2068,Northern Ireland,2009,with no qualifications,256200,1150100,22.3
-2069,England and Wales,2009,with no qualifications,4355600,35488000,12.3
-2070,Great Britain,2009,with no qualifications,4804900,38881200,12.4
-2071,United Kingdom,2009,with no qualifications,5061000,40031300,12.6
+1975,Barking and Dagenham,2009,other qualifications,15800,110700,14.3
+1976,Barnet,2009,other qualifications,27500,227700,12.1
+1977,Bexley,2009,other qualifications,10000,146000,6.9
+1978,Brent,2009,other qualifications,57700,205500,28.1
+1979,Bromley,2009,other qualifications,20300,193500,10.5
+1980,Camden,2009,other qualifications,18200,153200,11.9
+1981,Croydon,2009,other qualifications,25600,235700,10.9
+1982,Ealing,2009,other qualifications,42900,227900,18.8
+1983,Enfield,2009,other qualifications,22600,195000,11.6
+1984,Greenwich,2009,other qualifications,19500,163400,11.9
+1985,Hackney,2009,other qualifications,25200,169200,14.9
+1986,Hammersmith and Fulham,2009,other qualifications,18500,132900,13.9
+1987,Haringey,2009,other qualifications,26500,175000,15.1
+1988,Harrow,2009,other qualifications,38400,151900,25.3
+1989,Havering,2009,other qualifications,7300,149700,4.9
+1990,Hillingdon,2009,other qualifications,20700,173200,12.0
+1991,Hounslow,2009,other qualifications,25200,167700,15.0
+1992,Islington,2009,other qualifications,13700,145500,9.4
+1993,Kensington and Chelsea,2009,other qualifications,18000,117600,15.3
+1994,Kingston upon Thames,2009,other qualifications,8000,107200,7.4
+1995,Lambeth,2009,other qualifications,31200,215700,14.5
+1996,Lewisham,2009,other qualifications,29500,188900,15.6
+1997,Merton,2009,other qualifications,24200,135600,17.8
+1998,Newham,2009,other qualifications,56000,196200,28.5
+1999,Redbridge,2009,other qualifications,29100,177300,16.4
+2000,Richmond upon Thames,2009,other qualifications,7600,122300,6.2
+2001,Southwark,2009,other qualifications,29100,202300,14.4
+2002,Sutton,2009,other qualifications,12400,123000,10.1
+2003,Tower Hamlets,2009,other qualifications,28600,176600,16.2
+2004,Waltham Forest,2009,other qualifications,30800,168500,18.3
+2005,Wandsworth,2009,other qualifications,25900,222900,11.6
+2006,Westminster,2009,other qualifications,17700,158100,11.2
+2007,North East,2009,other qualifications,120000,1661000,7.2
+2008,North West,2009,other qualifications,338300,4488300,7.5
+2009,Yorkshire and The Humber,2009,other qualifications,288300,3351700,8.6
+2010,East Midlands,2009,other qualifications,234600,2864800,8.2
+2011,West Midlands,2009,other qualifications,287800,3494400,8.2
+2012,East,2009,other qualifications,322400,3630600,8.9
+2013,London,2009,other qualifications,783800,5441200,14.4
+2014,South East,2009,other qualifications,424900,5381500,7.9
+2015,South West,2009,other qualifications,234600,3253200,7.2
+2016,England,2009,other qualifications,3034700,33566700,9.0
+2017,Wales,2009,other qualifications,147600,1921300,7.7
+2018,Scotland,2009,other qualifications,258100,3393200,7.6
+2019,Northern Ireland,2009,other qualifications,58100,1150100,5.1
+2020,England and Wales,2009,other qualifications,3182300,35488000,9.0
+2021,Great Britain,2009,other qualifications,3440400,38881200,8.8
+2022,United Kingdom,2009,other qualifications,3498500,40031300,8.7
+2024,Barking and Dagenham,2009,no qualifications,20600,110700,18.7
+2025,Barnet,2009,no qualifications,22500,227700,9.9
+2026,Bexley,2009,no qualifications,15900,146000,10.9
+2027,Brent,2009,no qualifications,19900,205500,9.7
+2028,Bromley,2009,no qualifications,10500,193500,5.5
+2029,Camden,2009,no qualifications,13600,153200,8.9
+2030,Croydon,2009,no qualifications,27900,235700,11.8
+2031,Ealing,2009,no qualifications,31300,227900,13.7
+2032,Enfield,2009,no qualifications,26600,195000,13.6
+2033,Greenwich,2009,no qualifications,23300,163400,14.3
+2034,Hackney,2009,no qualifications,24300,169200,14.3
+2035,Hammersmith and Fulham,2009,no qualifications,18000,132900,13.5
+2036,Haringey,2009,no qualifications,27900,175000,16.0
+2037,Harrow,2009,no qualifications,9700,151900,6.4
+2038,Havering,2009,no qualifications,27500,149700,18.4
+2039,Hillingdon,2009,no qualifications,21600,173200,12.5
+2040,Hounslow,2009,no qualifications,25900,167700,15.5
+2041,Islington,2009,no qualifications,15500,145500,10.7
+2042,Kensington and Chelsea,2009,no qualifications,8600,117600,7.3
+2043,Kingston upon Thames,2009,no qualifications,9800,107200,9.1
+2044,Lambeth,2009,no qualifications,20700,215700,9.6
+2045,Lewisham,2009,no qualifications,12500,188900,6.6
+2046,Merton,2009,no qualifications,10800,135600,8.0
+2047,Newham,2009,no qualifications,36800,196200,18.8
+2048,Redbridge,2009,no qualifications,25300,177300,14.3
+2049,Richmond upon Thames,2009,no qualifications,7900,122300,6.4
+2050,Southwark,2009,no qualifications,21900,202300,10.8
+2051,Sutton,2009,no qualifications,12800,123000,10.4
+2052,Tower Hamlets,2009,no qualifications,25900,176600,14.7
+2053,Waltham Forest,2009,no qualifications,36100,168500,21.4
+2054,Wandsworth,2009,no qualifications,17100,222900,7.7
+2055,Westminster,2009,no qualifications,14400,158100,9.1
+2056,North East,2009,no qualifications,247100,1661000,14.9
+2057,North West,2009,no qualifications,620700,4488300,13.8
+2058,Yorkshire and The Humber,2009,no qualifications,433500,3351700,12.9
+2059,East Midlands,2009,no qualifications,375300,2864800,13.1
+2060,West Midlands,2009,no qualifications,565900,3494400,16.2
+2061,East,2009,no qualifications,412400,3630600,11.4
+2062,London,2009,no qualifications,643400,5441200,11.8
+2063,South East,2009,no qualifications,490000,5381500,9.1
+2064,South West,2009,no qualifications,282000,3253200,8.7
+2065,England,2009,no qualifications,4070400,33566700,12.1
+2066,Wales,2009,no qualifications,285100,1921300,14.8
+2067,Scotland,2009,no qualifications,449300,3393200,13.2
+2068,Northern Ireland,2009,no qualifications,256200,1150100,22.3
+2069,England and Wales,2009,no qualifications,4355600,35488000,12.3
+2070,Great Britain,2009,no qualifications,4804900,38881200,12.4
+2071,United Kingdom,2009,no qualifications,5061000,40031300,12.6
 2073,Barking and Dagenham,2010,NVQ4+,30600,115200,26.5
 2074,Barnet,2010,NVQ4+,109000,231100,47.2
 2075,Bexley,2010,NVQ4+,37700,146400,25.8
@@ -2273,102 +2273,102 @@
 2314,England and Wales,2010,NVQ1 only,4731100,35716400,13.2
 2315,Great Britain,2010,NVQ1 only,5068000,39127300,13.0
 2316,United Kingdom,2010,NVQ1 only,5194600,40282600,12.9
-2318,Barking and Dagenham,2010,with other qualifications,14300,115200,12.5
-2319,Barnet,2010,with other qualifications,26100,231100,11.3
-2320,Bexley,2010,with other qualifications,9200,146400,6.3
-2321,Brent,2010,with other qualifications,81700,212500,38.4
-2322,Bromley,2010,with other qualifications,14800,195500,7.6
-2323,Camden,2010,with other qualifications,15300,153800,9.9
-2324,Croydon,2010,with other qualifications,18200,237500,7.7
-2325,Ealing,2010,with other qualifications,38700,227300,17.0
-2326,Enfield,2010,with other qualifications,24500,197300,12.4
-2327,Greenwich,2010,with other qualifications,16800,167600,10.0
-2328,Hackney,2010,with other qualifications,21400,174000,12.3
-2329,Hammersmith and Fulham,2010,with other qualifications,15700,134000,11.7
-2330,Haringey,2010,with other qualifications,26700,176900,15.1
-2331,Harrow,2010,with other qualifications,40000,155700,25.7
-2332,Havering,2010,with other qualifications,8000,150700,5.3
-2333,Hillingdon,2010,with other qualifications,27900,175300,15.9
-2334,Hounslow,2010,with other qualifications,37300,171800,21.7
-2335,Islington,2010,with other qualifications,15600,146800,10.6
-2336,Kensington and Chelsea,2010,with other qualifications,17500,115300,15.2
-2337,Kingston upon Thames,2010,with other qualifications,8000,108100,7.4
-2338,Lambeth,2010,with other qualifications,24100,219400,11.0
-2339,Lewisham,2010,with other qualifications,22300,190000,11.7
-2340,Merton,2010,with other qualifications,18300,135500,13.5
-2341,Newham,2010,with other qualifications,52700,210300,25.0
-2342,Redbridge,2010,with other qualifications,24200,180600,13.4
-2343,Richmond upon Thames,2010,with other qualifications,8200,122600,6.7
-2344,Southwark,2010,with other qualifications,22900,206500,11.1
-2345,Sutton,2010,with other qualifications,8900,123500,7.2
-2346,Tower Hamlets,2010,with other qualifications,34400,182300,18.9
-2347,Waltham Forest,2010,with other qualifications,32600,174000,18.7
-2348,Wandsworth,2010,with other qualifications,23100,222100,10.4
-2349,Westminster,2010,with other qualifications,23500,157400,14.9
-2350,North East,2010,with other qualifications,111900,1666600,6.7
-2351,North West,2010,with other qualifications,329100,4503800,7.3
-2352,Yorkshire and The Humber,2010,with other qualifications,277200,3364200,8.2
-2353,East Midlands,2010,with other qualifications,232300,2880500,8.1
-2354,West Midlands,2010,with other qualifications,273400,3509300,7.8
-2355,East,2010,with other qualifications,299600,3658800,8.2
-2356,London,2010,with other qualifications,773800,5521800,14.0
-2357,South East,2010,with other qualifications,406500,5420700,7.5
-2358,South West,2010,with other qualifications,235000,3266500,7.2
-2359,England,2010,with other qualifications,2938600,33792200,8.7
-2360,Wales,2010,with other qualifications,140800,1924200,7.3
-2361,Scotland,2010,with other qualifications,259800,3410900,7.6
-2362,Northern Ireland,2010,with other qualifications,47200,1155300,4.1
-2363,England and Wales,2010,with other qualifications,3079400,35716400,8.6
-2364,Great Britain,2010,with other qualifications,3339200,39127300,8.5
-2365,United Kingdom,2010,with other qualifications,3386400,40282600,8.4
-2367,Barking and Dagenham,2010,with no qualifications,19500,115200,16.9
-2368,Barnet,2010,with no qualifications,14800,231100,6.4
-2369,Bexley,2010,with no qualifications,13900,146400,9.5
-2370,Brent,2010,with no qualifications,10900,212500,5.1
-2371,Bromley,2010,with no qualifications,13300,195500,6.8
-2372,Camden,2010,with no qualifications,12400,153800,8.0
-2373,Croydon,2010,with no qualifications,16000,237500,6.8
-2374,Ealing,2010,with no qualifications,27500,227300,12.1
-2375,Enfield,2010,with no qualifications,20600,197300,10.4
-2376,Greenwich,2010,with no qualifications,18300,167600,10.9
-2377,Hackney,2010,with no qualifications,26000,174000,14.9
-2378,Hammersmith and Fulham,2010,with no qualifications,12300,134000,9.1
-2379,Haringey,2010,with no qualifications,22600,176900,12.8
-2380,Harrow,2010,with no qualifications,9700,155700,6.2
-2381,Havering,2010,with no qualifications,23400,150700,15.5
-2382,Hillingdon,2010,with no qualifications,24000,175300,13.7
-2383,Hounslow,2010,with no qualifications,20700,171800,12.0
-2384,Islington,2010,with no qualifications,13200,146800,9.0
-2385,Kensington and Chelsea,2010,with no qualifications,6200,115300,5.4
-2386,Kingston upon Thames,2010,with no qualifications,7500,108100,7.0
-2387,Lambeth,2010,with no qualifications,20900,219400,9.5
-2388,Lewisham,2010,with no qualifications,16400,190000,8.7
-2389,Merton,2010,with no qualifications,8300,135500,6.1
-2390,Newham,2010,with no qualifications,32600,210300,15.5
-2391,Redbridge,2010,with no qualifications,27200,180600,15.1
-2392,Richmond upon Thames,2010,with no qualifications,7000,122600,5.7
-2393,Southwark,2010,with no qualifications,21600,206500,10.4
-2394,Sutton,2010,with no qualifications,10700,123500,8.7
-2395,Tower Hamlets,2010,with no qualifications,21700,182300,11.9
-2396,Waltham Forest,2010,with no qualifications,29000,174000,16.6
-2397,Wandsworth,2010,with no qualifications,12100,222100,5.4
-2398,Westminster,2010,with no qualifications,12300,157400,7.8
-2399,North East,2010,with no qualifications,218300,1666600,13.1
-2400,North West,2010,with no qualifications,544100,4503800,12.1
-2401,Yorkshire and The Humber,2010,with no qualifications,433600,3364200,12.9
-2402,East Midlands,2010,with no qualifications,373200,2880500,13.0
-2403,West Midlands,2010,with no qualifications,530500,3509300,15.1
-2404,East,2010,with no qualifications,382200,3658800,10.4
-2405,London,2010,with no qualifications,552600,5521800,10.0
-2406,South East,2010,with no qualifications,456700,5420700,8.4
-2407,South West,2010,with no qualifications,271600,3266500,8.3
-2408,England,2010,with no qualifications,3762900,33792200,11.1
-2409,Wales,2010,with no qualifications,256300,1924200,13.3
-2410,Scotland,2010,with no qualifications,418300,3410900,12.3
-2411,Northern Ireland,2010,with no qualifications,236100,1155300,20.4
-2412,England and Wales,2010,with no qualifications,4019200,35716400,11.3
-2413,Great Britain,2010,with no qualifications,4437500,39127300,11.3
-2414,United Kingdom,2010,with no qualifications,4673500,40282600,11.6
+2318,Barking and Dagenham,2010,other qualifications,14300,115200,12.5
+2319,Barnet,2010,other qualifications,26100,231100,11.3
+2320,Bexley,2010,other qualifications,9200,146400,6.3
+2321,Brent,2010,other qualifications,81700,212500,38.4
+2322,Bromley,2010,other qualifications,14800,195500,7.6
+2323,Camden,2010,other qualifications,15300,153800,9.9
+2324,Croydon,2010,other qualifications,18200,237500,7.7
+2325,Ealing,2010,other qualifications,38700,227300,17.0
+2326,Enfield,2010,other qualifications,24500,197300,12.4
+2327,Greenwich,2010,other qualifications,16800,167600,10.0
+2328,Hackney,2010,other qualifications,21400,174000,12.3
+2329,Hammersmith and Fulham,2010,other qualifications,15700,134000,11.7
+2330,Haringey,2010,other qualifications,26700,176900,15.1
+2331,Harrow,2010,other qualifications,40000,155700,25.7
+2332,Havering,2010,other qualifications,8000,150700,5.3
+2333,Hillingdon,2010,other qualifications,27900,175300,15.9
+2334,Hounslow,2010,other qualifications,37300,171800,21.7
+2335,Islington,2010,other qualifications,15600,146800,10.6
+2336,Kensington and Chelsea,2010,other qualifications,17500,115300,15.2
+2337,Kingston upon Thames,2010,other qualifications,8000,108100,7.4
+2338,Lambeth,2010,other qualifications,24100,219400,11.0
+2339,Lewisham,2010,other qualifications,22300,190000,11.7
+2340,Merton,2010,other qualifications,18300,135500,13.5
+2341,Newham,2010,other qualifications,52700,210300,25.0
+2342,Redbridge,2010,other qualifications,24200,180600,13.4
+2343,Richmond upon Thames,2010,other qualifications,8200,122600,6.7
+2344,Southwark,2010,other qualifications,22900,206500,11.1
+2345,Sutton,2010,other qualifications,8900,123500,7.2
+2346,Tower Hamlets,2010,other qualifications,34400,182300,18.9
+2347,Waltham Forest,2010,other qualifications,32600,174000,18.7
+2348,Wandsworth,2010,other qualifications,23100,222100,10.4
+2349,Westminster,2010,other qualifications,23500,157400,14.9
+2350,North East,2010,other qualifications,111900,1666600,6.7
+2351,North West,2010,other qualifications,329100,4503800,7.3
+2352,Yorkshire and The Humber,2010,other qualifications,277200,3364200,8.2
+2353,East Midlands,2010,other qualifications,232300,2880500,8.1
+2354,West Midlands,2010,other qualifications,273400,3509300,7.8
+2355,East,2010,other qualifications,299600,3658800,8.2
+2356,London,2010,other qualifications,773800,5521800,14.0
+2357,South East,2010,other qualifications,406500,5420700,7.5
+2358,South West,2010,other qualifications,235000,3266500,7.2
+2359,England,2010,other qualifications,2938600,33792200,8.7
+2360,Wales,2010,other qualifications,140800,1924200,7.3
+2361,Scotland,2010,other qualifications,259800,3410900,7.6
+2362,Northern Ireland,2010,other qualifications,47200,1155300,4.1
+2363,England and Wales,2010,other qualifications,3079400,35716400,8.6
+2364,Great Britain,2010,other qualifications,3339200,39127300,8.5
+2365,United Kingdom,2010,other qualifications,3386400,40282600,8.4
+2367,Barking and Dagenham,2010,no qualifications,19500,115200,16.9
+2368,Barnet,2010,no qualifications,14800,231100,6.4
+2369,Bexley,2010,no qualifications,13900,146400,9.5
+2370,Brent,2010,no qualifications,10900,212500,5.1
+2371,Bromley,2010,no qualifications,13300,195500,6.8
+2372,Camden,2010,no qualifications,12400,153800,8.0
+2373,Croydon,2010,no qualifications,16000,237500,6.8
+2374,Ealing,2010,no qualifications,27500,227300,12.1
+2375,Enfield,2010,no qualifications,20600,197300,10.4
+2376,Greenwich,2010,no qualifications,18300,167600,10.9
+2377,Hackney,2010,no qualifications,26000,174000,14.9
+2378,Hammersmith and Fulham,2010,no qualifications,12300,134000,9.1
+2379,Haringey,2010,no qualifications,22600,176900,12.8
+2380,Harrow,2010,no qualifications,9700,155700,6.2
+2381,Havering,2010,no qualifications,23400,150700,15.5
+2382,Hillingdon,2010,no qualifications,24000,175300,13.7
+2383,Hounslow,2010,no qualifications,20700,171800,12.0
+2384,Islington,2010,no qualifications,13200,146800,9.0
+2385,Kensington and Chelsea,2010,no qualifications,6200,115300,5.4
+2386,Kingston upon Thames,2010,no qualifications,7500,108100,7.0
+2387,Lambeth,2010,no qualifications,20900,219400,9.5
+2388,Lewisham,2010,no qualifications,16400,190000,8.7
+2389,Merton,2010,no qualifications,8300,135500,6.1
+2390,Newham,2010,no qualifications,32600,210300,15.5
+2391,Redbridge,2010,no qualifications,27200,180600,15.1
+2392,Richmond upon Thames,2010,no qualifications,7000,122600,5.7
+2393,Southwark,2010,no qualifications,21600,206500,10.4
+2394,Sutton,2010,no qualifications,10700,123500,8.7
+2395,Tower Hamlets,2010,no qualifications,21700,182300,11.9
+2396,Waltham Forest,2010,no qualifications,29000,174000,16.6
+2397,Wandsworth,2010,no qualifications,12100,222100,5.4
+2398,Westminster,2010,no qualifications,12300,157400,7.8
+2399,North East,2010,no qualifications,218300,1666600,13.1
+2400,North West,2010,no qualifications,544100,4503800,12.1
+2401,Yorkshire and The Humber,2010,no qualifications,433600,3364200,12.9
+2402,East Midlands,2010,no qualifications,373200,2880500,13.0
+2403,West Midlands,2010,no qualifications,530500,3509300,15.1
+2404,East,2010,no qualifications,382200,3658800,10.4
+2405,London,2010,no qualifications,552600,5521800,10.0
+2406,South East,2010,no qualifications,456700,5420700,8.4
+2407,South West,2010,no qualifications,271600,3266500,8.3
+2408,England,2010,no qualifications,3762900,33792200,11.1
+2409,Wales,2010,no qualifications,256300,1924200,13.3
+2410,Scotland,2010,no qualifications,418300,3410900,12.3
+2411,Northern Ireland,2010,no qualifications,236100,1155300,20.4
+2412,England and Wales,2010,no qualifications,4019200,35716400,11.3
+2413,Great Britain,2010,no qualifications,4437500,39127300,11.3
+2414,United Kingdom,2010,no qualifications,4673500,40282600,11.6
 2416,Barking and Dagenham,2011,NVQ4+,31800,118200,26.9
 2417,Barnet,2011,NVQ4+,116400,230800,50.4
 2418,Bexley,2011,NVQ4+,39400,145000,27.2
@@ -2607,102 +2607,102 @@
 2657,England and Wales,2011,NVQ1 only,4736900,35630400,13.3
 2658,Great Britain,2011,NVQ1 only,5071400,39040000,13.0
 2659,United Kingdom,2011,NVQ1 only,5197300,40177700,12.9
-2661,Barking and Dagenham,2011,with other qualifications,13600,118200,11.5
-2662,Barnet,2011,with other qualifications,21700,230800,9.4
-2663,Bexley,2011,with other qualifications,10200,145000,7.0
-2664,Brent,2011,with other qualifications,45700,217600,21.0
-2665,Bromley,2011,with other qualifications,10400,197000,5.3
-2666,Camden,2011,with other qualifications,10300,156900,6.5
-2667,Croydon,2011,with other qualifications,21600,238400,9.1
-2668,Ealing,2011,with other qualifications,22400,226100,9.9
-2669,Enfield,2011,with other qualifications,24100,201800,11.9
-2670,Greenwich,2011,with other qualifications,14500,166900,8.7
-2671,Hackney,2011,with other qualifications,14900,177800,8.4
-2672,Hammersmith and Fulham,2011,with other qualifications,9900,134500,7.4
-2673,Haringey,2011,with other qualifications,21400,179400,11.9
-2674,Harrow,2011,with other qualifications,21000,155800,13.5
-2675,Havering,2011,with other qualifications,11500,150100,7.7
-2676,Hillingdon,2011,with other qualifications,19600,181100,10.8
-2677,Hounslow,2011,with other qualifications,15000,174700,8.6
-2678,Islington,2011,with other qualifications,9900,152500,6.5
-2679,Kensington and Chelsea,2011,with other qualifications,8500,113200,7.5
-2680,Kingston upon Thames,2011,with other qualifications,6800,108700,6.2
-2681,Lambeth,2011,with other qualifications,17300,221800,7.8
-2682,Lewisham,2011,with other qualifications,16700,193800,8.6
-2683,Merton,2011,with other qualifications,15500,136100,11.4
-2684,Newham,2011,with other qualifications,35200,216600,16.3
-2685,Redbridge,2011,with other qualifications,20900,181000,11.6
-2686,Richmond upon Thames,2011,with other qualifications,8800,124900,7.0
-2687,Southwark,2011,with other qualifications,17500,210800,8.3
-2688,Sutton,2011,with other qualifications,10700,123100,8.7
-2689,Tower Hamlets,2011,with other qualifications,17100,185300,9.2
-2690,Waltham Forest,2011,with other qualifications,20800,176200,11.8
-2691,Wandsworth,2011,with other qualifications,13500,224900,6.0
-2692,Westminster,2011,with other qualifications,13500,160800,8.4
-2693,North East,2011,with other qualifications,88200,1655300,5.3
-2694,North West,2011,with other qualifications,271700,4478300,6.1
-2695,Yorkshire and The Humber,2011,with other qualifications,237100,3345500,7.1
-2696,East Midlands,2011,with other qualifications,186100,2861200,6.5
-2697,West Midlands,2011,with other qualifications,262800,3496700,7.5
-2698,East,2011,with other qualifications,241900,3651900,6.6
-2699,London,2011,with other qualifications,541700,5583900,9.7
-2700,South East,2011,with other qualifications,298300,5395500,5.5
-2701,South West,2011,with other qualifications,184900,3245700,5.7
-2702,England,2011,with other qualifications,2312800,33713800,6.9
-2703,Wales,2011,with other qualifications,123100,1916600,6.4
-2704,Scotland,2011,with other qualifications,214000,3409600,6.3
-2705,Northern Ireland,2011,with other qualifications,64800,1137800,5.7
-2706,England and Wales,2011,with other qualifications,2435900,35630400,6.8
-2707,Great Britain,2011,with other qualifications,2649900,39040000,6.8
-2708,United Kingdom,2011,with other qualifications,2714700,40177700,6.8
-2710,Barking and Dagenham,2011,with no qualifications,16400,118200,13.9
-2711,Barnet,2011,with no qualifications,14000,230800,6.1
-2712,Bexley,2011,with no qualifications,12500,145000,8.6
-2713,Brent,2011,with no qualifications,24400,217600,11.2
-2714,Bromley,2011,with no qualifications,14700,197000,7.5
-2715,Camden,2011,with no qualifications,13400,156900,8.5
-2716,Croydon,2011,with no qualifications,21300,238400,8.9
-2717,Ealing,2011,with no qualifications,25100,226100,11.1
-2718,Enfield,2011,with no qualifications,17500,201800,8.7
-2719,Greenwich,2011,with no qualifications,17900,166900,10.7
-2720,Hackney,2011,with no qualifications,21800,177800,12.3
-2721,Hammersmith and Fulham,2011,with no qualifications,15100,134500,11.2
-2722,Haringey,2011,with no qualifications,13800,179400,7.7
-2723,Harrow,2011,with no qualifications,11600,155800,7.5
-2724,Havering,2011,with no qualifications,16900,150100,11.3
-2725,Hillingdon,2011,with no qualifications,17700,181100,9.8
-2726,Hounslow,2011,with no qualifications,14100,174700,8.1
-2727,Islington,2011,with no qualifications,15400,152500,10.1
-2728,Kensington and Chelsea,2011,with no qualifications,8200,113200,7.3
-2729,Kingston upon Thames,2011,with no qualifications,8100,108700,7.4
-2730,Lambeth,2011,with no qualifications,23600,221800,10.6
-2731,Lewisham,2011,with no qualifications,19500,193800,10.1
-2732,Merton,2011,with no qualifications,7100,136100,5.2
-2733,Newham,2011,with no qualifications,29500,216600,13.6
-2734,Redbridge,2011,with no qualifications,22000,181000,12.1
-2735,Richmond upon Thames,2011,with no qualifications,5100,124900,4.1
-2736,Southwark,2011,with no qualifications,21600,210800,10.3
-2737,Sutton,2011,with no qualifications,6400,123100,5.2
-2738,Tower Hamlets,2011,with no qualifications,25700,185300,13.9
-2739,Waltham Forest,2011,with no qualifications,19800,176200,11.3
-2740,Wandsworth,2011,with no qualifications,12500,224900,5.6
-2741,Westminster,2011,with no qualifications,11000,160800,6.8
-2742,North East,2011,with no qualifications,204600,1655300,12.4
-2743,North West,2011,with no qualifications,541700,4478300,12.1
-2744,Yorkshire and The Humber,2011,with no qualifications,405500,3345500,12.1
-2745,East Midlands,2011,with no qualifications,331200,2861200,11.6
-2746,West Midlands,2011,with no qualifications,490400,3496700,14.0
-2747,East,2011,with no qualifications,351600,3651900,9.6
-2748,London,2011,with no qualifications,523800,5583900,9.4
-2749,South East,2011,with no qualifications,426600,5395500,7.9
-2750,South West,2011,with no qualifications,259100,3245700,8.0
-2751,England,2011,with no qualifications,3534300,33713800,10.5
-2752,Wales,2011,with no qualifications,237200,1916600,12.4
-2753,Scotland,2011,with no qualifications,399400,3409600,11.7
-2754,Northern Ireland,2011,with no qualifications,243300,1137800,21.4
-2755,England and Wales,2011,with no qualifications,3771500,35630400,10.6
-2756,Great Britain,2011,with no qualifications,4170900,39040000,10.7
-2757,United Kingdom,2011,with no qualifications,4414200,40177700,11.0
+2661,Barking and Dagenham,2011,other qualifications,13600,118200,11.5
+2662,Barnet,2011,other qualifications,21700,230800,9.4
+2663,Bexley,2011,other qualifications,10200,145000,7.0
+2664,Brent,2011,other qualifications,45700,217600,21.0
+2665,Bromley,2011,other qualifications,10400,197000,5.3
+2666,Camden,2011,other qualifications,10300,156900,6.5
+2667,Croydon,2011,other qualifications,21600,238400,9.1
+2668,Ealing,2011,other qualifications,22400,226100,9.9
+2669,Enfield,2011,other qualifications,24100,201800,11.9
+2670,Greenwich,2011,other qualifications,14500,166900,8.7
+2671,Hackney,2011,other qualifications,14900,177800,8.4
+2672,Hammersmith and Fulham,2011,other qualifications,9900,134500,7.4
+2673,Haringey,2011,other qualifications,21400,179400,11.9
+2674,Harrow,2011,other qualifications,21000,155800,13.5
+2675,Havering,2011,other qualifications,11500,150100,7.7
+2676,Hillingdon,2011,other qualifications,19600,181100,10.8
+2677,Hounslow,2011,other qualifications,15000,174700,8.6
+2678,Islington,2011,other qualifications,9900,152500,6.5
+2679,Kensington and Chelsea,2011,other qualifications,8500,113200,7.5
+2680,Kingston upon Thames,2011,other qualifications,6800,108700,6.2
+2681,Lambeth,2011,other qualifications,17300,221800,7.8
+2682,Lewisham,2011,other qualifications,16700,193800,8.6
+2683,Merton,2011,other qualifications,15500,136100,11.4
+2684,Newham,2011,other qualifications,35200,216600,16.3
+2685,Redbridge,2011,other qualifications,20900,181000,11.6
+2686,Richmond upon Thames,2011,other qualifications,8800,124900,7.0
+2687,Southwark,2011,other qualifications,17500,210800,8.3
+2688,Sutton,2011,other qualifications,10700,123100,8.7
+2689,Tower Hamlets,2011,other qualifications,17100,185300,9.2
+2690,Waltham Forest,2011,other qualifications,20800,176200,11.8
+2691,Wandsworth,2011,other qualifications,13500,224900,6.0
+2692,Westminster,2011,other qualifications,13500,160800,8.4
+2693,North East,2011,other qualifications,88200,1655300,5.3
+2694,North West,2011,other qualifications,271700,4478300,6.1
+2695,Yorkshire and The Humber,2011,other qualifications,237100,3345500,7.1
+2696,East Midlands,2011,other qualifications,186100,2861200,6.5
+2697,West Midlands,2011,other qualifications,262800,3496700,7.5
+2698,East,2011,other qualifications,241900,3651900,6.6
+2699,London,2011,other qualifications,541700,5583900,9.7
+2700,South East,2011,other qualifications,298300,5395500,5.5
+2701,South West,2011,other qualifications,184900,3245700,5.7
+2702,England,2011,other qualifications,2312800,33713800,6.9
+2703,Wales,2011,other qualifications,123100,1916600,6.4
+2704,Scotland,2011,other qualifications,214000,3409600,6.3
+2705,Northern Ireland,2011,other qualifications,64800,1137800,5.7
+2706,England and Wales,2011,other qualifications,2435900,35630400,6.8
+2707,Great Britain,2011,other qualifications,2649900,39040000,6.8
+2708,United Kingdom,2011,other qualifications,2714700,40177700,6.8
+2710,Barking and Dagenham,2011,no qualifications,16400,118200,13.9
+2711,Barnet,2011,no qualifications,14000,230800,6.1
+2712,Bexley,2011,no qualifications,12500,145000,8.6
+2713,Brent,2011,no qualifications,24400,217600,11.2
+2714,Bromley,2011,no qualifications,14700,197000,7.5
+2715,Camden,2011,no qualifications,13400,156900,8.5
+2716,Croydon,2011,no qualifications,21300,238400,8.9
+2717,Ealing,2011,no qualifications,25100,226100,11.1
+2718,Enfield,2011,no qualifications,17500,201800,8.7
+2719,Greenwich,2011,no qualifications,17900,166900,10.7
+2720,Hackney,2011,no qualifications,21800,177800,12.3
+2721,Hammersmith and Fulham,2011,no qualifications,15100,134500,11.2
+2722,Haringey,2011,no qualifications,13800,179400,7.7
+2723,Harrow,2011,no qualifications,11600,155800,7.5
+2724,Havering,2011,no qualifications,16900,150100,11.3
+2725,Hillingdon,2011,no qualifications,17700,181100,9.8
+2726,Hounslow,2011,no qualifications,14100,174700,8.1
+2727,Islington,2011,no qualifications,15400,152500,10.1
+2728,Kensington and Chelsea,2011,no qualifications,8200,113200,7.3
+2729,Kingston upon Thames,2011,no qualifications,8100,108700,7.4
+2730,Lambeth,2011,no qualifications,23600,221800,10.6
+2731,Lewisham,2011,no qualifications,19500,193800,10.1
+2732,Merton,2011,no qualifications,7100,136100,5.2
+2733,Newham,2011,no qualifications,29500,216600,13.6
+2734,Redbridge,2011,no qualifications,22000,181000,12.1
+2735,Richmond upon Thames,2011,no qualifications,5100,124900,4.1
+2736,Southwark,2011,no qualifications,21600,210800,10.3
+2737,Sutton,2011,no qualifications,6400,123100,5.2
+2738,Tower Hamlets,2011,no qualifications,25700,185300,13.9
+2739,Waltham Forest,2011,no qualifications,19800,176200,11.3
+2740,Wandsworth,2011,no qualifications,12500,224900,5.6
+2741,Westminster,2011,no qualifications,11000,160800,6.8
+2742,North East,2011,no qualifications,204600,1655300,12.4
+2743,North West,2011,no qualifications,541700,4478300,12.1
+2744,Yorkshire and The Humber,2011,no qualifications,405500,3345500,12.1
+2745,East Midlands,2011,no qualifications,331200,2861200,11.6
+2746,West Midlands,2011,no qualifications,490400,3496700,14.0
+2747,East,2011,no qualifications,351600,3651900,9.6
+2748,London,2011,no qualifications,523800,5583900,9.4
+2749,South East,2011,no qualifications,426600,5395500,7.9
+2750,South West,2011,no qualifications,259100,3245700,8.0
+2751,England,2011,no qualifications,3534300,33713800,10.5
+2752,Wales,2011,no qualifications,237200,1916600,12.4
+2753,Scotland,2011,no qualifications,399400,3409600,11.7
+2754,Northern Ireland,2011,no qualifications,243300,1137800,21.4
+2755,England and Wales,2011,no qualifications,3771500,35630400,10.6
+2756,Great Britain,2011,no qualifications,4170900,39040000,10.7
+2757,United Kingdom,2011,no qualifications,4414200,40177700,11.0
 2758,City of London,2012,NVQ4+,1700,2200,78.2
 2759,Barking and Dagenham,2012,NVQ4+,31000,119600,25.9
 2760,Barnet,2012,NVQ4+,117600,237600,49.5
@@ -2941,102 +2941,102 @@
 3000,England and Wales,2012,NVQ1 only,4424000,35806200,12.4
 3001,Great Britain,2012,NVQ1 only,4769000,39213800,12.2
 3002,United Kingdom,2012,NVQ1 only,4892900,40366000,12.1
-3004,Barking and Dagenham,2012,with other qualifications,12700,119600,10.7
-3005,Barnet,2012,with other qualifications,17200,237600,7.2
-3006,Bexley,2012,with other qualifications,8800,146700,6.0
-3007,Brent,2012,with other qualifications,24800,214200,11.6
-3008,Bromley,2012,with other qualifications,11200,198000,5.7
-3009,Camden,2012,with other qualifications,6700,158900,4.2
-3010,Croydon,2012,with other qualifications,16200,238200,6.8
-3011,Ealing,2012,with other qualifications,21000,230300,9.1
-3012,Enfield,2012,with other qualifications,25200,203900,12.4
-3013,Greenwich,2012,with other qualifications,12100,173900,6.9
-3014,Hackney,2012,with other qualifications,16000,180500,8.9
-3015,Hammersmith and Fulham,2012,with other qualifications,9500,131200,7.3
-3016,Haringey,2012,with other qualifications,16900,181500,9.3
-3017,Harrow,2012,with other qualifications,18200,157000,11.6
-3018,Havering,2012,with other qualifications,13600,151400,9.0
-3019,Hillingdon,2012,with other qualifications,15000,185300,8.1
-3020,Hounslow,2012,with other qualifications,15800,176000,9.0
-3021,Islington,2012,with other qualifications,10400,158100,6.6
-3022,Kensington and Chelsea,2012,with other qualifications,6300,110000,5.7
-3023,Kingston upon Thames,2012,with other qualifications,6500,110300,5.9
-3024,Lambeth,2012,with other qualifications,12000,228700,5.3
-3025,Lewisham,2012,with other qualifications,11600,196300,5.9
-3026,Merton,2012,with other qualifications,9800,136600,7.2
-3027,Newham,2012,with other qualifications,32600,217000,15.0
-3028,Redbridge,2012,with other qualifications,14900,184000,8.1
-3029,Richmond upon Thames,2012,with other qualifications,4800,125900,3.8
-3030,Southwark,2012,with other qualifications,17400,213600,8.2
-3031,Sutton,2012,with other qualifications,8000,125100,6.4
-3032,Tower Hamlets,2012,with other qualifications,16500,190600,8.6
-3033,Waltham Forest,2012,with other qualifications,22200,175900,12.6
-3034,Wandsworth,2012,with other qualifications,12500,224500,5.6
-3035,Westminster,2012,with other qualifications,10400,164400,6.3
-3036,North East,2012,with other qualifications,87200,1653600,5.3
-3037,North West,2012,with other qualifications,259200,4484000,5.8
-3038,Yorkshire and The Humber,2012,with other qualifications,234700,3362300,7.0
-3039,East Midlands,2012,with other qualifications,199500,2875300,6.9
-3040,West Midlands,2012,with other qualifications,241900,3512200,6.9
-3041,East,2012,with other qualifications,221200,3666000,6.0
-3042,London,2012,with other qualifications,457500,5647100,8.1
-3043,South East,2012,with other qualifications,294200,5427400,5.4
-3044,South West,2012,with other qualifications,159400,3264300,4.9
-3045,England,2012,with other qualifications,2154800,33892300,6.4
-3046,Wales,2012,with other qualifications,126500,1913900,6.6
-3047,Scotland,2012,with other qualifications,207700,3407600,6.1
-3048,Northern Ireland,2012,with other qualifications,56800,1152300,4.9
-3049,England and Wales,2012,with other qualifications,2281300,35806200,6.4
-3050,Great Britain,2012,with other qualifications,2488900,39213800,6.3
-3051,United Kingdom,2012,with other qualifications,2545800,40366000,6.3
-3053,Barking and Dagenham,2012,with no qualifications,16600,119600,13.9
-3054,Barnet,2012,with no qualifications,17500,237600,7.4
-3055,Bexley,2012,with no qualifications,11300,146700,7.7
-3056,Brent,2012,with no qualifications,23600,214200,11.0
-3057,Bromley,2012,with no qualifications,10000,198000,5.0
-3058,Camden,2012,with no qualifications,10800,158900,6.8
-3059,Croydon,2012,with no qualifications,14300,238200,6.0
-3060,Ealing,2012,with no qualifications,26000,230300,11.3
-3061,Enfield,2012,with no qualifications,19500,203900,9.6
-3062,Greenwich,2012,with no qualifications,14200,173900,8.2
-3063,Hackney,2012,with no qualifications,20800,180500,11.5
-3064,Hammersmith and Fulham,2012,with no qualifications,9300,131200,7.1
-3065,Haringey,2012,with no qualifications,19700,181500,10.8
-3066,Harrow,2012,with no qualifications,7300,157000,4.6
-3067,Havering,2012,with no qualifications,13000,151400,8.6
-3068,Hillingdon,2012,with no qualifications,12900,185300,7.0
-3069,Hounslow,2012,with no qualifications,16800,176000,9.6
-3070,Islington,2012,with no qualifications,14000,158100,8.9
-3071,Kensington and Chelsea,2012,with no qualifications,8100,110000,7.4
-3072,Kingston upon Thames,2012,with no qualifications,5800,110300,5.3
-3073,Lambeth,2012,with no qualifications,24400,228700,10.7
-3074,Lewisham,2012,with no qualifications,14300,196300,7.3
-3075,Merton,2012,with no qualifications,9400,136600,6.9
-3076,Newham,2012,with no qualifications,33800,217000,15.6
-3077,Redbridge,2012,with no qualifications,20600,184000,11.2
-3078,Richmond upon Thames,2012,with no qualifications,3900,125900,3.1
-3079,Southwark,2012,with no qualifications,20500,213600,9.6
-3080,Sutton,2012,with no qualifications,7300,125100,5.8
-3081,Tower Hamlets,2012,with no qualifications,25100,190600,13.1
-3082,Waltham Forest,2012,with no qualifications,19500,175900,11.1
-3083,Wandsworth,2012,with no qualifications,8500,224500,3.8
-3084,Westminster,2012,with no qualifications,9800,164400,6.0
-3085,North East,2012,with no qualifications,197400,1653600,11.9
-3086,North West,2012,with no qualifications,500500,4484000,11.2
-3087,Yorkshire and The Humber,2012,with no qualifications,388800,3362300,11.6
-3088,East Midlands,2012,with no qualifications,270600,2875300,9.4
-3089,West Midlands,2012,with no qualifications,477500,3512200,13.6
-3090,East,2012,with no qualifications,311400,3666000,8.5
-3091,London,2012,with no qualifications,488600,5647100,8.7
-3092,South East,2012,with no qualifications,372500,5427400,6.9
-3093,South West,2012,with no qualifications,226800,3264300,6.9
-3094,England,2012,with no qualifications,3234000,33892300,9.5
-3095,Wales,2012,with no qualifications,218400,1913900,11.4
-3096,Scotland,2012,with no qualifications,364300,3407600,10.7
-3097,Northern Ireland,2012,with no qualifications,211700,1152300,18.4
-3098,England and Wales,2012,with no qualifications,3452400,35806200,9.6
-3099,Great Britain,2012,with no qualifications,3816700,39213800,9.7
-3100,United Kingdom,2012,with no qualifications,4028400,40366000,10.0
+3004,Barking and Dagenham,2012,other qualifications,12700,119600,10.7
+3005,Barnet,2012,other qualifications,17200,237600,7.2
+3006,Bexley,2012,other qualifications,8800,146700,6.0
+3007,Brent,2012,other qualifications,24800,214200,11.6
+3008,Bromley,2012,other qualifications,11200,198000,5.7
+3009,Camden,2012,other qualifications,6700,158900,4.2
+3010,Croydon,2012,other qualifications,16200,238200,6.8
+3011,Ealing,2012,other qualifications,21000,230300,9.1
+3012,Enfield,2012,other qualifications,25200,203900,12.4
+3013,Greenwich,2012,other qualifications,12100,173900,6.9
+3014,Hackney,2012,other qualifications,16000,180500,8.9
+3015,Hammersmith and Fulham,2012,other qualifications,9500,131200,7.3
+3016,Haringey,2012,other qualifications,16900,181500,9.3
+3017,Harrow,2012,other qualifications,18200,157000,11.6
+3018,Havering,2012,other qualifications,13600,151400,9.0
+3019,Hillingdon,2012,other qualifications,15000,185300,8.1
+3020,Hounslow,2012,other qualifications,15800,176000,9.0
+3021,Islington,2012,other qualifications,10400,158100,6.6
+3022,Kensington and Chelsea,2012,other qualifications,6300,110000,5.7
+3023,Kingston upon Thames,2012,other qualifications,6500,110300,5.9
+3024,Lambeth,2012,other qualifications,12000,228700,5.3
+3025,Lewisham,2012,other qualifications,11600,196300,5.9
+3026,Merton,2012,other qualifications,9800,136600,7.2
+3027,Newham,2012,other qualifications,32600,217000,15.0
+3028,Redbridge,2012,other qualifications,14900,184000,8.1
+3029,Richmond upon Thames,2012,other qualifications,4800,125900,3.8
+3030,Southwark,2012,other qualifications,17400,213600,8.2
+3031,Sutton,2012,other qualifications,8000,125100,6.4
+3032,Tower Hamlets,2012,other qualifications,16500,190600,8.6
+3033,Waltham Forest,2012,other qualifications,22200,175900,12.6
+3034,Wandsworth,2012,other qualifications,12500,224500,5.6
+3035,Westminster,2012,other qualifications,10400,164400,6.3
+3036,North East,2012,other qualifications,87200,1653600,5.3
+3037,North West,2012,other qualifications,259200,4484000,5.8
+3038,Yorkshire and The Humber,2012,other qualifications,234700,3362300,7.0
+3039,East Midlands,2012,other qualifications,199500,2875300,6.9
+3040,West Midlands,2012,other qualifications,241900,3512200,6.9
+3041,East,2012,other qualifications,221200,3666000,6.0
+3042,London,2012,other qualifications,457500,5647100,8.1
+3043,South East,2012,other qualifications,294200,5427400,5.4
+3044,South West,2012,other qualifications,159400,3264300,4.9
+3045,England,2012,other qualifications,2154800,33892300,6.4
+3046,Wales,2012,other qualifications,126500,1913900,6.6
+3047,Scotland,2012,other qualifications,207700,3407600,6.1
+3048,Northern Ireland,2012,other qualifications,56800,1152300,4.9
+3049,England and Wales,2012,other qualifications,2281300,35806200,6.4
+3050,Great Britain,2012,other qualifications,2488900,39213800,6.3
+3051,United Kingdom,2012,other qualifications,2545800,40366000,6.3
+3053,Barking and Dagenham,2012,no qualifications,16600,119600,13.9
+3054,Barnet,2012,no qualifications,17500,237600,7.4
+3055,Bexley,2012,no qualifications,11300,146700,7.7
+3056,Brent,2012,no qualifications,23600,214200,11.0
+3057,Bromley,2012,no qualifications,10000,198000,5.0
+3058,Camden,2012,no qualifications,10800,158900,6.8
+3059,Croydon,2012,no qualifications,14300,238200,6.0
+3060,Ealing,2012,no qualifications,26000,230300,11.3
+3061,Enfield,2012,no qualifications,19500,203900,9.6
+3062,Greenwich,2012,no qualifications,14200,173900,8.2
+3063,Hackney,2012,no qualifications,20800,180500,11.5
+3064,Hammersmith and Fulham,2012,no qualifications,9300,131200,7.1
+3065,Haringey,2012,no qualifications,19700,181500,10.8
+3066,Harrow,2012,no qualifications,7300,157000,4.6
+3067,Havering,2012,no qualifications,13000,151400,8.6
+3068,Hillingdon,2012,no qualifications,12900,185300,7.0
+3069,Hounslow,2012,no qualifications,16800,176000,9.6
+3070,Islington,2012,no qualifications,14000,158100,8.9
+3071,Kensington and Chelsea,2012,no qualifications,8100,110000,7.4
+3072,Kingston upon Thames,2012,no qualifications,5800,110300,5.3
+3073,Lambeth,2012,no qualifications,24400,228700,10.7
+3074,Lewisham,2012,no qualifications,14300,196300,7.3
+3075,Merton,2012,no qualifications,9400,136600,6.9
+3076,Newham,2012,no qualifications,33800,217000,15.6
+3077,Redbridge,2012,no qualifications,20600,184000,11.2
+3078,Richmond upon Thames,2012,no qualifications,3900,125900,3.1
+3079,Southwark,2012,no qualifications,20500,213600,9.6
+3080,Sutton,2012,no qualifications,7300,125100,5.8
+3081,Tower Hamlets,2012,no qualifications,25100,190600,13.1
+3082,Waltham Forest,2012,no qualifications,19500,175900,11.1
+3083,Wandsworth,2012,no qualifications,8500,224500,3.8
+3084,Westminster,2012,no qualifications,9800,164400,6.0
+3085,North East,2012,no qualifications,197400,1653600,11.9
+3086,North West,2012,no qualifications,500500,4484000,11.2
+3087,Yorkshire and The Humber,2012,no qualifications,388800,3362300,11.6
+3088,East Midlands,2012,no qualifications,270600,2875300,9.4
+3089,West Midlands,2012,no qualifications,477500,3512200,13.6
+3090,East,2012,no qualifications,311400,3666000,8.5
+3091,London,2012,no qualifications,488600,5647100,8.7
+3092,South East,2012,no qualifications,372500,5427400,6.9
+3093,South West,2012,no qualifications,226800,3264300,6.9
+3094,England,2012,no qualifications,3234000,33892300,9.5
+3095,Wales,2012,no qualifications,218400,1913900,11.4
+3096,Scotland,2012,no qualifications,364300,3407600,10.7
+3097,Northern Ireland,2012,no qualifications,211700,1152300,18.4
+3098,England and Wales,2012,no qualifications,3452400,35806200,9.6
+3099,Great Britain,2012,no qualifications,3816700,39213800,9.7
+3100,United Kingdom,2012,no qualifications,4028400,40366000,10.0
 3102,Barking and Dagenham,2013,NVQ4+,34100,121100,28.2
 3103,Barnet,2013,NVQ4+,121200,240200,50.4
 3104,Bexley,2013,NVQ4+,44400,145500,30.5
@@ -3282,106 +3282,106 @@
 3353,England and Wales,2013,NVQ1 only,4332800,35866400,12.1
 3354,Great Britain,2013,NVQ1 only,4668400,39273400,11.9
 3355,United Kingdom,2013,NVQ1 only,4803800,40424100,11.9
-3357,Barking and Dagenham,2013,with other qualifications,14900,121100,12.3
-3358,Barnet,2013,with other qualifications,21200,240200,8.8
-3359,Bexley,2013,with other qualifications,8700,145500,5.9
-3360,Brent,2013,with other qualifications,25200,215700,11.7
-3361,Bromley,2013,with other qualifications,9900,201500,4.9
-3362,Camden,2013,with other qualifications,8400,162500,5.1
-3363,Croydon,2013,with other qualifications,20700,239800,8.6
-3364,Ealing,2013,with other qualifications,15100,228800,6.6
-3365,Enfield,2013,with other qualifications,24100,204900,11.7
-3366,Greenwich,2013,with other qualifications,10400,176400,5.9
-3367,Hackney,2013,with other qualifications,13900,182800,7.6
-3368,Hammersmith and Fulham,2013,with other qualifications,9800,129800,7.6
-3369,Haringey,2013,with other qualifications,18300,181900,10.1
-3370,Harrow,2013,with other qualifications,20500,156900,13.1
-3371,Havering,2013,with other qualifications,10500,151100,6.9
-3372,Hillingdon,2013,with other qualifications,14400,188900,7.6
-3373,Hounslow,2013,with other qualifications,21600,178000,12.1
-3374,Islington,2013,with other qualifications,6400,157900,4.0
-3375,Kensington and Chelsea,2013,with other qualifications,7700,108400,7.1
-3376,Kingston upon Thames,2013,with other qualifications,6300,111700,5.7
-3377,Lambeth,2013,with other qualifications,18300,233800,7.8
-3378,Lewisham,2013,with other qualifications,14200,197500,7.2
-3379,Merton,2013,with other qualifications,11600,138000,8.4
-3380,Newham,2013,with other qualifications,35200,221600,15.9
-3381,Redbridge,2013,with other qualifications,14200,189200,7.5
-3382,Richmond upon Thames,2013,with other qualifications,3400,125000,2.7
-3383,Southwark,2013,with other qualifications,14500,218100,6.6
-3384,Sutton,2013,with other qualifications,7500,125200,6.0
-3385,Tower Hamlets,2013,with other qualifications,14800,199800,7.4
-3386,Waltham Forest,2013,with other qualifications,15500,178500,8.7
-3387,Wandsworth,2013,with other qualifications,16700,224500,7.4
-3388,Westminster,2013,with other qualifications,10100,163200,6.2
-3389,Inner London,2013,with other qualifications,188200,2383900,7.9
-3390,Outer London,2013,with other qualifications,275600,3316400,8.3
-3391,North East,2013,with other qualifications,93100,1651100,5.6
-3392,North West,2013,with other qualifications,269400,4477800,6.0
-3393,Yorkshire and The Humber,2013,with other qualifications,224800,3357300,6.7
-3394,East Midlands,2013,with other qualifications,190700,2877800,6.6
-3395,West Midlands,2013,with other qualifications,252200,3523200,7.2
-3396,East,2013,with other qualifications,212200,3671100,5.8
-3397,London,2013,with other qualifications,463900,5700300,8.1
-3398,South East,2013,with other qualifications,280700,5432400,5.2
-3399,South West,2013,with other qualifications,160300,3267200,4.9
-3400,England,2013,with other qualifications,2147300,33958100,6.3
-3401,Wales,2013,with other qualifications,123400,1908300,6.5
-3402,Scotland,2013,with other qualifications,212900,3407000,6.2
-3403,Northern Ireland,2013,with other qualifications,50400,1150700,4.4
-3404,England and Wales,2013,with other qualifications,2270700,35866400,6.3
-3405,Great Britain,2013,with other qualifications,2483500,39273400,6.3
-3406,United Kingdom,2013,with other qualifications,2533900,40424100,6.3
-3408,Barking and Dagenham,2013,with no qualifications,19000,121100,15.7
-3409,Barnet,2013,with no qualifications,10500,240200,4.4
-3410,Bexley,2013,with no qualifications,7000,145500,4.8
-3411,Brent,2013,with no qualifications,17100,215700,7.9
-3412,Bromley,2013,with no qualifications,11700,201500,5.8
-3413,Camden,2013,with no qualifications,15900,162500,9.8
-3414,Croydon,2013,with no qualifications,14800,239800,6.2
-3415,Ealing,2013,with no qualifications,24300,228800,10.6
-3416,Enfield,2013,with no qualifications,17800,204900,8.7
-3417,Greenwich,2013,with no qualifications,12500,176400,7.1
-3418,Hackney,2013,with no qualifications,19800,182800,10.9
-3419,Hammersmith and Fulham,2013,with no qualifications,12800,129800,9.8
-3420,Haringey,2013,with no qualifications,15700,181900,8.7
-3421,Harrow,2013,with no qualifications,6800,156900,4.3
-3422,Havering,2013,with no qualifications,12400,151100,8.2
-3423,Hillingdon,2013,with no qualifications,12800,188900,6.8
-3424,Hounslow,2013,with no qualifications,17100,178000,9.6
-3425,Islington,2013,with no qualifications,18900,157900,11.9
-3426,Kensington and Chelsea,2013,with no qualifications,8300,108400,7.6
-3427,Kingston upon Thames,2013,with no qualifications,3500,111700,3.1
-3428,Lambeth,2013,with no qualifications,15600,233800,6.7
-3429,Lewisham,2013,with no qualifications,13400,197500,6.8
-3430,Merton,2013,with no qualifications,7700,138000,5.6
-3431,Newham,2013,with no qualifications,31000,221600,14.0
-3432,Redbridge,2013,with no qualifications,12900,189200,6.8
-3433,Richmond upon Thames,2013,with no qualifications,3700,125000,3.0
-3434,Southwark,2013,with no qualifications,17200,218100,7.9
-3435,Sutton,2013,with no qualifications,8200,125200,6.5
-3436,Tower Hamlets,2013,with no qualifications,23600,199800,11.8
-3437,Waltham Forest,2013,with no qualifications,18700,178500,10.5
-3438,Wandsworth,2013,with no qualifications,14700,224500,6.5
-3439,Westminster,2013,with no qualifications,9000,163200,5.5
-3440,Inner London,2013,with no qualifications,215800,2383900,9.1
-3441,Outer London,2013,with no qualifications,238500,3316400,7.2
-3442,North East,2013,with no qualifications,177900,1651100,10.8
-3443,North West,2013,with no qualifications,494100,4477800,11.0
-3444,Yorkshire and The Humber,2013,with no qualifications,354300,3357300,10.6
-3445,East Midlands,2013,with no qualifications,298500,2877800,10.4
-3446,West Midlands,2013,with no qualifications,479500,3523200,13.6
-3447,East,2013,with no qualifications,307700,3671100,8.4
-3448,London,2013,with no qualifications,454300,5700300,8.0
-3449,South East,2013,with no qualifications,350500,5432400,6.5
-3450,South West,2013,with no qualifications,215700,3267200,6.6
-3451,England,2013,with no qualifications,3132600,33958100,9.2
-3452,Wales,2013,with no qualifications,202400,1908300,10.6
-3453,Scotland,2013,with no qualifications,353500,3407000,10.4
-3454,Northern Ireland,2013,with no qualifications,199400,1150700,17.3
-3455,England and Wales,2013,with no qualifications,3335000,35866400,9.3
-3456,Great Britain,2013,with no qualifications,3688400,39273400,9.4
-3457,United Kingdom,2013,with no qualifications,3887800,40424100,9.6
+3357,Barking and Dagenham,2013,other qualifications,14900,121100,12.3
+3358,Barnet,2013,other qualifications,21200,240200,8.8
+3359,Bexley,2013,other qualifications,8700,145500,5.9
+3360,Brent,2013,other qualifications,25200,215700,11.7
+3361,Bromley,2013,other qualifications,9900,201500,4.9
+3362,Camden,2013,other qualifications,8400,162500,5.1
+3363,Croydon,2013,other qualifications,20700,239800,8.6
+3364,Ealing,2013,other qualifications,15100,228800,6.6
+3365,Enfield,2013,other qualifications,24100,204900,11.7
+3366,Greenwich,2013,other qualifications,10400,176400,5.9
+3367,Hackney,2013,other qualifications,13900,182800,7.6
+3368,Hammersmith and Fulham,2013,other qualifications,9800,129800,7.6
+3369,Haringey,2013,other qualifications,18300,181900,10.1
+3370,Harrow,2013,other qualifications,20500,156900,13.1
+3371,Havering,2013,other qualifications,10500,151100,6.9
+3372,Hillingdon,2013,other qualifications,14400,188900,7.6
+3373,Hounslow,2013,other qualifications,21600,178000,12.1
+3374,Islington,2013,other qualifications,6400,157900,4.0
+3375,Kensington and Chelsea,2013,other qualifications,7700,108400,7.1
+3376,Kingston upon Thames,2013,other qualifications,6300,111700,5.7
+3377,Lambeth,2013,other qualifications,18300,233800,7.8
+3378,Lewisham,2013,other qualifications,14200,197500,7.2
+3379,Merton,2013,other qualifications,11600,138000,8.4
+3380,Newham,2013,other qualifications,35200,221600,15.9
+3381,Redbridge,2013,other qualifications,14200,189200,7.5
+3382,Richmond upon Thames,2013,other qualifications,3400,125000,2.7
+3383,Southwark,2013,other qualifications,14500,218100,6.6
+3384,Sutton,2013,other qualifications,7500,125200,6.0
+3385,Tower Hamlets,2013,other qualifications,14800,199800,7.4
+3386,Waltham Forest,2013,other qualifications,15500,178500,8.7
+3387,Wandsworth,2013,other qualifications,16700,224500,7.4
+3388,Westminster,2013,other qualifications,10100,163200,6.2
+3389,Inner London,2013,other qualifications,188200,2383900,7.9
+3390,Outer London,2013,other qualifications,275600,3316400,8.3
+3391,North East,2013,other qualifications,93100,1651100,5.6
+3392,North West,2013,other qualifications,269400,4477800,6.0
+3393,Yorkshire and The Humber,2013,other qualifications,224800,3357300,6.7
+3394,East Midlands,2013,other qualifications,190700,2877800,6.6
+3395,West Midlands,2013,other qualifications,252200,3523200,7.2
+3396,East,2013,other qualifications,212200,3671100,5.8
+3397,London,2013,other qualifications,463900,5700300,8.1
+3398,South East,2013,other qualifications,280700,5432400,5.2
+3399,South West,2013,other qualifications,160300,3267200,4.9
+3400,England,2013,other qualifications,2147300,33958100,6.3
+3401,Wales,2013,other qualifications,123400,1908300,6.5
+3402,Scotland,2013,other qualifications,212900,3407000,6.2
+3403,Northern Ireland,2013,other qualifications,50400,1150700,4.4
+3404,England and Wales,2013,other qualifications,2270700,35866400,6.3
+3405,Great Britain,2013,other qualifications,2483500,39273400,6.3
+3406,United Kingdom,2013,other qualifications,2533900,40424100,6.3
+3408,Barking and Dagenham,2013,no qualifications,19000,121100,15.7
+3409,Barnet,2013,no qualifications,10500,240200,4.4
+3410,Bexley,2013,no qualifications,7000,145500,4.8
+3411,Brent,2013,no qualifications,17100,215700,7.9
+3412,Bromley,2013,no qualifications,11700,201500,5.8
+3413,Camden,2013,no qualifications,15900,162500,9.8
+3414,Croydon,2013,no qualifications,14800,239800,6.2
+3415,Ealing,2013,no qualifications,24300,228800,10.6
+3416,Enfield,2013,no qualifications,17800,204900,8.7
+3417,Greenwich,2013,no qualifications,12500,176400,7.1
+3418,Hackney,2013,no qualifications,19800,182800,10.9
+3419,Hammersmith and Fulham,2013,no qualifications,12800,129800,9.8
+3420,Haringey,2013,no qualifications,15700,181900,8.7
+3421,Harrow,2013,no qualifications,6800,156900,4.3
+3422,Havering,2013,no qualifications,12400,151100,8.2
+3423,Hillingdon,2013,no qualifications,12800,188900,6.8
+3424,Hounslow,2013,no qualifications,17100,178000,9.6
+3425,Islington,2013,no qualifications,18900,157900,11.9
+3426,Kensington and Chelsea,2013,no qualifications,8300,108400,7.6
+3427,Kingston upon Thames,2013,no qualifications,3500,111700,3.1
+3428,Lambeth,2013,no qualifications,15600,233800,6.7
+3429,Lewisham,2013,no qualifications,13400,197500,6.8
+3430,Merton,2013,no qualifications,7700,138000,5.6
+3431,Newham,2013,no qualifications,31000,221600,14.0
+3432,Redbridge,2013,no qualifications,12900,189200,6.8
+3433,Richmond upon Thames,2013,no qualifications,3700,125000,3.0
+3434,Southwark,2013,no qualifications,17200,218100,7.9
+3435,Sutton,2013,no qualifications,8200,125200,6.5
+3436,Tower Hamlets,2013,no qualifications,23600,199800,11.8
+3437,Waltham Forest,2013,no qualifications,18700,178500,10.5
+3438,Wandsworth,2013,no qualifications,14700,224500,6.5
+3439,Westminster,2013,no qualifications,9000,163200,5.5
+3440,Inner London,2013,no qualifications,215800,2383900,9.1
+3441,Outer London,2013,no qualifications,238500,3316400,7.2
+3442,North East,2013,no qualifications,177900,1651100,10.8
+3443,North West,2013,no qualifications,494100,4477800,11.0
+3444,Yorkshire and The Humber,2013,no qualifications,354300,3357300,10.6
+3445,East Midlands,2013,no qualifications,298500,2877800,10.4
+3446,West Midlands,2013,no qualifications,479500,3523200,13.6
+3447,East,2013,no qualifications,307700,3671100,8.4
+3448,London,2013,no qualifications,454300,5700300,8.0
+3449,South East,2013,no qualifications,350500,5432400,6.5
+3450,South West,2013,no qualifications,215700,3267200,6.6
+3451,England,2013,no qualifications,3132600,33958100,9.2
+3452,Wales,2013,no qualifications,202400,1908300,10.6
+3453,Scotland,2013,no qualifications,353500,3407000,10.4
+3454,Northern Ireland,2013,no qualifications,199400,1150700,17.3
+3455,England and Wales,2013,no qualifications,3335000,35866400,9.3
+3456,Great Britain,2013,no qualifications,3688400,39273400,9.4
+3457,United Kingdom,2013,no qualifications,3887800,40424100,9.6
 3459,Barking and Dagenham,2014,NVQ4+,36500,124000,29.5
 3460,Barnet,2014,NVQ4+,106400,243400,43.7
 3461,Bexley,2014,NVQ4+,49400,149000,33.2
@@ -3631,106 +3631,106 @@
 3710,England and Wales,2014,NVQ1 only,4293400,35964200,11.9
 3711,Great Britain,2014,NVQ1 only,4623200,39368800,11.7
 3712,United Kingdom,2014,NVQ1 only,4741500,40524100,11.7
-3714,Barking and Dagenham,2014,with other qualifications,17400,124000,14.1
-3715,Barnet,2014,with other qualifications,26500,243400,10.9
-3716,Bexley,2014,with other qualifications,5900,149000,4.0
-3717,Brent,2014,with other qualifications,26300,214400,12.3
-3718,Bromley,2014,with other qualifications,11300,202100,5.6
-3719,Camden,2014,with other qualifications,6800,166100,4.1
-3720,Croydon,2014,with other qualifications,17300,242900,7.1
-3721,Ealing,2014,with other qualifications,23500,227900,10.3
-3722,Enfield,2014,with other qualifications,20200,207600,9.8
-3723,Greenwich,2014,with other qualifications,13200,178900,7.4
-3724,Hackney,2014,with other qualifications,15300,188700,8.1
-3725,Hammersmith and Fulham,2014,with other qualifications,5000,128000,3.9
-3726,Haringey,2014,with other qualifications,19900,187200,10.6
-3727,Harrow,2014,with other qualifications,14700,157500,9.3
-3728,Havering,2014,with other qualifications,8500,154900,5.5
-3729,Hillingdon,2014,with other qualifications,17700,191000,9.3
-3730,Hounslow,2014,with other qualifications,20800,180900,11.5
-3731,Islington,2014,with other qualifications,8000,163300,4.9
-3732,Kensington and Chelsea,2014,with other qualifications,7200,107600,6.7
-3733,Kingston upon Thames,2014,with other qualifications,6100,112900,5.4
-3734,Lambeth,2014,with other qualifications,10900,237900,4.6
-3735,Lewisham,2014,with other qualifications,12000,202700,5.9
-3736,Merton,2014,with other qualifications,12900,136700,9.5
-3737,Newham,2014,with other qualifications,40100,224600,17.9
-3738,Redbridge,2014,with other qualifications,17700,189300,9.4
-3739,Richmond upon Thames,2014,with other qualifications,4200,124500,3.4
-3740,Southwark,2014,with other qualifications,12800,218900,5.8
-3741,Sutton,2014,with other qualifications,10900,127800,8.5
-3742,Tower Hamlets,2014,with other qualifications,14100,207600,6.8
-3743,Waltham Forest,2014,with other qualifications,12400,178800,6.9
-3744,Wandsworth,2014,with other qualifications,12700,224100,5.6
-3745,Westminster,2014,with other qualifications,11200,167500,6.7
-3746,Inner London,2014,with other qualifications,175900,2427000,7.2
-3747,Outer London,2014,with other qualifications,287600,3344300,8.6
-3748,North East,2014,with other qualifications,88300,1648400,5.4
-3749,North West,2014,with other qualifications,267700,4466400,6.0
-3750,Yorkshire and The Humber,2014,with other qualifications,226600,3351300,6.8
-3751,East Midlands,2014,with other qualifications,171800,2886100,6.0
-3752,West Midlands,2014,with other qualifications,244700,3522000,6.9
-3753,East,2014,with other qualifications,218300,3690100,5.9
-3754,London,2014,with other qualifications,463500,5771300,8.0
-3755,South East,2014,with other qualifications,284300,5450200,5.2
-3756,South West,2014,with other qualifications,160100,3273700,4.9
-3757,England,2014,with other qualifications,2125300,34059700,6.2
-3758,Wales,2014,with other qualifications,114500,1904500,6.0
-3759,Scotland,2014,with other qualifications,211200,3404600,6.2
-3760,Northern Ireland,2014,with other qualifications,47400,1155300,4.1
-3761,England and Wales,2014,with other qualifications,2239700,35964200,6.2
-3762,Great Britain,2014,with other qualifications,2450900,39368800,6.2
-3763,United Kingdom,2014,with other qualifications,2498300,40524100,6.2
-3765,Barking and Dagenham,2014,with no qualifications,19300,124000,15.5
-3766,Barnet,2014,with no qualifications,17000,243400,7.0
-3767,Bexley,2014,with no qualifications,8800,149000,5.9
-3768,Brent,2014,with no qualifications,16800,214400,7.8
-3769,Bromley,2014,with no qualifications,7400,202100,3.7
-3770,Camden,2014,with no qualifications,10700,166100,6.4
-3771,Croydon,2014,with no qualifications,16900,242900,7.0
-3772,Ealing,2014,with no qualifications,23200,227900,10.2
-3773,Enfield,2014,with no qualifications,16100,207600,7.7
-3774,Greenwich,2014,with no qualifications,18800,178900,10.5
-3775,Hackney,2014,with no qualifications,18100,188700,9.6
-3776,Hammersmith and Fulham,2014,with no qualifications,6600,128000,5.1
-3777,Haringey,2014,with no qualifications,22600,187200,12.0
-3778,Harrow,2014,with no qualifications,5800,157500,3.7
-3779,Havering,2014,with no qualifications,13500,154900,8.7
-3780,Hillingdon,2014,with no qualifications,18100,191000,9.5
-3781,Hounslow,2014,with no qualifications,16400,180900,9.1
-3782,Islington,2014,with no qualifications,14300,163300,8.7
-3783,Kensington and Chelsea,2014,with no qualifications,7300,107600,6.8
-3784,Kingston upon Thames,2014,with no qualifications,3700,112900,3.3
-3785,Lambeth,2014,with no qualifications,17400,237900,7.3
-3786,Lewisham,2014,with no qualifications,15300,202700,7.6
-3787,Merton,2014,with no qualifications,7100,136700,5.2
-3788,Newham,2014,with no qualifications,24900,224600,11.1
-3789,Redbridge,2014,with no qualifications,16800,189300,8.9
-3790,Richmond upon Thames,2014,with no qualifications,1400,124500,1.1
-3791,Southwark,2014,with no qualifications,17900,218900,8.2
-3792,Sutton,2014,with no qualifications,7600,127800,6.0
-3793,Tower Hamlets,2014,with no qualifications,25600,207600,12.3
-3794,Waltham Forest,2014,with no qualifications,19000,178800,10.6
-3795,Wandsworth,2014,with no qualifications,10200,224100,4.5
-3796,Westminster,2014,with no qualifications,9100,167500,5.4
-3797,Inner London,2014,with no qualifications,200600,2427000,8.3
-3798,Outer London,2014,with no qualifications,253700,3344300,7.6
-3799,North East,2014,with no qualifications,164900,1648400,10.0
-3800,North West,2014,with no qualifications,472200,4466400,10.6
-3801,Yorkshire and The Humber,2014,with no qualifications,329200,3351300,9.8
-3802,East Midlands,2014,with no qualifications,268400,2886100,9.3
-3803,West Midlands,2014,with no qualifications,463700,3522000,13.2
-3804,East,2014,with no qualifications,296400,3690100,8.0
-3805,London,2014,with no qualifications,454300,5771300,7.9
-3806,South East,2014,with no qualifications,306300,5450200,5.6
-3807,South West,2014,with no qualifications,183700,3273700,5.6
-3808,England,2014,with no qualifications,2939100,34059700,8.6
-3809,Wales,2014,with no qualifications,190200,1904500,10.0
-3810,Scotland,2014,with no qualifications,321100,3404600,9.4
-3811,Northern Ireland,2014,with no qualifications,199000,1155300,17.2
-3812,England and Wales,2014,with no qualifications,3129300,35964200,8.7
-3813,Great Britain,2014,with no qualifications,3450400,39368800,8.8
-3814,United Kingdom,2014,with no qualifications,3649400,40524100,9.0
+3714,Barking and Dagenham,2014,other qualifications,17400,124000,14.1
+3715,Barnet,2014,other qualifications,26500,243400,10.9
+3716,Bexley,2014,other qualifications,5900,149000,4.0
+3717,Brent,2014,other qualifications,26300,214400,12.3
+3718,Bromley,2014,other qualifications,11300,202100,5.6
+3719,Camden,2014,other qualifications,6800,166100,4.1
+3720,Croydon,2014,other qualifications,17300,242900,7.1
+3721,Ealing,2014,other qualifications,23500,227900,10.3
+3722,Enfield,2014,other qualifications,20200,207600,9.8
+3723,Greenwich,2014,other qualifications,13200,178900,7.4
+3724,Hackney,2014,other qualifications,15300,188700,8.1
+3725,Hammersmith and Fulham,2014,other qualifications,5000,128000,3.9
+3726,Haringey,2014,other qualifications,19900,187200,10.6
+3727,Harrow,2014,other qualifications,14700,157500,9.3
+3728,Havering,2014,other qualifications,8500,154900,5.5
+3729,Hillingdon,2014,other qualifications,17700,191000,9.3
+3730,Hounslow,2014,other qualifications,20800,180900,11.5
+3731,Islington,2014,other qualifications,8000,163300,4.9
+3732,Kensington and Chelsea,2014,other qualifications,7200,107600,6.7
+3733,Kingston upon Thames,2014,other qualifications,6100,112900,5.4
+3734,Lambeth,2014,other qualifications,10900,237900,4.6
+3735,Lewisham,2014,other qualifications,12000,202700,5.9
+3736,Merton,2014,other qualifications,12900,136700,9.5
+3737,Newham,2014,other qualifications,40100,224600,17.9
+3738,Redbridge,2014,other qualifications,17700,189300,9.4
+3739,Richmond upon Thames,2014,other qualifications,4200,124500,3.4
+3740,Southwark,2014,other qualifications,12800,218900,5.8
+3741,Sutton,2014,other qualifications,10900,127800,8.5
+3742,Tower Hamlets,2014,other qualifications,14100,207600,6.8
+3743,Waltham Forest,2014,other qualifications,12400,178800,6.9
+3744,Wandsworth,2014,other qualifications,12700,224100,5.6
+3745,Westminster,2014,other qualifications,11200,167500,6.7
+3746,Inner London,2014,other qualifications,175900,2427000,7.2
+3747,Outer London,2014,other qualifications,287600,3344300,8.6
+3748,North East,2014,other qualifications,88300,1648400,5.4
+3749,North West,2014,other qualifications,267700,4466400,6.0
+3750,Yorkshire and The Humber,2014,other qualifications,226600,3351300,6.8
+3751,East Midlands,2014,other qualifications,171800,2886100,6.0
+3752,West Midlands,2014,other qualifications,244700,3522000,6.9
+3753,East,2014,other qualifications,218300,3690100,5.9
+3754,London,2014,other qualifications,463500,5771300,8.0
+3755,South East,2014,other qualifications,284300,5450200,5.2
+3756,South West,2014,other qualifications,160100,3273700,4.9
+3757,England,2014,other qualifications,2125300,34059700,6.2
+3758,Wales,2014,other qualifications,114500,1904500,6.0
+3759,Scotland,2014,other qualifications,211200,3404600,6.2
+3760,Northern Ireland,2014,other qualifications,47400,1155300,4.1
+3761,England and Wales,2014,other qualifications,2239700,35964200,6.2
+3762,Great Britain,2014,other qualifications,2450900,39368800,6.2
+3763,United Kingdom,2014,other qualifications,2498300,40524100,6.2
+3765,Barking and Dagenham,2014,no qualifications,19300,124000,15.5
+3766,Barnet,2014,no qualifications,17000,243400,7.0
+3767,Bexley,2014,no qualifications,8800,149000,5.9
+3768,Brent,2014,no qualifications,16800,214400,7.8
+3769,Bromley,2014,no qualifications,7400,202100,3.7
+3770,Camden,2014,no qualifications,10700,166100,6.4
+3771,Croydon,2014,no qualifications,16900,242900,7.0
+3772,Ealing,2014,no qualifications,23200,227900,10.2
+3773,Enfield,2014,no qualifications,16100,207600,7.7
+3774,Greenwich,2014,no qualifications,18800,178900,10.5
+3775,Hackney,2014,no qualifications,18100,188700,9.6
+3776,Hammersmith and Fulham,2014,no qualifications,6600,128000,5.1
+3777,Haringey,2014,no qualifications,22600,187200,12.0
+3778,Harrow,2014,no qualifications,5800,157500,3.7
+3779,Havering,2014,no qualifications,13500,154900,8.7
+3780,Hillingdon,2014,no qualifications,18100,191000,9.5
+3781,Hounslow,2014,no qualifications,16400,180900,9.1
+3782,Islington,2014,no qualifications,14300,163300,8.7
+3783,Kensington and Chelsea,2014,no qualifications,7300,107600,6.8
+3784,Kingston upon Thames,2014,no qualifications,3700,112900,3.3
+3785,Lambeth,2014,no qualifications,17400,237900,7.3
+3786,Lewisham,2014,no qualifications,15300,202700,7.6
+3787,Merton,2014,no qualifications,7100,136700,5.2
+3788,Newham,2014,no qualifications,24900,224600,11.1
+3789,Redbridge,2014,no qualifications,16800,189300,8.9
+3790,Richmond upon Thames,2014,no qualifications,1400,124500,1.1
+3791,Southwark,2014,no qualifications,17900,218900,8.2
+3792,Sutton,2014,no qualifications,7600,127800,6.0
+3793,Tower Hamlets,2014,no qualifications,25600,207600,12.3
+3794,Waltham Forest,2014,no qualifications,19000,178800,10.6
+3795,Wandsworth,2014,no qualifications,10200,224100,4.5
+3796,Westminster,2014,no qualifications,9100,167500,5.4
+3797,Inner London,2014,no qualifications,200600,2427000,8.3
+3798,Outer London,2014,no qualifications,253700,3344300,7.6
+3799,North East,2014,no qualifications,164900,1648400,10.0
+3800,North West,2014,no qualifications,472200,4466400,10.6
+3801,Yorkshire and The Humber,2014,no qualifications,329200,3351300,9.8
+3802,East Midlands,2014,no qualifications,268400,2886100,9.3
+3803,West Midlands,2014,no qualifications,463700,3522000,13.2
+3804,East,2014,no qualifications,296400,3690100,8.0
+3805,London,2014,no qualifications,454300,5771300,7.9
+3806,South East,2014,no qualifications,306300,5450200,5.6
+3807,South West,2014,no qualifications,183700,3273700,5.6
+3808,England,2014,no qualifications,2939100,34059700,8.6
+3809,Wales,2014,no qualifications,190200,1904500,10.0
+3810,Scotland,2014,no qualifications,321100,3404600,9.4
+3811,Northern Ireland,2014,no qualifications,199000,1155300,17.2
+3812,England and Wales,2014,no qualifications,3129300,35964200,8.7
+3813,Great Britain,2014,no qualifications,3450400,39368800,8.8
+3814,United Kingdom,2014,no qualifications,3649400,40524100,9.0
 3815,City of London,2015,NVQ4+,4500,5700,80.0
 3816,Barking and Dagenham,2015,NVQ4+,41000,126800,32.4
 3817,Barnet,2015,NVQ4+,119700,243700,49.1
@@ -3978,106 +3978,106 @@
 4067,England and Wales,2015,NVQ1 only,4176700,36171100,11.5
 4068,Great Britain,2015,NVQ1 only,4490800,39575600,11.3
 4069,United Kingdom,2015,NVQ1 only,4612500,40731900,11.3
-4071,Barking and Dagenham,2015,with other qualifications,16200,126800,12.8
-4072,Barnet,2015,with other qualifications,21800,243700,9.0
-4073,Bexley,2015,with other qualifications,6700,151500,4.4
-4074,Brent,2015,with other qualifications,26800,220400,12.2
-4075,Bromley,2015,with other qualifications,10100,199900,5.1
-4076,Camden,2015,with other qualifications,13100,169900,7.7
-4077,Croydon,2015,with other qualifications,20100,246500,8.2
-4078,Ealing,2015,with other qualifications,23600,226400,10.4
-4079,Enfield,2015,with other qualifications,27100,208900,13.0
-4080,Greenwich,2015,with other qualifications,16100,183200,8.8
-4081,Hackney,2015,with other qualifications,14700,192200,7.7
-4082,Hammersmith and Fulham,2015,with other qualifications,7000,126500,5.5
-4083,Haringey,2015,with other qualifications,21000,190400,11.0
-4084,Harrow,2015,with other qualifications,18300,158400,11.6
-4085,Havering,2015,with other qualifications,9800,154100,6.4
-4086,Hillingdon,2015,with other qualifications,16600,195800,8.5
-4087,Hounslow,2015,with other qualifications,22400,180700,12.4
-4088,Islington,2015,with other qualifications,8000,167000,4.8
-4089,Kensington and Chelsea,2015,with other qualifications,6900,107600,6.5
-4090,Kingston upon Thames,2015,with other qualifications,8000,113800,7.1
-4091,Lambeth,2015,with other qualifications,14400,237400,6.1
-4092,Lewisham,2015,with other qualifications,17300,207000,8.4
-4093,Merton,2015,with other qualifications,9100,136800,6.7
-4094,Newham,2015,with other qualifications,35500,229800,15.5
-4095,Redbridge,2015,with other qualifications,12400,191900,6.5
-4096,Richmond upon Thames,2015,with other qualifications,4400,124100,3.5
-4097,Southwark,2015,with other qualifications,15000,222200,6.7
-4098,Sutton,2015,with other qualifications,7000,129400,5.4
-4099,Tower Hamlets,2015,with other qualifications,17900,215800,8.3
-4100,Waltham Forest,2015,with other qualifications,16200,183000,8.9
-4101,Wandsworth,2015,with other qualifications,21400,226200,9.5
-4102,Westminster,2015,with other qualifications,13400,169000,7.9
-4103,Inner London,2015,with other qualifications,205600,2466600,8.3
-4104,Outer London,2015,with other qualifications,293100,3375200,8.7
-4105,North East,2015,with other qualifications,76400,1650300,4.6
-4106,North West,2015,with other qualifications,295200,4474400,6.6
-4107,Yorkshire and The Humber,2015,with other qualifications,241200,3359200,7.2
-4108,East Midlands,2015,with other qualifications,194100,2901000,6.7
-4109,West Midlands,2015,with other qualifications,252500,3541600,7.1
-4110,East,2015,with other qualifications,262700,3715200,7.1
-4111,London,2015,with other qualifications,498600,5841700,8.5
-4112,South East,2015,with other qualifications,283700,5489400,5.2
-4113,South West,2015,with other qualifications,158500,3294400,4.8
-4114,England,2015,with other qualifications,2262900,34267200,6.6
-4115,Wales,2015,with other qualifications,113700,1903900,6.0
-4116,Scotland,2015,with other qualifications,199400,3404500,5.9
-4117,Northern Ireland,2015,with other qualifications,56800,1156300,4.9
-4118,England and Wales,2015,with other qualifications,2376600,36171100,6.6
-4119,Great Britain,2015,with other qualifications,2576100,39575600,6.5
-4120,United Kingdom,2015,with other qualifications,2632800,40731900,6.5
-4122,Barking and Dagenham,2015,with no qualifications,14400,126800,11.3
-4123,Barnet,2015,with no qualifications,12600,243700,5.2
-4124,Bexley,2015,with no qualifications,16300,151500,10.8
-4125,Brent,2015,with no qualifications,13900,220400,6.3
-4126,Bromley,2015,with no qualifications,8500,199900,4.3
-4127,Camden,2015,with no qualifications,10600,169900,6.2
-4128,Croydon,2015,with no qualifications,17400,246500,7.1
-4129,Ealing,2015,with no qualifications,20700,226400,9.1
-4130,Enfield,2015,with no qualifications,9500,208900,4.5
-4131,Greenwich,2015,with no qualifications,19400,183200,10.6
-4132,Hackney,2015,with no qualifications,21000,192200,10.9
-4133,Hammersmith and Fulham,2015,with no qualifications,6400,126500,5.1
-4134,Haringey,2015,with no qualifications,16900,190400,8.9
-4135,Harrow,2015,with no qualifications,6700,158400,4.3
-4136,Havering,2015,with no qualifications,16300,154100,10.6
-4137,Hillingdon,2015,with no qualifications,17100,195800,8.7
-4138,Hounslow,2015,with no qualifications,11800,180700,6.6
-4139,Islington,2015,with no qualifications,10500,167000,6.3
-4140,Kensington and Chelsea,2015,with no qualifications,5600,107600,5.2
-4141,Kingston upon Thames,2015,with no qualifications,6700,113800,5.9
-4142,Lambeth,2015,with no qualifications,14900,237400,6.3
-4143,Lewisham,2015,with no qualifications,12100,207000,5.8
-4144,Merton,2015,with no qualifications,6500,136800,4.7
-4145,Newham,2015,with no qualifications,25600,229800,11.1
-4146,Redbridge,2015,with no qualifications,19700,191900,10.2
-4147,Richmond upon Thames,2015,with no qualifications,4000,124100,3.2
-4148,Southwark,2015,with no qualifications,17000,222200,7.7
-4149,Sutton,2015,with no qualifications,5700,129400,4.4
-4150,Tower Hamlets,2015,with no qualifications,21900,215800,10.1
-4151,Waltham Forest,2015,with no qualifications,21300,183000,11.6
-4152,Wandsworth,2015,with no qualifications,10000,226200,4.4
-4153,Westminster,2015,with no qualifications,8000,169000,4.7
-4154,Inner London,2015,with no qualifications,181300,2466600,7.3
-4155,Outer London,2015,with no qualifications,248500,3375200,7.4
-4156,North East,2015,with no qualifications,170800,1650300,10.4
-4157,North West,2015,with no qualifications,439200,4474400,9.8
-4158,Yorkshire and The Humber,2015,with no qualifications,327600,3359200,9.8
-4159,East Midlands,2015,with no qualifications,231900,2901000,8.0
-4160,West Midlands,2015,with no qualifications,460200,3541600,13.0
-4161,East,2015,with no qualifications,298100,3715200,8.0
-4162,London,2015,with no qualifications,429700,5841700,7.4
-4163,South East,2015,with no qualifications,345300,5489400,6.3
-4164,South West,2015,with no qualifications,181500,3294400,5.5
-4165,England,2015,with no qualifications,2884200,34267200,8.4
-4166,Wales,2015,with no qualifications,199400,1903900,10.5
-4167,Scotland,2015,with no qualifications,307500,3404500,9.0
-4168,Northern Ireland,2015,with no qualifications,188000,1156300,16.3
-4169,England and Wales,2015,with no qualifications,3083600,36171100,8.5
-4170,Great Britain,2015,with no qualifications,3391100,39575600,8.6
-4171,United Kingdom,2015,with no qualifications,3579100,40731900,8.8
+4071,Barking and Dagenham,2015,other qualifications,16200,126800,12.8
+4072,Barnet,2015,other qualifications,21800,243700,9.0
+4073,Bexley,2015,other qualifications,6700,151500,4.4
+4074,Brent,2015,other qualifications,26800,220400,12.2
+4075,Bromley,2015,other qualifications,10100,199900,5.1
+4076,Camden,2015,other qualifications,13100,169900,7.7
+4077,Croydon,2015,other qualifications,20100,246500,8.2
+4078,Ealing,2015,other qualifications,23600,226400,10.4
+4079,Enfield,2015,other qualifications,27100,208900,13.0
+4080,Greenwich,2015,other qualifications,16100,183200,8.8
+4081,Hackney,2015,other qualifications,14700,192200,7.7
+4082,Hammersmith and Fulham,2015,other qualifications,7000,126500,5.5
+4083,Haringey,2015,other qualifications,21000,190400,11.0
+4084,Harrow,2015,other qualifications,18300,158400,11.6
+4085,Havering,2015,other qualifications,9800,154100,6.4
+4086,Hillingdon,2015,other qualifications,16600,195800,8.5
+4087,Hounslow,2015,other qualifications,22400,180700,12.4
+4088,Islington,2015,other qualifications,8000,167000,4.8
+4089,Kensington and Chelsea,2015,other qualifications,6900,107600,6.5
+4090,Kingston upon Thames,2015,other qualifications,8000,113800,7.1
+4091,Lambeth,2015,other qualifications,14400,237400,6.1
+4092,Lewisham,2015,other qualifications,17300,207000,8.4
+4093,Merton,2015,other qualifications,9100,136800,6.7
+4094,Newham,2015,other qualifications,35500,229800,15.5
+4095,Redbridge,2015,other qualifications,12400,191900,6.5
+4096,Richmond upon Thames,2015,other qualifications,4400,124100,3.5
+4097,Southwark,2015,other qualifications,15000,222200,6.7
+4098,Sutton,2015,other qualifications,7000,129400,5.4
+4099,Tower Hamlets,2015,other qualifications,17900,215800,8.3
+4100,Waltham Forest,2015,other qualifications,16200,183000,8.9
+4101,Wandsworth,2015,other qualifications,21400,226200,9.5
+4102,Westminster,2015,other qualifications,13400,169000,7.9
+4103,Inner London,2015,other qualifications,205600,2466600,8.3
+4104,Outer London,2015,other qualifications,293100,3375200,8.7
+4105,North East,2015,other qualifications,76400,1650300,4.6
+4106,North West,2015,other qualifications,295200,4474400,6.6
+4107,Yorkshire and The Humber,2015,other qualifications,241200,3359200,7.2
+4108,East Midlands,2015,other qualifications,194100,2901000,6.7
+4109,West Midlands,2015,other qualifications,252500,3541600,7.1
+4110,East,2015,other qualifications,262700,3715200,7.1
+4111,London,2015,other qualifications,498600,5841700,8.5
+4112,South East,2015,other qualifications,283700,5489400,5.2
+4113,South West,2015,other qualifications,158500,3294400,4.8
+4114,England,2015,other qualifications,2262900,34267200,6.6
+4115,Wales,2015,other qualifications,113700,1903900,6.0
+4116,Scotland,2015,other qualifications,199400,3404500,5.9
+4117,Northern Ireland,2015,other qualifications,56800,1156300,4.9
+4118,England and Wales,2015,other qualifications,2376600,36171100,6.6
+4119,Great Britain,2015,other qualifications,2576100,39575600,6.5
+4120,United Kingdom,2015,other qualifications,2632800,40731900,6.5
+4122,Barking and Dagenham,2015,no qualifications,14400,126800,11.3
+4123,Barnet,2015,no qualifications,12600,243700,5.2
+4124,Bexley,2015,no qualifications,16300,151500,10.8
+4125,Brent,2015,no qualifications,13900,220400,6.3
+4126,Bromley,2015,no qualifications,8500,199900,4.3
+4127,Camden,2015,no qualifications,10600,169900,6.2
+4128,Croydon,2015,no qualifications,17400,246500,7.1
+4129,Ealing,2015,no qualifications,20700,226400,9.1
+4130,Enfield,2015,no qualifications,9500,208900,4.5
+4131,Greenwich,2015,no qualifications,19400,183200,10.6
+4132,Hackney,2015,no qualifications,21000,192200,10.9
+4133,Hammersmith and Fulham,2015,no qualifications,6400,126500,5.1
+4134,Haringey,2015,no qualifications,16900,190400,8.9
+4135,Harrow,2015,no qualifications,6700,158400,4.3
+4136,Havering,2015,no qualifications,16300,154100,10.6
+4137,Hillingdon,2015,no qualifications,17100,195800,8.7
+4138,Hounslow,2015,no qualifications,11800,180700,6.6
+4139,Islington,2015,no qualifications,10500,167000,6.3
+4140,Kensington and Chelsea,2015,no qualifications,5600,107600,5.2
+4141,Kingston upon Thames,2015,no qualifications,6700,113800,5.9
+4142,Lambeth,2015,no qualifications,14900,237400,6.3
+4143,Lewisham,2015,no qualifications,12100,207000,5.8
+4144,Merton,2015,no qualifications,6500,136800,4.7
+4145,Newham,2015,no qualifications,25600,229800,11.1
+4146,Redbridge,2015,no qualifications,19700,191900,10.2
+4147,Richmond upon Thames,2015,no qualifications,4000,124100,3.2
+4148,Southwark,2015,no qualifications,17000,222200,7.7
+4149,Sutton,2015,no qualifications,5700,129400,4.4
+4150,Tower Hamlets,2015,no qualifications,21900,215800,10.1
+4151,Waltham Forest,2015,no qualifications,21300,183000,11.6
+4152,Wandsworth,2015,no qualifications,10000,226200,4.4
+4153,Westminster,2015,no qualifications,8000,169000,4.7
+4154,Inner London,2015,no qualifications,181300,2466600,7.3
+4155,Outer London,2015,no qualifications,248500,3375200,7.4
+4156,North East,2015,no qualifications,170800,1650300,10.4
+4157,North West,2015,no qualifications,439200,4474400,9.8
+4158,Yorkshire and The Humber,2015,no qualifications,327600,3359200,9.8
+4159,East Midlands,2015,no qualifications,231900,2901000,8.0
+4160,West Midlands,2015,no qualifications,460200,3541600,13.0
+4161,East,2015,no qualifications,298100,3715200,8.0
+4162,London,2015,no qualifications,429700,5841700,7.4
+4163,South East,2015,no qualifications,345300,5489400,6.3
+4164,South West,2015,no qualifications,181500,3294400,5.5
+4165,England,2015,no qualifications,2884200,34267200,8.4
+4166,Wales,2015,no qualifications,199400,1903900,10.5
+4167,Scotland,2015,no qualifications,307500,3404500,9.0
+4168,Northern Ireland,2015,no qualifications,188000,1156300,16.3
+4169,England and Wales,2015,no qualifications,3083600,36171100,8.5
+4170,Great Britain,2015,no qualifications,3391100,39575600,8.6
+4171,United Kingdom,2015,no qualifications,3579100,40731900,8.8
 4172,City of London,2016,NVQ4+,5700,6500,87.6
 4173,Barking and Dagenham,2016,NVQ4+,42800,128800,33.2
 4174,Barnet,2016,NVQ4+,140100,250600,55.9
@@ -4322,106 +4322,106 @@
 4424,England and Wales,2016,NVQ1 only,4087900,36337600,11.2
 4425,Great Britain,2016,NVQ1 only,4378800,39741400,11.0
 4426,United Kingdom,2016,NVQ1 only,4480600,40904800,11.0
-4428,Barking and Dagenham,2016,with other qualifications,13900,128800,10.8
-4429,Barnet,2016,with other qualifications,15700,250600,6.3
-4430,Bexley,2016,with other qualifications,7400,154400,4.8
-4431,Brent,2016,with other qualifications,27200,220700,12.3
-4432,Bromley,2016,with other qualifications,14200,201600,7.1
-4433,Camden,2016,with other qualifications,13100,169900,7.7
-4434,Croydon,2016,with other qualifications,21600,245800,8.8
-4435,Ealing,2016,with other qualifications,15900,225300,7.0
-4436,Enfield,2016,with other qualifications,16200,211000,7.7
-4437,Greenwich,2016,with other qualifications,16800,182900,9.2
-4438,Hackney,2016,with other qualifications,15600,197600,7.9
-4439,Hammersmith and Fulham,2016,with other qualifications,7200,127100,5.7
-4440,Haringey,2016,with other qualifications,24100,194300,12.4
-4441,Harrow,2016,with other qualifications,18400,160000,11.5
-4442,Havering,2016,with other qualifications,10500,157300,6.7
-4443,Hillingdon,2016,with other qualifications,17900,197100,9.1
-4444,Hounslow,2016,with other qualifications,21800,183100,11.9
-4445,Islington,2016,with other qualifications,9600,171300,5.6
-4446,Kensington and Chelsea,2016,with other qualifications,6700,108100,6.2
-4447,Kingston upon Thames,2016,with other qualifications,7700,117200,6.6
-4448,Lambeth,2016,with other qualifications,10500,244200,4.3
-4449,Lewisham,2016,with other qualifications,10600,209500,5.0
-4450,Merton,2016,with other qualifications,6000,136600,4.4
-4451,Newham,2016,with other qualifications,36300,233400,15.6
-4452,Redbridge,2016,with other qualifications,16400,194300,8.4
-4453,Richmond upon Thames,2016,with other qualifications,3700,127600,2.9
-4454,Southwark,2016,with other qualifications,15800,225200,7.0
-4455,Sutton,2016,with other qualifications,6200,129600,4.8
-4456,Tower Hamlets,2016,with other qualifications,21900,223300,9.8
-4457,Waltham Forest,2016,with other qualifications,26000,184300,14.1
-4458,Wandsworth,2016,with other qualifications,11300,226200,5.0
-4459,Westminster,2016,with other qualifications,16700,170700,9.8
-4460,Inner London,2016,with other qualifications,199300,2507300,7.9
-4461,Outer London,2016,with other qualifications,283800,3408100,8.3
-4462,North East,2016,with other qualifications,88400,1647400,5.4
-4463,North West,2016,with other qualifications,255700,4479500,5.7
-4464,Yorkshire and The Humber,2016,with other qualifications,239300,3360500,7.1
-4465,East Midlands,2016,with other qualifications,217500,2914400,7.5
-4466,West Midlands,2016,with other qualifications,292900,3553200,8.2
-4467,East,2016,with other qualifications,245200,3739500,6.6
-4468,London,2016,with other qualifications,483000,5915300,8.2
-4469,South East,2016,with other qualifications,317900,5518500,5.8
-4470,South West,2016,with other qualifications,168000,3307300,5.1
-4471,England,2016,with other qualifications,2307800,34435600,6.7
-4472,Wales,2016,with other qualifications,116600,1902000,6.1
-4473,Scotland,2016,with other qualifications,206900,3403800,6.1
-4474,Northern Ireland,2016,with other qualifications,65700,1163300,5.6
-4475,England and Wales,2016,with other qualifications,2424400,36337600,6.7
-4476,Great Britain,2016,with other qualifications,2631300,39741400,6.6
-4477,United Kingdom,2016,with other qualifications,2696900,40904800,6.6
-4479,Barking and Dagenham,2016,with no qualifications,18900,128800,14.7
-4480,Barnet,2016,with no qualifications,13900,250600,5.5
-4481,Bexley,2016,with no qualifications,10500,154400,6.8
-4482,Brent,2016,with no qualifications,13600,220700,6.2
-4483,Bromley,2016,with no qualifications,7200,201600,3.6
-4484,Camden,2016,with no qualifications,12000,169900,7.0
-4485,Croydon,2016,with no qualifications,15400,245800,6.3
-4486,Ealing,2016,with no qualifications,14000,225300,6.2
-4487,Enfield,2016,with no qualifications,16600,211000,7.9
-4488,Greenwich,2016,with no qualifications,11400,182900,6.2
-4489,Hackney,2016,with no qualifications,16200,197600,8.2
-4490,Hammersmith and Fulham,2016,with no qualifications,8100,127100,6.4
-4491,Haringey,2016,with no qualifications,16900,194300,8.7
-4492,Harrow,2016,with no qualifications,4400,160000,2.8
-4493,Havering,2016,with no qualifications,12700,157300,8.1
-4494,Hillingdon,2016,with no qualifications,10800,197100,5.5
-4495,Hounslow,2016,with no qualifications,12300,183100,6.7
-4496,Islington,2016,with no qualifications,14800,171300,8.6
-4497,Kensington and Chelsea,2016,with no qualifications,5500,108100,5.1
-4498,Kingston upon Thames,2016,with no qualifications,5500,117200,4.7
-4499,Lambeth,2016,with no qualifications,11900,244200,4.9
-4500,Lewisham,2016,with no qualifications,13200,209500,6.3
-4501,Merton,2016,with no qualifications,7700,136600,5.6
-4502,Newham,2016,with no qualifications,20900,233400,9.0
-4503,Redbridge,2016,with no qualifications,17600,194300,9.0
-4504,Richmond upon Thames,2016,with no qualifications,2700,127600,2.1
-4505,Southwark,2016,with no qualifications,14800,225200,6.6
-4506,Sutton,2016,with no qualifications,8000,129600,6.2
-4507,Tower Hamlets,2016,with no qualifications,19300,223300,8.6
-4508,Waltham Forest,2016,with no qualifications,14300,184300,7.7
-4509,Wandsworth,2016,with no qualifications,8100,226200,3.6
-4510,Westminster,2016,with no qualifications,8100,170700,4.8
-4511,Inner London,2016,with no qualifications,170700,2507300,6.8
-4512,Outer London,2016,with no qualifications,217500,3408100,6.4
-4513,North East,2016,with no qualifications,153900,1647400,9.3
-4514,North West,2016,with no qualifications,426100,4479500,9.5
-4515,Yorkshire and The Humber,2016,with no qualifications,318000,3360500,9.5
-4516,East Midlands,2016,with no qualifications,219500,2914400,7.5
-4517,West Midlands,2016,with no qualifications,418900,3553200,11.8
-4518,East,2016,with no qualifications,283600,3739500,7.6
-4519,London,2016,with no qualifications,388200,5915300,6.6
-4520,South East,2016,with no qualifications,300700,5518500,5.4
-4521,South West,2016,with no qualifications,170000,3307300,5.1
-4522,England,2016,with no qualifications,2678900,34435600,7.8
-4523,Wales,2016,with no qualifications,181600,1902000,9.5
-4524,Scotland,2016,with no qualifications,334800,3403800,9.8
-4525,Northern Ireland,2016,with no qualifications,183200,1163300,15.7
-4526,England and Wales,2016,with no qualifications,2860500,36337600,7.9
-4527,Great Britain,2016,with no qualifications,3195300,39741400,8.0
-4528,United Kingdom,2016,with no qualifications,3378500,40904800,8.3
+4428,Barking and Dagenham,2016,other qualifications,13900,128800,10.8
+4429,Barnet,2016,other qualifications,15700,250600,6.3
+4430,Bexley,2016,other qualifications,7400,154400,4.8
+4431,Brent,2016,other qualifications,27200,220700,12.3
+4432,Bromley,2016,other qualifications,14200,201600,7.1
+4433,Camden,2016,other qualifications,13100,169900,7.7
+4434,Croydon,2016,other qualifications,21600,245800,8.8
+4435,Ealing,2016,other qualifications,15900,225300,7.0
+4436,Enfield,2016,other qualifications,16200,211000,7.7
+4437,Greenwich,2016,other qualifications,16800,182900,9.2
+4438,Hackney,2016,other qualifications,15600,197600,7.9
+4439,Hammersmith and Fulham,2016,other qualifications,7200,127100,5.7
+4440,Haringey,2016,other qualifications,24100,194300,12.4
+4441,Harrow,2016,other qualifications,18400,160000,11.5
+4442,Havering,2016,other qualifications,10500,157300,6.7
+4443,Hillingdon,2016,other qualifications,17900,197100,9.1
+4444,Hounslow,2016,other qualifications,21800,183100,11.9
+4445,Islington,2016,other qualifications,9600,171300,5.6
+4446,Kensington and Chelsea,2016,other qualifications,6700,108100,6.2
+4447,Kingston upon Thames,2016,other qualifications,7700,117200,6.6
+4448,Lambeth,2016,other qualifications,10500,244200,4.3
+4449,Lewisham,2016,other qualifications,10600,209500,5.0
+4450,Merton,2016,other qualifications,6000,136600,4.4
+4451,Newham,2016,other qualifications,36300,233400,15.6
+4452,Redbridge,2016,other qualifications,16400,194300,8.4
+4453,Richmond upon Thames,2016,other qualifications,3700,127600,2.9
+4454,Southwark,2016,other qualifications,15800,225200,7.0
+4455,Sutton,2016,other qualifications,6200,129600,4.8
+4456,Tower Hamlets,2016,other qualifications,21900,223300,9.8
+4457,Waltham Forest,2016,other qualifications,26000,184300,14.1
+4458,Wandsworth,2016,other qualifications,11300,226200,5.0
+4459,Westminster,2016,other qualifications,16700,170700,9.8
+4460,Inner London,2016,other qualifications,199300,2507300,7.9
+4461,Outer London,2016,other qualifications,283800,3408100,8.3
+4462,North East,2016,other qualifications,88400,1647400,5.4
+4463,North West,2016,other qualifications,255700,4479500,5.7
+4464,Yorkshire and The Humber,2016,other qualifications,239300,3360500,7.1
+4465,East Midlands,2016,other qualifications,217500,2914400,7.5
+4466,West Midlands,2016,other qualifications,292900,3553200,8.2
+4467,East,2016,other qualifications,245200,3739500,6.6
+4468,London,2016,other qualifications,483000,5915300,8.2
+4469,South East,2016,other qualifications,317900,5518500,5.8
+4470,South West,2016,other qualifications,168000,3307300,5.1
+4471,England,2016,other qualifications,2307800,34435600,6.7
+4472,Wales,2016,other qualifications,116600,1902000,6.1
+4473,Scotland,2016,other qualifications,206900,3403800,6.1
+4474,Northern Ireland,2016,other qualifications,65700,1163300,5.6
+4475,England and Wales,2016,other qualifications,2424400,36337600,6.7
+4476,Great Britain,2016,other qualifications,2631300,39741400,6.6
+4477,United Kingdom,2016,other qualifications,2696900,40904800,6.6
+4479,Barking and Dagenham,2016,no qualifications,18900,128800,14.7
+4480,Barnet,2016,no qualifications,13900,250600,5.5
+4481,Bexley,2016,no qualifications,10500,154400,6.8
+4482,Brent,2016,no qualifications,13600,220700,6.2
+4483,Bromley,2016,no qualifications,7200,201600,3.6
+4484,Camden,2016,no qualifications,12000,169900,7.0
+4485,Croydon,2016,no qualifications,15400,245800,6.3
+4486,Ealing,2016,no qualifications,14000,225300,6.2
+4487,Enfield,2016,no qualifications,16600,211000,7.9
+4488,Greenwich,2016,no qualifications,11400,182900,6.2
+4489,Hackney,2016,no qualifications,16200,197600,8.2
+4490,Hammersmith and Fulham,2016,no qualifications,8100,127100,6.4
+4491,Haringey,2016,no qualifications,16900,194300,8.7
+4492,Harrow,2016,no qualifications,4400,160000,2.8
+4493,Havering,2016,no qualifications,12700,157300,8.1
+4494,Hillingdon,2016,no qualifications,10800,197100,5.5
+4495,Hounslow,2016,no qualifications,12300,183100,6.7
+4496,Islington,2016,no qualifications,14800,171300,8.6
+4497,Kensington and Chelsea,2016,no qualifications,5500,108100,5.1
+4498,Kingston upon Thames,2016,no qualifications,5500,117200,4.7
+4499,Lambeth,2016,no qualifications,11900,244200,4.9
+4500,Lewisham,2016,no qualifications,13200,209500,6.3
+4501,Merton,2016,no qualifications,7700,136600,5.6
+4502,Newham,2016,no qualifications,20900,233400,9.0
+4503,Redbridge,2016,no qualifications,17600,194300,9.0
+4504,Richmond upon Thames,2016,no qualifications,2700,127600,2.1
+4505,Southwark,2016,no qualifications,14800,225200,6.6
+4506,Sutton,2016,no qualifications,8000,129600,6.2
+4507,Tower Hamlets,2016,no qualifications,19300,223300,8.6
+4508,Waltham Forest,2016,no qualifications,14300,184300,7.7
+4509,Wandsworth,2016,no qualifications,8100,226200,3.6
+4510,Westminster,2016,no qualifications,8100,170700,4.8
+4511,Inner London,2016,no qualifications,170700,2507300,6.8
+4512,Outer London,2016,no qualifications,217500,3408100,6.4
+4513,North East,2016,no qualifications,153900,1647400,9.3
+4514,North West,2016,no qualifications,426100,4479500,9.5
+4515,Yorkshire and The Humber,2016,no qualifications,318000,3360500,9.5
+4516,East Midlands,2016,no qualifications,219500,2914400,7.5
+4517,West Midlands,2016,no qualifications,418900,3553200,11.8
+4518,East,2016,no qualifications,283600,3739500,7.6
+4519,London,2016,no qualifications,388200,5915300,6.6
+4520,South East,2016,no qualifications,300700,5518500,5.4
+4521,South West,2016,no qualifications,170000,3307300,5.1
+4522,England,2016,no qualifications,2678900,34435600,7.8
+4523,Wales,2016,no qualifications,181600,1902000,9.5
+4524,Scotland,2016,no qualifications,334800,3403800,9.8
+4525,Northern Ireland,2016,no qualifications,183200,1163300,15.7
+4526,England and Wales,2016,no qualifications,2860500,36337600,7.9
+4527,Great Britain,2016,no qualifications,3195300,39741400,8.0
+4528,United Kingdom,2016,no qualifications,3378500,40904800,8.3
 4529,City of London,2017,NVQ4+,9700,11100,87.2
 4530,Barking and Dagenham,2017,NVQ4+,40100,130600,30.7
 4531,Barnet,2017,NVQ4+,134100,249100,53.8
@@ -4555,54 +4555,54 @@
 4673,England and Wales,2017,Trade Apprenticeships,1079300,36454000,3.0
 4674,Great Britain,2017,Trade Apprenticeships,1238900,39882700,3.1
 4675,United Kingdom,2017,Trade Apprenticeships,1296200,41045900,3.2
-4677,Barking and Dagenham,2017,NVQ2 only ,22300,130600,17.0
-4678,Barnet,2017,NVQ2 only ,25600,249100,10.3
-4679,Bexley,2017,NVQ2 only ,26000,156200,16.7
-4680,Brent,2017,NVQ2 only ,28100,216900,12.9
-4681,Bromley,2017,NVQ2 only ,28800,203200,14.2
-4682,Camden,2017,NVQ2 only ,12400,176100,7.0
-4683,Croydon,2017,NVQ2 only ,35100,245300,14.3
-4684,Ealing,2017,NVQ2 only ,22000,225300,9.8
-4685,Enfield,2017,NVQ2 only ,30500,216300,14.1
-4686,Greenwich,2017,NVQ2 only ,24200,189300,12.8
-4687,Hackney,2017,NVQ2 only ,15800,199200,7.9
-4688,Hammersmith and Fulham,2017,NVQ2 only ,8500,129900,6.5
-4689,Haringey,2017,NVQ2 only ,17200,189700,9.0
-4690,Harrow,2017,NVQ2 only ,19400,156100,12.5
-4691,Havering,2017,NVQ2 only ,32900,158300,20.8
-4692,Hillingdon,2017,NVQ2 only ,27700,194300,14.3
-4693,Hounslow,2017,NVQ2 only ,15600,177100,8.8
-4694,Islington,2017,NVQ2 only ,14900,174400,8.6
-4695,Kensington and Chelsea,2017,NVQ2 only ,8200,104600,7.8
-4696,Kingston upon Thames,2017,NVQ2 only ,14600,114800,12.7
-4697,Lambeth,2017,NVQ2 only ,11900,242900,4.9
-4698,Lewisham,2017,NVQ2 only ,21600,207400,10.4
-4699,Merton,2017,NVQ2 only ,11000,135400,8.1
-4700,Newham,2017,NVQ2 only ,25200,242000,10.4
-4701,Redbridge,2017,NVQ2 only ,22000,195300,11.2
-4702,Richmond upon Thames,2017,NVQ2 only ,12600,125600,10.0
-4703,Southwark,2017,NVQ2 only ,18100,228500,7.9
-4704,Sutton,2017,NVQ2 only ,14900,128900,11.5
-4705,Tower Hamlets,2017,NVQ2 only ,23900,225100,10.6
-4706,Waltham Forest,2017,NVQ2 only ,25100,181300,13.8
-4707,Wandsworth,2017,NVQ2 only ,14400,229600,6.3
-4708,Westminster,2017,NVQ2 only ,12100,164200,7.4
-4709,North East,2017,NVQ2 only ,305300,1643300,18.6
-4710,North West,2017,NVQ2 only ,803000,4498900,17.8
-4711,Yorkshire and The Humber,2017,NVQ2 only ,569400,3370500,16.9
-4712,East Midlands,2017,NVQ2 only ,503400,2938400,17.1
-4713,West Midlands,2017,NVQ2 only ,618500,3596700,17.2
-4714,East,2017,NVQ2 only ,670600,3735200,18.0
-4715,London,2017,NVQ2 only ,642900,5923900,10.9
-4716,South East,2017,NVQ2 only ,887700,5524700,16.1
-4717,South West,2017,NVQ2 only ,563800,3320100,17.0
-4718,England,2017,NVQ2 only ,5564600,34551700,16.1
-4719,Wales,2017,NVQ2 only ,339500,1902400,17.8
-4720,Scotland,2017,NVQ2 only ,470500,3428700,13.7
-4721,Northern Ireland,2017,NVQ2 only ,190900,1163200,16.4
-4722,England and Wales,2017,NVQ2 only ,5904100,36454000,16.2
-4723,Great Britain,2017,NVQ2 only ,6374600,39882700,16.0
-4724,United Kingdom,2017,NVQ2 only ,6565500,41045900,16.0
+4677,Barking and Dagenham,2017,NVQ2 only,22300,130600,17.0
+4678,Barnet,2017,NVQ2 only,25600,249100,10.3
+4679,Bexley,2017,NVQ2 only,26000,156200,16.7
+4680,Brent,2017,NVQ2 only,28100,216900,12.9
+4681,Bromley,2017,NVQ2 only,28800,203200,14.2
+4682,Camden,2017,NVQ2 only,12400,176100,7.0
+4683,Croydon,2017,NVQ2 only,35100,245300,14.3
+4684,Ealing,2017,NVQ2 only,22000,225300,9.8
+4685,Enfield,2017,NVQ2 only,30500,216300,14.1
+4686,Greenwich,2017,NVQ2 only,24200,189300,12.8
+4687,Hackney,2017,NVQ2 only,15800,199200,7.9
+4688,Hammersmith and Fulham,2017,NVQ2 only,8500,129900,6.5
+4689,Haringey,2017,NVQ2 only,17200,189700,9.0
+4690,Harrow,2017,NVQ2 only,19400,156100,12.5
+4691,Havering,2017,NVQ2 only,32900,158300,20.8
+4692,Hillingdon,2017,NVQ2 only,27700,194300,14.3
+4693,Hounslow,2017,NVQ2 only,15600,177100,8.8
+4694,Islington,2017,NVQ2 only,14900,174400,8.6
+4695,Kensington and Chelsea,2017,NVQ2 only,8200,104600,7.8
+4696,Kingston upon Thames,2017,NVQ2 only,14600,114800,12.7
+4697,Lambeth,2017,NVQ2 only,11900,242900,4.9
+4698,Lewisham,2017,NVQ2 only,21600,207400,10.4
+4699,Merton,2017,NVQ2 only,11000,135400,8.1
+4700,Newham,2017,NVQ2 only,25200,242000,10.4
+4701,Redbridge,2017,NVQ2 only,22000,195300,11.2
+4702,Richmond upon Thames,2017,NVQ2 only,12600,125600,10.0
+4703,Southwark,2017,NVQ2 only,18100,228500,7.9
+4704,Sutton,2017,NVQ2 only,14900,128900,11.5
+4705,Tower Hamlets,2017,NVQ2 only,23900,225100,10.6
+4706,Waltham Forest,2017,NVQ2 only,25100,181300,13.8
+4707,Wandsworth,2017,NVQ2 only,14400,229600,6.3
+4708,Westminster,2017,NVQ2 only,12100,164200,7.4
+4709,North East,2017,NVQ2 only,305300,1643300,18.6
+4710,North West,2017,NVQ2 only,803000,4498900,17.8
+4711,Yorkshire and The Humber,2017,NVQ2 only,569400,3370500,16.9
+4712,East Midlands,2017,NVQ2 only,503400,2938400,17.1
+4713,West Midlands,2017,NVQ2 only,618500,3596700,17.2
+4714,East,2017,NVQ2 only,670600,3735200,18.0
+4715,London,2017,NVQ2 only,642900,5923900,10.9
+4716,South East,2017,NVQ2 only,887700,5524700,16.1
+4717,South West,2017,NVQ2 only,563800,3320100,17.0
+4718,England,2017,NVQ2 only,5564600,34551700,16.1
+4719,Wales,2017,NVQ2 only,339500,1902400,17.8
+4720,Scotland,2017,NVQ2 only,470500,3428700,13.7
+4721,Northern Ireland,2017,NVQ2 only,190900,1163200,16.4
+4722,England and Wales,2017,NVQ2 only,5904100,36454000,16.2
+4723,Great Britain,2017,NVQ2 only,6374600,39882700,16.0
+4724,United Kingdom,2017,NVQ2 only,6565500,41045900,16.0
 4726,Barking and Dagenham,2017,NVQ1 only,14600,130600,11.2
 4727,Barnet,2017,NVQ1 only,13600,249100,5.5
 4728,Bexley,2017,NVQ1 only,22700,156200,14.5
@@ -4747,55 +4747,55 @@
 4869,England and Wales,2017,no qualifications,2792300,36454000,7.7
 4870,Great Britain,2017,no qualifications,3090200,39882700,7.7
 4871,United Kingdom,2017,no qualifications,3280000,41045900,8.0
-4872,City of London,2018, NVQ4+ ,7500,7500,100.0
-4873,Barking and Dagenham,2018, NVQ4+ ,44700,135400,33.0
-4874,Barnet,2018, NVQ4+ ,130700,253700,51.5
-4875,Bexley,2018, NVQ4+ ,65700,156300,42.0
-4876,Brent,2018, NVQ4+ ,88600,219700,40.3
-4877,Bromley,2018, NVQ4+ ,102100,205900,49.6
-4878,Camden,2018, NVQ4+ ,116400,181100,64.3
-4879,Croydon,2018, NVQ4+ ,119200,250200,47.6
-4880,Ealing,2018, NVQ4+ ,121300,226400,53.6
-4881,Enfield,2018, NVQ4+ ,87400,214300,40.8
-4882,Greenwich,2018, NVQ4+ ,100100,194400,51.5
-4883,Hackney,2018, NVQ4+ ,108200,202600,53.4
-4884,Hammersmith and Fulham,2018, NVQ4+ ,79800,126500,63.1
-4885,Haringey,2018, NVQ4+ ,105600,196700,53.7
-4886,Harrow,2018, NVQ4+ ,71400,154100,46.3
-4887,Havering,2018, NVQ4+ ,48000,159800,30.0
-4888,Hillingdon,2018, NVQ4+ ,86000,199100,43.2
-4889,Hounslow,2018, NVQ4+ ,98800,181300,54.5
-4890,Islington,2018, NVQ4+ ,117700,175500,67.1
-4891,Kensington and Chelsea,2018, NVQ4+ ,64300,103800,62.0
-4892,Kingston upon Thames,2018, NVQ4+ ,71900,119600,60.1
-4893,Lambeth,2018, NVQ4+ ,150200,243600,61.7
-4894,Lewisham,2018, NVQ4+ ,124200,211400,58.7
-4895,Merton,2018, NVQ4+ ,73200,137700,53.2
-4896,Newham,2018, NVQ4+ ,119900,245600,48.8
-4897,Redbridge,2018, NVQ4+ ,92600,200600,46.2
-4898,Richmond upon Thames,2018, NVQ4+ ,83600,123200,67.9
-4899,Southwark,2018, NVQ4+ ,149200,230900,64.6
-4900,Sutton,2018, NVQ4+ ,62100,128300,48.4
-4901,Tower Hamlets,2018, NVQ4+ ,125700,229700,54.7
-4902,Waltham Forest,2018, NVQ4+ ,90800,186400,48.7
-4903,Wandsworth,2018, NVQ4+ ,165000,233500,70.7
-4904,Westminster,2018, NVQ4+ ,115000,172500,66.7
-4905,North East,2018, NVQ4+ ,509600,1639000,31.1
-4906,North West,2018, NVQ4+ ,1594800,4489500,35.5
-4907,Yorkshire and The Humber,2018, NVQ4+ ,1121400,3372500,33.3
-4908,East Midlands,2018, NVQ4+ ,974400,2931100,33.2
-4909,West Midlands,2018, NVQ4+ ,1188400,3594500,33.1
-4910,East,2018, NVQ4+ ,1320200,3747000,35.2
-4911,London,2018, NVQ4+ ,3186900,6007300,53.1
-4912,South East,2018, NVQ4+ ,2335800,5539900,42.2
-4913,South West,2018, NVQ4+ ,1282100,3315600,38.7
-4914,England,2018, NVQ4+ ,13513600,34636400,39.0
-4915,Wales,2018, NVQ4+ ,675100,1906500,35.4
-4916,Scotland,2018, NVQ4+ ,1515900,3432400,44.2
-4917,Northern Ireland,2018, NVQ4+ ,399900,1159800,34.5
-4918,England and Wales,2018, NVQ4+ ,14188700,36543000,38.8
-4919,Great Britain,2018, NVQ4+ ,15704600,39975300,39.3
-4920,United Kingdom,2018, NVQ4+ ,16104400,41135100,39.2
+4872,City of London,2018,NVQ4+,7500,7500,100.0
+4873,Barking and Dagenham,2018,NVQ4+,44700,135400,33.0
+4874,Barnet,2018,NVQ4+,130700,253700,51.5
+4875,Bexley,2018,NVQ4+,65700,156300,42.0
+4876,Brent,2018,NVQ4+,88600,219700,40.3
+4877,Bromley,2018,NVQ4+,102100,205900,49.6
+4878,Camden,2018,NVQ4+,116400,181100,64.3
+4879,Croydon,2018,NVQ4+,119200,250200,47.6
+4880,Ealing,2018,NVQ4+,121300,226400,53.6
+4881,Enfield,2018,NVQ4+,87400,214300,40.8
+4882,Greenwich,2018,NVQ4+,100100,194400,51.5
+4883,Hackney,2018,NVQ4+,108200,202600,53.4
+4884,Hammersmith and Fulham,2018,NVQ4+,79800,126500,63.1
+4885,Haringey,2018,NVQ4+,105600,196700,53.7
+4886,Harrow,2018,NVQ4+,71400,154100,46.3
+4887,Havering,2018,NVQ4+,48000,159800,30.0
+4888,Hillingdon,2018,NVQ4+,86000,199100,43.2
+4889,Hounslow,2018,NVQ4+,98800,181300,54.5
+4890,Islington,2018,NVQ4+,117700,175500,67.1
+4891,Kensington and Chelsea,2018,NVQ4+,64300,103800,62.0
+4892,Kingston upon Thames,2018,NVQ4+,71900,119600,60.1
+4893,Lambeth,2018,NVQ4+,150200,243600,61.7
+4894,Lewisham,2018,NVQ4+,124200,211400,58.7
+4895,Merton,2018,NVQ4+,73200,137700,53.2
+4896,Newham,2018,NVQ4+,119900,245600,48.8
+4897,Redbridge,2018,NVQ4+,92600,200600,46.2
+4898,Richmond upon Thames,2018,NVQ4+,83600,123200,67.9
+4899,Southwark,2018,NVQ4+,149200,230900,64.6
+4900,Sutton,2018,NVQ4+,62100,128300,48.4
+4901,Tower Hamlets,2018,NVQ4+,125700,229700,54.7
+4902,Waltham Forest,2018,NVQ4+,90800,186400,48.7
+4903,Wandsworth,2018,NVQ4+,165000,233500,70.7
+4904,Westminster,2018,NVQ4+,115000,172500,66.7
+4905,North East,2018,NVQ4+,509600,1639000,31.1
+4906,North West,2018,NVQ4+,1594800,4489500,35.5
+4907,Yorkshire and The Humber,2018,NVQ4+,1121400,3372500,33.3
+4908,East Midlands,2018,NVQ4+,974400,2931100,33.2
+4909,West Midlands,2018,NVQ4+,1188400,3594500,33.1
+4910,East,2018,NVQ4+,1320200,3747000,35.2
+4911,London,2018,NVQ4+,3186900,6007300,53.1
+4912,South East,2018,NVQ4+,2335800,5539900,42.2
+4913,South West,2018,NVQ4+,1282100,3315600,38.7
+4914,England,2018,NVQ4+,13513600,34636400,39.0
+4915,Wales,2018,NVQ4+,675100,1906500,35.4
+4916,Scotland,2018,NVQ4+,1515900,3432400,44.2
+4917,Northern Ireland,2018,NVQ4+,399900,1159800,34.5
+4918,England and Wales,2018,NVQ4+,14188700,36543000,38.8
+4919,Great Britain,2018,NVQ4+,15704600,39975300,39.3
+4920,United Kingdom,2018,NVQ4+,16104400,41135100,39.2
 4922,Barking and Dagenham,2018,NVQ3 only,18400,135400,13.6
 4923,Barnet,2018,NVQ3 only,38600,253700,15.2
 4924,Bexley,2018,NVQ3 only,22200,156300,14.2
@@ -5628,102 +5628,102 @@
 5800,England and Wales,2020,NVQ1 only,3627900,36686800,9.9
 5801,Great Britain,2020,NVQ1 only,3866800,40113700,9.6
 5802,United Kingdom,2020,NVQ1 only,3968300,41269800,9.6
-5804,Barking and Dagenham,2020,with other qualifications,12700,139100,9.1
-5805,Barnet,2020,with other qualifications,21200,256600,8.2
-5806,Bexley,2020,with other qualifications,11800,158400,7.4
-5807,Brent,2020,with other qualifications,20100,220700,9.1
-5808,Bromley,2020,with other qualifications,10000,210500,4.8
-5809,Camden,2020,with other qualifications,6600,186500,3.5
-5810,Croydon,2020,with other qualifications,18000,245900,7.3
-5811,Ealing,2020,with other qualifications,22000,228400,9.6
-5812,Enfield,2020,with other qualifications,17300,222100,7.8
-5813,Greenwich,2020,with other qualifications,16700,197500,8.5
-5814,Hackney,2020,with other qualifications,18500,208800,8.9
-5815,Hammersmith and Fulham,2020,with other qualifications,6900,124800,5.5
-5816,Haringey,2020,with other qualifications,8900,196400,4.5
-5817,Harrow,2020,with other qualifications,10100,156100,6.5
-5818,Havering,2020,with other qualifications,12900,164800,7.8
-5819,Hillingdon,2020,with other qualifications,15500,203400,7.6
-5820,Hounslow,2020,with other qualifications,13400,177500,7.6
-5821,Islington,2020,with other qualifications,9700,181500,5.3
-5822,Kensington and Chelsea,2020,with other qualifications,8800,103300,8.5
-5823,Kingston upon Thames,2020,with other qualifications,8700,119600,7.3
-5824,Lambeth,2020,with other qualifications,10300,243000,4.3
-5825,Lewisham,2020,with other qualifications,7700,220000,3.5
-5826,Merton,2020,with other qualifications,11700,141000,8.3
-5827,Newham,2020,with other qualifications,29900,249900,12.0
-5828,Redbridge,2020,with other qualifications,17300,203000,8.5
-5829,Richmond upon Thames,2020,with other qualifications,5000,128400,3.9
-5830,Southwark,2020,with other qualifications,13800,232500,5.9
-5831,Sutton,2020,with other qualifications,7900,131400,6.0
-5832,Tower Hamlets,2020,with other qualifications,22700,235700,9.6
-5833,Waltham Forest,2020,with other qualifications,9800,189000,5.2
-5834,Wandsworth,2020,with other qualifications,14000,236400,5.9
-5835,Westminster,2020,with other qualifications,18700,170200,11.0
-5836,North East,2020,with other qualifications,84900,1627800,5.2
-5837,North West,2020,with other qualifications,230400,4479600,5.1
-5838,Yorkshire and The Humber,2020,with other qualifications,219400,3367400,6.5
-5839,East Midlands,2020,with other qualifications,184700,2940100,6.3
-5840,West Midlands,2020,with other qualifications,243100,3610300,6.7
-5841,East,2020,with other qualifications,213200,3775300,5.6
-5842,London,2020,with other qualifications,438500,6091400,7.2
-5843,South East,2020,with other qualifications,278000,5569800,5.0
-5844,South West,2020,with other qualifications,156600,3335300,4.7
-5845,England,2020,with other qualifications,2048700,34797000,5.9
-5846,Wales,2020,with other qualifications,106000,1889700,5.6
-5847,Scotland,2020,with other qualifications,196500,3426900,5.7
-5848,Northern Ireland,2020,with other qualifications,38400,1156100,3.3
-5849,England and Wales,2020,with other qualifications,2154800,36686800,5.9
-5850,Great Britain,2020,with other qualifications,2351300,40113700,5.9
-5851,United Kingdom,2020,with other qualifications,2389700,41269800,5.8
-5853,Barking and Dagenham,2020,with no qualifications,12100,139100,8.7
-5854,Barnet,2020,with no qualifications,6200,256600,2.4
-5855,Bexley,2020,with no qualifications,10400,158400,6.5
-5856,Brent,2020,with no qualifications,20000,220700,9.0
-5857,Bromley,2020,with no qualifications,6900,210500,3.3
-5858,Camden,2020,with no qualifications,10300,186500,5.5
-5859,Croydon,2020,with no qualifications,12400,245900,5.0
-5860,Ealing,2020,with no qualifications,15400,228400,6.8
-5861,Enfield,2020,with no qualifications,15700,222100,7.1
-5862,Greenwich,2020,with no qualifications,4600,197500,2.3
-5863,Hackney,2020,with no qualifications,15900,208800,7.6
-5864,Hammersmith and Fulham,2020,with no qualifications,3700,124800,2.9
-5865,Haringey,2020,with no qualifications,8700,196400,4.4
-5866,Harrow,2020,with no qualifications,10100,156100,6.5
-5867,Havering,2020,with no qualifications,11300,164800,6.8
-5868,Hillingdon,2020,with no qualifications,13500,203400,6.6
-5869,Hounslow,2020,with no qualifications,10300,177500,5.8
-5870,Islington,2020,with no qualifications,10700,181500,5.9
-5871,Kensington and Chelsea,2020,with no qualifications,3400,103300,3.3
-5872,Kingston upon Thames,2020,with no qualifications,2000,119600,1.7
-5873,Lambeth,2020,with no qualifications,8500,243000,3.5
-5874,Lewisham,2020,with no qualifications,6200,220000,2.8
-5875,Merton,2020,with no qualifications,6600,141000,4.7
-5876,Newham,2020,with no qualifications,11000,249900,4.4
-5877,Redbridge,2020,with no qualifications,18300,203000,9.0
-5878,Richmond upon Thames,2020,with no qualifications,1700,128400,1.3
-5879,Southwark,2020,with no qualifications,6200,232500,2.7
-5880,Sutton,2020,with no qualifications,7800,131400,6.0
-5881,Tower Hamlets,2020,with no qualifications,23300,235700,9.9
-5882,Waltham Forest,2020,with no qualifications,8900,189000,4.7
-5883,Wandsworth,2020,with no qualifications,6200,236400,2.6
-5884,Westminster,2020,with no qualifications,10000,170200,5.9
-5885,North East,2020,with no qualifications,131100,1627800,8.1
-5886,North West,2020,with no qualifications,340800,4479600,7.6
-5887,Yorkshire and The Humber,2020,with no qualifications,237600,3367400,7.1
-5888,East Midlands,2020,with no qualifications,183000,2940100,6.2
-5889,West Midlands,2020,with no qualifications,299000,3610300,8.3
-5890,East,2020,with no qualifications,210400,3775300,5.6
-5891,London,2020,with no qualifications,318400,6091400,5.2
-5892,South East,2020,with no qualifications,267600,5569800,4.8
-5893,South West,2020,with no qualifications,166100,3335300,5.0
-5894,England,2020,with no qualifications,2153900,34797000,6.2
-5895,Wales,2020,with no qualifications,145800,1889700,7.7
-5896,Scotland,2020,with no qualifications,276500,3426900,8.1
-5897,Northern Ireland,2020,with no qualifications,145200,1156100,12.6
-5898,England and Wales,2020,with no qualifications,2299700,36686800,6.3
-5899,Great Britain,2020,with no qualifications,2576200,40113700,6.4
-5900,United Kingdom,2020,with no qualifications,2721300,41269800,6.6
+5804,Barking and Dagenham,2020,other qualifications,12700,139100,9.1
+5805,Barnet,2020,other qualifications,21200,256600,8.2
+5806,Bexley,2020,other qualifications,11800,158400,7.4
+5807,Brent,2020,other qualifications,20100,220700,9.1
+5808,Bromley,2020,other qualifications,10000,210500,4.8
+5809,Camden,2020,other qualifications,6600,186500,3.5
+5810,Croydon,2020,other qualifications,18000,245900,7.3
+5811,Ealing,2020,other qualifications,22000,228400,9.6
+5812,Enfield,2020,other qualifications,17300,222100,7.8
+5813,Greenwich,2020,other qualifications,16700,197500,8.5
+5814,Hackney,2020,other qualifications,18500,208800,8.9
+5815,Hammersmith and Fulham,2020,other qualifications,6900,124800,5.5
+5816,Haringey,2020,other qualifications,8900,196400,4.5
+5817,Harrow,2020,other qualifications,10100,156100,6.5
+5818,Havering,2020,other qualifications,12900,164800,7.8
+5819,Hillingdon,2020,other qualifications,15500,203400,7.6
+5820,Hounslow,2020,other qualifications,13400,177500,7.6
+5821,Islington,2020,other qualifications,9700,181500,5.3
+5822,Kensington and Chelsea,2020,other qualifications,8800,103300,8.5
+5823,Kingston upon Thames,2020,other qualifications,8700,119600,7.3
+5824,Lambeth,2020,other qualifications,10300,243000,4.3
+5825,Lewisham,2020,other qualifications,7700,220000,3.5
+5826,Merton,2020,other qualifications,11700,141000,8.3
+5827,Newham,2020,other qualifications,29900,249900,12.0
+5828,Redbridge,2020,other qualifications,17300,203000,8.5
+5829,Richmond upon Thames,2020,other qualifications,5000,128400,3.9
+5830,Southwark,2020,other qualifications,13800,232500,5.9
+5831,Sutton,2020,other qualifications,7900,131400,6.0
+5832,Tower Hamlets,2020,other qualifications,22700,235700,9.6
+5833,Waltham Forest,2020,other qualifications,9800,189000,5.2
+5834,Wandsworth,2020,other qualifications,14000,236400,5.9
+5835,Westminster,2020,other qualifications,18700,170200,11.0
+5836,North East,2020,other qualifications,84900,1627800,5.2
+5837,North West,2020,other qualifications,230400,4479600,5.1
+5838,Yorkshire and The Humber,2020,other qualifications,219400,3367400,6.5
+5839,East Midlands,2020,other qualifications,184700,2940100,6.3
+5840,West Midlands,2020,other qualifications,243100,3610300,6.7
+5841,East,2020,other qualifications,213200,3775300,5.6
+5842,London,2020,other qualifications,438500,6091400,7.2
+5843,South East,2020,other qualifications,278000,5569800,5.0
+5844,South West,2020,other qualifications,156600,3335300,4.7
+5845,England,2020,other qualifications,2048700,34797000,5.9
+5846,Wales,2020,other qualifications,106000,1889700,5.6
+5847,Scotland,2020,other qualifications,196500,3426900,5.7
+5848,Northern Ireland,2020,other qualifications,38400,1156100,3.3
+5849,England and Wales,2020,other qualifications,2154800,36686800,5.9
+5850,Great Britain,2020,other qualifications,2351300,40113700,5.9
+5851,United Kingdom,2020,other qualifications,2389700,41269800,5.8
+5853,Barking and Dagenham,2020,no qualifications,12100,139100,8.7
+5854,Barnet,2020,no qualifications,6200,256600,2.4
+5855,Bexley,2020,no qualifications,10400,158400,6.5
+5856,Brent,2020,no qualifications,20000,220700,9.0
+5857,Bromley,2020,no qualifications,6900,210500,3.3
+5858,Camden,2020,no qualifications,10300,186500,5.5
+5859,Croydon,2020,no qualifications,12400,245900,5.0
+5860,Ealing,2020,no qualifications,15400,228400,6.8
+5861,Enfield,2020,no qualifications,15700,222100,7.1
+5862,Greenwich,2020,no qualifications,4600,197500,2.3
+5863,Hackney,2020,no qualifications,15900,208800,7.6
+5864,Hammersmith and Fulham,2020,no qualifications,3700,124800,2.9
+5865,Haringey,2020,no qualifications,8700,196400,4.4
+5866,Harrow,2020,no qualifications,10100,156100,6.5
+5867,Havering,2020,no qualifications,11300,164800,6.8
+5868,Hillingdon,2020,no qualifications,13500,203400,6.6
+5869,Hounslow,2020,no qualifications,10300,177500,5.8
+5870,Islington,2020,no qualifications,10700,181500,5.9
+5871,Kensington and Chelsea,2020,no qualifications,3400,103300,3.3
+5872,Kingston upon Thames,2020,no qualifications,2000,119600,1.7
+5873,Lambeth,2020,no qualifications,8500,243000,3.5
+5874,Lewisham,2020,no qualifications,6200,220000,2.8
+5875,Merton,2020,no qualifications,6600,141000,4.7
+5876,Newham,2020,no qualifications,11000,249900,4.4
+5877,Redbridge,2020,no qualifications,18300,203000,9.0
+5878,Richmond upon Thames,2020,no qualifications,1700,128400,1.3
+5879,Southwark,2020,no qualifications,6200,232500,2.7
+5880,Sutton,2020,no qualifications,7800,131400,6.0
+5881,Tower Hamlets,2020,no qualifications,23300,235700,9.9
+5882,Waltham Forest,2020,no qualifications,8900,189000,4.7
+5883,Wandsworth,2020,no qualifications,6200,236400,2.6
+5884,Westminster,2020,no qualifications,10000,170200,5.9
+5885,North East,2020,no qualifications,131100,1627800,8.1
+5886,North West,2020,no qualifications,340800,4479600,7.6
+5887,Yorkshire and The Humber,2020,no qualifications,237600,3367400,7.1
+5888,East Midlands,2020,no qualifications,183000,2940100,6.2
+5889,West Midlands,2020,no qualifications,299000,3610300,8.3
+5890,East,2020,no qualifications,210400,3775300,5.6
+5891,London,2020,no qualifications,318400,6091400,5.2
+5892,South East,2020,no qualifications,267600,5569800,4.8
+5893,South West,2020,no qualifications,166100,3335300,5.0
+5894,England,2020,no qualifications,2153900,34797000,6.2
+5895,Wales,2020,no qualifications,145800,1889700,7.7
+5896,Scotland,2020,no qualifications,276500,3426900,8.1
+5897,Northern Ireland,2020,no qualifications,145200,1156100,12.6
+5898,England and Wales,2020,no qualifications,2299700,36686800,6.3
+5899,Great Britain,2020,no qualifications,2576200,40113700,6.4
+5900,United Kingdom,2020,no qualifications,2721300,41269800,6.6
 5901,City of London,2021,NVQ4+,24300,25800,94.4
 5902,Barking and Dagenham,2021,NVQ4+,51500,139200,37.0
 5903,Barnet,2021,NVQ4+,145200,258800,56.1
@@ -5949,99 +5949,99 @@
 6143,England and Wales,2021,NVQ1 only,3531000,36614900,9.6
 6144,Great Britain,2021,NVQ1 only,3764300,40019900,9.4
 6145,United Kingdom,2021,NVQ1 only,3855600,41173700,9.4
-6147,Barking and Dagenham,2021,with other qualifications,13100,139200,9.4
-6148,Barnet,2021,with other qualifications,32100,258800,12.4
-6149,Bexley,2021,with other qualifications,7700,158200,4.9
-6150,Brent,2021,with other qualifications,28400,217700,13.0
-6151,Bromley,2021,with other qualifications,6200,210400,3.0
-6152,Camden,2021,with other qualifications,3800,183700,2.1
-6153,Croydon,2021,with other qualifications,19200,250500,7.7
-6154,Ealing,2021,with other qualifications,16800,225000,7.5
-6155,Enfield,2021,with other qualifications,17500,220200,7.9
-6156,Greenwich,2021,with other qualifications,17100,202100,8.4
-6157,Hackney,2021,with other qualifications,11700,213000,5.5
-6158,Hammersmith and Fulham,2021,with other qualifications,7700,127200,6.1
-6159,Haringey,2021,with other qualifications,21900,196500,11.2
-6160,Harrow,2021,with other qualifications,10600,155300,6.9
-6161,Havering,2021,with other qualifications,12300,163900,7.5
-6162,Hillingdon,2021,with other qualifications,16400,200200,8.2
-6163,Hounslow,2021,with other qualifications,16600,179400,9.3
-6164,Islington,2021,with other qualifications,11000,184400,6.0
-6165,Kensington and Chelsea,2021,with other qualifications,8600,102100,8.5
-6166,Kingston upon Thames,2021,with other qualifications,4500,120400,3.7
-6167,Lambeth,2021,with other qualifications,9100,243200,3.8
-6168,Lewisham,2021,with other qualifications,11600,221300,5.2
-6169,Merton,2021,with other qualifications,6700,139700,4.8
-6170,Newham,2021,with other qualifications,21400,244100,8.8
-6171,Redbridge,2021,with other qualifications,20300,201600,10.0
-6172,Richmond upon Thames,2021,with other qualifications,4100,127100,3.3
-6173,Southwark,2021,with other qualifications,17500,234000,7.5
-6174,Sutton,2021,with other qualifications,7300,130700,5.6
-6175,Tower Hamlets,2021,with other qualifications,25400,239200,10.6
-6176,Waltham Forest,2021,with other qualifications,13000,191600,6.8
-6177,Wandsworth,2021,with other qualifications,16400,234700,7.0
-6178,Westminster,2021,with other qualifications,9500,154100,6.2
-6179,North East,2021,with other qualifications,111600,1616200,6.9
-6180,North West,2021,with other qualifications,232100,4461900,5.2
-6181,Yorkshire and The Humber,2021,with other qualifications,191300,3355800,5.7
-6182,East Midlands,2021,with other qualifications,175200,2933000,6.0
-6183,West Midlands,2021,with other qualifications,267100,3605200,7.4
-6184,East,2021,with other qualifications,217300,3768700,5.8
-6185,London,2021,with other qualifications,445300,6095200,7.3
-6186,South East,2021,with other qualifications,257800,5560200,4.6
-6187,South West,2021,with other qualifications,139600,3324000,4.2
-6188,England,2021,with other qualifications,2037200,34720100,5.9
-6189,Wales,2021,with other qualifications,112700,1894800,5.9
-6190,Scotland,2021,with other qualifications,196000,3405000,5.8
-6191,Northern Ireland,2021,with other qualifications,45300,1153800,3.9
-6192,England and Wales,2021,with other qualifications,2149900,36614900,5.9
-6193,Great Britain,2021,with other qualifications,2345900,40019900,5.9
-6194,United Kingdom,2021,with other qualifications,2391300,41173700,5.8
-6196,Barking and Dagenham,2021,with no qualifications,16600,139200,11.9
-6197,Barnet,2021,with no qualifications,18000,258800,6.9
-6198,Bexley,2021,with no qualifications,11600,158200,7.3
-6199,Brent,2021,with no qualifications,16400,217700,7.5
-6200,Bromley,2021,with no qualifications,9000,210400,4.3
-6201,Camden,2021,with no qualifications,10600,183700,5.8
-6202,Croydon,2021,with no qualifications,15400,250500,6.1
-6203,Ealing,2021,with no qualifications,16500,225000,7.3
-6204,Enfield,2021,with no qualifications,10000,220200,4.5
-6205,Greenwich,2021,with no qualifications,8900,202100,4.4
-6206,Hackney,2021,with no qualifications,14900,213000,7.0
-6207,Hammersmith and Fulham,2021,with no qualifications,2900,127200,2.3
-6208,Haringey,2021,with no qualifications,7300,196500,3.7
-6209,Harrow,2021,with no qualifications,4700,155300,3.0
-6210,Havering,2021,with no qualifications,11500,163900,7.0
-6211,Hillingdon,2021,with no qualifications,14600,200200,7.3
-6212,Hounslow,2021,with no qualifications,9200,179400,5.1
-6213,Islington,2021,with no qualifications,12300,184400,6.7
-6214,Kensington and Chelsea,2021,with no qualifications,2700,102100,2.7
-6215,Kingston upon Thames,2021,with no qualifications,3500,120400,2.9
-6216,Lambeth,2021,with no qualifications,9100,243200,3.7
-6217,Lewisham,2021,with no qualifications,13500,221300,6.1
-6218,Merton,2021,with no qualifications,3200,139700,2.3
-6219,Newham,2021,with no qualifications,15000,244100,6.1
-6220,Redbridge,2021,with no qualifications,15000,201600,7.5
-6221,Richmond upon Thames,2021,with no qualifications,3700,127100,2.9
-6222,Southwark,2021,with no qualifications,15100,234000,6.4
-6223,Sutton,2021,with no qualifications,7100,130700,5.4
-6224,Tower Hamlets,2021,with no qualifications,15300,239200,6.4
-6225,Waltham Forest,2021,with no qualifications,6700,191600,3.5
-6226,Wandsworth,2021,with no qualifications,3300,234700,1.4
-6227,Westminster,2021,with no qualifications,9400,154100,6.1
-6228,North East,2021,with no qualifications,131200,1616200,8.1
-6229,North West,2021,with no qualifications,332800,4461900,7.5
-6230,Yorkshire and The Humber,2021,with no qualifications,261200,3355800,7.8
-6231,East Midlands,2021,with no qualifications,219400,2933000,7.5
-6232,West Midlands,2021,with no qualifications,276400,3605200,7.7
-6233,East,2021,with no qualifications,215900,3768700,5.7
-6234,London,2021,with no qualifications,332900,6095200,5.5
-6235,South East,2021,with no qualifications,276100,5560200,5.0
-6236,South West,2021,with no qualifications,166300,3324000,5.0
-6237,England,2021,with no qualifications,2212200,34720100,6.4
-6238,Wales,2021,with no qualifications,156200,1894800,8.2
-6239,Scotland,2021,with no qualifications,263800,3405000,7.7
-6240,Northern Ireland,2021,with no qualifications,137100,1153800,11.9
-6241,England and Wales,2021,with no qualifications,2368400,36614900,6.5
-6242,Great Britain,2021,with no qualifications,2632300,40019900,6.6
-6243,United Kingdom,2021,with no qualifications,2769400,41173700,6.7
+6147,Barking and Dagenham,2021,other qualifications,13100,139200,9.4
+6148,Barnet,2021,other qualifications,32100,258800,12.4
+6149,Bexley,2021,other qualifications,7700,158200,4.9
+6150,Brent,2021,other qualifications,28400,217700,13.0
+6151,Bromley,2021,other qualifications,6200,210400,3.0
+6152,Camden,2021,other qualifications,3800,183700,2.1
+6153,Croydon,2021,other qualifications,19200,250500,7.7
+6154,Ealing,2021,other qualifications,16800,225000,7.5
+6155,Enfield,2021,other qualifications,17500,220200,7.9
+6156,Greenwich,2021,other qualifications,17100,202100,8.4
+6157,Hackney,2021,other qualifications,11700,213000,5.5
+6158,Hammersmith and Fulham,2021,other qualifications,7700,127200,6.1
+6159,Haringey,2021,other qualifications,21900,196500,11.2
+6160,Harrow,2021,other qualifications,10600,155300,6.9
+6161,Havering,2021,other qualifications,12300,163900,7.5
+6162,Hillingdon,2021,other qualifications,16400,200200,8.2
+6163,Hounslow,2021,other qualifications,16600,179400,9.3
+6164,Islington,2021,other qualifications,11000,184400,6.0
+6165,Kensington and Chelsea,2021,other qualifications,8600,102100,8.5
+6166,Kingston upon Thames,2021,other qualifications,4500,120400,3.7
+6167,Lambeth,2021,other qualifications,9100,243200,3.8
+6168,Lewisham,2021,other qualifications,11600,221300,5.2
+6169,Merton,2021,other qualifications,6700,139700,4.8
+6170,Newham,2021,other qualifications,21400,244100,8.8
+6171,Redbridge,2021,other qualifications,20300,201600,10.0
+6172,Richmond upon Thames,2021,other qualifications,4100,127100,3.3
+6173,Southwark,2021,other qualifications,17500,234000,7.5
+6174,Sutton,2021,other qualifications,7300,130700,5.6
+6175,Tower Hamlets,2021,other qualifications,25400,239200,10.6
+6176,Waltham Forest,2021,other qualifications,13000,191600,6.8
+6177,Wandsworth,2021,other qualifications,16400,234700,7.0
+6178,Westminster,2021,other qualifications,9500,154100,6.2
+6179,North East,2021,other qualifications,111600,1616200,6.9
+6180,North West,2021,other qualifications,232100,4461900,5.2
+6181,Yorkshire and The Humber,2021,other qualifications,191300,3355800,5.7
+6182,East Midlands,2021,other qualifications,175200,2933000,6.0
+6183,West Midlands,2021,other qualifications,267100,3605200,7.4
+6184,East,2021,other qualifications,217300,3768700,5.8
+6185,London,2021,other qualifications,445300,6095200,7.3
+6186,South East,2021,other qualifications,257800,5560200,4.6
+6187,South West,2021,other qualifications,139600,3324000,4.2
+6188,England,2021,other qualifications,2037200,34720100,5.9
+6189,Wales,2021,other qualifications,112700,1894800,5.9
+6190,Scotland,2021,other qualifications,196000,3405000,5.8
+6191,Northern Ireland,2021,other qualifications,45300,1153800,3.9
+6192,England and Wales,2021,other qualifications,2149900,36614900,5.9
+6193,Great Britain,2021,other qualifications,2345900,40019900,5.9
+6194,United Kingdom,2021,other qualifications,2391300,41173700,5.8
+6196,Barking and Dagenham,2021,no qualifications,16600,139200,11.9
+6197,Barnet,2021,no qualifications,18000,258800,6.9
+6198,Bexley,2021,no qualifications,11600,158200,7.3
+6199,Brent,2021,no qualifications,16400,217700,7.5
+6200,Bromley,2021,no qualifications,9000,210400,4.3
+6201,Camden,2021,no qualifications,10600,183700,5.8
+6202,Croydon,2021,no qualifications,15400,250500,6.1
+6203,Ealing,2021,no qualifications,16500,225000,7.3
+6204,Enfield,2021,no qualifications,10000,220200,4.5
+6205,Greenwich,2021,no qualifications,8900,202100,4.4
+6206,Hackney,2021,no qualifications,14900,213000,7.0
+6207,Hammersmith and Fulham,2021,no qualifications,2900,127200,2.3
+6208,Haringey,2021,no qualifications,7300,196500,3.7
+6209,Harrow,2021,no qualifications,4700,155300,3.0
+6210,Havering,2021,no qualifications,11500,163900,7.0
+6211,Hillingdon,2021,no qualifications,14600,200200,7.3
+6212,Hounslow,2021,no qualifications,9200,179400,5.1
+6213,Islington,2021,no qualifications,12300,184400,6.7
+6214,Kensington and Chelsea,2021,no qualifications,2700,102100,2.7
+6215,Kingston upon Thames,2021,no qualifications,3500,120400,2.9
+6216,Lambeth,2021,no qualifications,9100,243200,3.7
+6217,Lewisham,2021,no qualifications,13500,221300,6.1
+6218,Merton,2021,no qualifications,3200,139700,2.3
+6219,Newham,2021,no qualifications,15000,244100,6.1
+6220,Redbridge,2021,no qualifications,15000,201600,7.5
+6221,Richmond upon Thames,2021,no qualifications,3700,127100,2.9
+6222,Southwark,2021,no qualifications,15100,234000,6.4
+6223,Sutton,2021,no qualifications,7100,130700,5.4
+6224,Tower Hamlets,2021,no qualifications,15300,239200,6.4
+6225,Waltham Forest,2021,no qualifications,6700,191600,3.5
+6226,Wandsworth,2021,no qualifications,3300,234700,1.4
+6227,Westminster,2021,no qualifications,9400,154100,6.1
+6228,North East,2021,no qualifications,131200,1616200,8.1
+6229,North West,2021,no qualifications,332800,4461900,7.5
+6230,Yorkshire and The Humber,2021,no qualifications,261200,3355800,7.8
+6231,East Midlands,2021,no qualifications,219400,2933000,7.5
+6232,West Midlands,2021,no qualifications,276400,3605200,7.7
+6233,East,2021,no qualifications,215900,3768700,5.7
+6234,London,2021,no qualifications,332900,6095200,5.5
+6235,South East,2021,no qualifications,276100,5560200,5.0
+6236,South West,2021,no qualifications,166300,3324000,5.0
+6237,England,2021,no qualifications,2212200,34720100,6.4
+6238,Wales,2021,no qualifications,156200,1894800,8.2
+6239,Scotland,2021,no qualifications,263800,3405000,7.7
+6240,Northern Ireland,2021,no qualifications,137100,1153800,11.9
+6241,England and Wales,2021,no qualifications,2368400,36614900,6.5
+6242,Great Britain,2021,no qualifications,2632300,40019900,6.6
+6243,United Kingdom,2021,no qualifications,2769400,41173700,6.7
