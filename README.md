@@ -5,7 +5,7 @@ Looking at the qualifications of the Working-Age Population in London (2004 - 20
 
 # File Structure 
 - KCL Powerpoint Presentation 
-- KCL - Qualificatoins by borough PowerBI Report
+- KCL - Qualificatoins by borough - PowerBI Report
 - Working-age.csv
 - transformed.csv
 
